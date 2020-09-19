@@ -2,7 +2,7 @@
   "name": "turkey-yl-district",
   "version": "1.0.0",
   "description": "",
-  "main": "lib/index.js",
+  "main": "lib/src/index.js",
   "scripts": {
     "build": "tsc -p .",
     "release": "standard-version"
