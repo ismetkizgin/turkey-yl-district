@@ -1,0 +1,26 @@
+{
+  "name": "turkey-yl-district",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismetkizgin/turkey-yl-district.git"
+  },
+  "author": "İsmet Kizgin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismetkizgin/turkey-yl-district/issues"
+  },
+  "homepage": "https://github.com/ismetkizgin/turkey-yl-district#readme",
+  "dependencies": {
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
