@@ -23,5 +23,6 @@
   "devDependencies": {
     "standard-version": "^9.0.0",
     "typescript": "^4.0.3"
-  }
+  },
+  "typings": "lib/src/index.d.ts"
 }
