@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/ismetkizgin/turkey-yl-district/compare/v1.1.0...v1.0.2) (2020-09-19)
+
+
+### Bug Fixes
+
+* added typings module path in package.json ([d3e1c5b](https://github.com/ismetkizgin/turkey-yl-district/commit/d3e1c5b6dab3479d9f62d84aa3732c3ab2410ae4))
+* fix for version name ([1d3e3e0](https://github.com/ismetkizgin/turkey-yl-district/commit/1d3e3e0fb840a52ec37a8dbb5d4902a16a54fdbc))
+
 ## 1.0.1 (2020-09-19)
 
 ### Bug Fixes
