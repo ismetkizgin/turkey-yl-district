@@ -1,0 +1,1401 @@
+[
+    {
+        "CityName": "ADANA",
+        "PlatesNo": 1,
+        "Districts": [
+            "ALADAĞ",
+            "CEYHAN",
+            "ÇUKUROVA",
+            "FEKE",
+            "İMAMOĞLU",
+            "KARAİSALI",
+            "KARATAŞ",
+            "KOZAN",
+            "POZANTI",
+            "SAİMBEYLİ",
+            "SARIÇAM",
+            "SEYHAN",
+            "TUFANBEYLİ",
+            "YUMURTALIK",
+            "YÜREĞİR"
+        ]
+    },
+    {
+        "CityName": "ADIYAMAN",
+        "PlatesNo": 2,
+        "Districts": [
+            "BESNİ",
+            "ÇELİKHAN",
+            "GERGER",
+            "GÖLBAŞI",
+            "KAHTA",
+            "MERKEZ",
+            "SAMSAT",
+            "SİNCİK",
+            "TUT"
+        ]
+    },
+    {
+        "CityName": "AFYONKARAHİSAR",
+        "PlatesNo": 3,
+        "Districts": [
+            "BAŞMAKÇI",
+            "BAYAT",
+            "BOLVADİN",
+            "ÇAY",
+            "ÇOBANLAR",
+            "DAZKIRI",
+            "DİNAR",
+            "EMİRDAĞ",
+            "EVCİLER",
+            "HOCALAR",
+            "İHSANİYE",
+            "İSCEHİSAR",
+            "KIZILÖREN",
+            "MERKEZ",
+            "SANDIKLI",
+            "SİNANPAŞA",
+            "SULTANDAĞI",
+            "ŞUHUT"
+        ]
+    },
+    {
+        "CityName": "AĞRI",
+        "PlatesNo": 4,
+        "Districts": [
+            "DİYADİN",
+            "DOĞUBAYAZIT",
+            "ELEŞKİRT",
+            "HAMUR",
+            "MERKEZ",
+            "PATNOS",
+            "TAŞLIÇAY",
+            "TUTAK"
+        ]
+    },
+    {
+        "CityName": "AKSARAY",
+        "PlatesNo": 68,
+        "Districts": [
+            "AĞAÇÖREN",
+            "ESKİL",
+            "GÜLAĞAÇ",
+            "GÜZELYURT",
+            "MERKEZ",
+            "ORTAKÖY",
+            "SARIYAHŞİ",
+            "SULTANHANI"
+        ]
+    },
+    {
+        "CityName": "AMASYA",
+        "PlatesNo": 5,
+        "Districts": [
+            "GÖYNÜCEK",
+            "GÜMÜŞHACIKÖY",
+            "HAMAMÖZÜ",
+            "MERKEZ",
+            "MERZİFON",
+            "SULUOVA",
+            "TAŞOVA"
+        ]
+    },
+    {
+        "CityName": "ANKARA",
+        "PlatesNo": 6,
+        "Districts": [
+            "AKYURT",
+            "ALTINDAĞ",
+            "AYAŞ",
+            "BALA",
+            "BEYPAZARI",
+            "ÇAMLIDERE",
+            "ÇANKAYA",
+            "ÇUBUK",
+            "ELMADAĞ",
+            "ETİMESGUT",
+            "EVREN",
+            "GÖLBAŞI",
+            "GÜDÜL",
+            "HAYMANA",
+            "KAHRAMANKAZAN",
+            "KALECİK",
+            "KEÇİÖREN",
+            "KIZILCAHAMAM",
+            "MAMAK",
+            "NALLIHAN",
+            "POLATLI",
+            "PURSAKLAR",
+            "SİNCAN",
+            "ŞEREFLİKOÇHİSAR",
+            "YENİMAHALLE"
+        ]
+    },
+    {
+        "CityName": "ANTALYA",
+        "PlatesNo": 7,
+        "Districts": [
+            "AKSEKİ",
+            "AKSU",
+            "ALANYA",
+            "DEMRE",
+            "DÖŞEMEALTI",
+            "ELMALI",
+            "FİNİKE",
+            "GAZİPAŞA",
+            "GÜNDOĞMUŞ",
+            "İBRADI",
+            "KAŞ",
+            "KEMER",
+            "KEPEZ",
+            "KONYAALTI",
+            "KORKUTELİ",
+            "KUMLUCA",
+            "MANAVGAT",
+            "MURATPAŞA",
+            "SERİK"
+        ]
+    },
+    {
+        "CityName": "ARDAHAN",
+        "PlatesNo": 75,
+        "Districts": ["ÇILDIR", "DAMAL", "GÖLE", "HANAK", "MERKEZ", "POSOF"]
+    },
+    {
+        "CityName": "ARTVİN",
+        "PlatesNo": 8,
+        "Districts": [
+            "ARDANUÇ",
+            "ARHAVİ",
+            "BORÇKA",
+            "HOPA",
+            "KEMALPAŞA",
+            "MERKEZ",
+            "MURGUL",
+            "ŞAVŞAT",
+            "YUSUFELİ"
+        ]
+    },
+    {
+        "CityName": "AYDIN",
+        "PlatesNo": 9,
+        "Districts": [
+            "BOZDOĞAN",
+            "BUHARKENT",
+            "ÇİNE",
+            "DİDİM",
+            "EFELER",
+            "GERMENCİK",
+            "İNCİRLİOVA",
+            "KARACASU",
+            "KARPUZLU",
+            "KOÇARLI",
+            "KÖŞK",
+            "KUŞADASI",
+            "KUYUCAK",
+            "NAZİLLİ",
+            "SÖKE",
+            "SULTANHİSAR",
+            "YENİPAZAR"
+        ]
+    },
+    {
+        "CityName": "BALIKESİR",
+        "PlatesNo": 10,
+        "Districts": [
+            "ALTIEYLÜL",
+            "AYVALIK",
+            "BALYA",
+            "BANDIRMA",
+            "BİGADİÇ",
+            "BURHANİYE",
+            "DURSUNBEY",
+            "EDREMİT",
+            "ERDEK",
+            "GÖMEÇ",
+            "GÖNEN",
+            "HAVRAN",
+            "İVRİNDİ",
+            "KARESİ",
+            "KEPSUT",
+            "MANYAS",
+            "MARMARA",
+            "SAVAŞTEPE",
+            "SINDIRGI",
+            "SUSURLUK"
+        ]
+    },
+    {
+        "CityName": "BARTIN",
+        "PlatesNo": 74,
+        "Districts": ["AMASRA", "KURUCAŞİLE", "MERKEZ", "ULUS"]
+    },
+    {
+        "CityName": "BATMAN",
+        "PlatesNo": 72,
+        "Districts": ["BEŞİRİ", "GERCÜŞ", "HASANKEYF", "KOZLUK", "MERKEZ", "SASON"]
+    },
+    {
+        "CityName": "BAYBURT",
+        "PlatesNo": 69,
+        "Districts": ["AYDINTEPE", "DEMİRÖZÜ", "MERKEZ"]
+    },
+    {
+        "CityName": "BİLECİK",
+        "PlatesNo": 11,
+        "Districts": [
+            "BOZÜYÜK",
+            "GÖLPAZARI",
+            "İNHİSAR",
+            "MERKEZ",
+            "OSMANELİ",
+            "PAZARYERİ",
+            "SÖĞÜT",
+            "YENİPAZAR"
+        ]
+    },
+    {
+        "CityName": "BİNGÖL",
+        "PlatesNo": 12,
+        "Districts": [
+            "ADAKLI",
+            "GENÇ",
+            "KARLIOVA",
+            "KİĞI",
+            "MERKEZ",
+            "SOLHAN",
+            "YAYLADERE",
+            "YEDİSU"
+        ]
+    },
+    {
+        "CityName": "BİTLİS",
+        "PlatesNo": 13,
+        "Districts": [
+            "ADİLCEVAZ",
+            "AHLAT",
+            "GÜROYMAK",
+            "HİZAN",
+            "MERKEZ",
+            "MUTKİ",
+            "TATVAN"
+        ]
+    },
+    {
+        "CityName": "BOLU",
+        "PlatesNo": 14,
+        "Districts": [
+            "DÖRTDİVAN",
+            "GEREDE",
+            "GÖYNÜK",
+            "KIBRISCIK",
+            "MENGEN",
+            "MERKEZ",
+            "MUDURNU",
+            "SEBEN",
+            "YENİÇAĞA"
+        ]
+    },
+    {
+        "CityName": "BURDUR",
+        "PlatesNo": 15,
+        "Districts": [
+            "AĞLASUN",
+            "ALTINYAYLA",
+            "BUCAK",
+            "ÇAVDIR",
+            "ÇELTİKÇİ",
+            "GÖLHİSAR",
+            "KARAMANLI",
+            "KEMER",
+            "MERKEZ",
+            "TEFENNİ",
+            "YEŞİLOVA"
+        ]
+    },
+    {
+        "CityName": "BURSA",
+        "PlatesNo": 16,
+        "Districts": [
+            "BÜYÜKORHAN",
+            "GEMLİK",
+            "GÜRSU",
+            "HARMANCIK",
+            "İNEGÖL",
+            "İZNİK",
+            "KARACABEY",
+            "KELES",
+            "KESTEL",
+            "MUDANYA",
+            "MUSTAFAKEMALPAŞA",
+            "NİLÜFER",
+            "ORHANELİ",
+            "ORHANGAZİ",
+            "OSMANGAZİ",
+            "YENİŞEHİR",
+            "YILDIRIM"
+        ]
+    },
+    {
+        "CityName": "ÇANAKKALE",
+        "PlatesNo": 17,
+        "Districts": [
+            "AYVACIK",
+            "BAYRAMİÇ",
+            "BİGA",
+            "BOZCAADA",
+            "ÇAN",
+            "ECEABAT",
+            "EZİNE",
+            "GELİBOLU",
+            "GÖKÇEADA",
+            "LAPSEKİ",
+            "MERKEZ",
+            "YENİCE"
+        ]
+    },
+    {
+        "CityName": "ÇANKIRI",
+        "PlatesNo": 18,
+        "Districts": [
+            "ATKARACALAR",
+            "BAYRAMÖREN",
+            "ÇERKEŞ",
+            "ELDİVAN",
+            "ILGAZ",
+            "KIZILIRMAK",
+            "KORGUN",
+            "KURŞUNLU",
+            "MERKEZ",
+            "ORTA",
+            "ŞABANÖZÜ",
+            "YAPRAKLI"
+        ]
+    },
+    {
+        "CityName": "ÇORUM",
+        "PlatesNo": 19,
+        "Districts": [
+            "ALACA",
+            "BAYAT",
+            "BOĞAZKALE",
+            "DODURGA",
+            "İSKİLİP",
+            "KARGI",
+            "LAÇİN",
+            "MECİTÖZÜ",
+            "MERKEZ",
+            "OĞUZLAR",
+            "ORTAKÖY",
+            "OSMANCIK",
+            "SUNGURLU",
+            "UĞURLUDAĞ"
+        ]
+    },
+    {
+        "CityName": "DENİZLİ",
+        "PlatesNo": 20,
+        "Districts": [
+            "ACIPAYAM",
+            "BABADAĞ",
+            "BAKLAN",
+            "BEKİLLİ",
+            "BEYAĞAÇ",
+            "BOZKURT",
+            "BULDAN",
+            "ÇAL",
+            "ÇAMELİ",
+            "ÇARDAK",
+            "ÇİVRİL",
+            "GÜNEY",
+            "HONAZ",
+            "KALE",
+            "MERKEZEFENDİ",
+            "PAMUKKALE",
+            "SARAYKÖY",
+            "SERİNHİSAR",
+            "TAVAS"
+        ]
+    },
+    {
+        "CityName": "DİYARBAKIR",
+        "PlatesNo": 21,
+        "Districts": [
+            "BAĞLAR",
+            "BİSMİL",
+            "ÇERMİK",
+            "ÇINAR",
+            "ÇÜNGÜŞ",
+            "DİCLE",
+            "EĞİL",
+            "ERGANİ",
+            "HANİ",
+            "HAZRO",
+            "KAYAPINAR",
+            "KOCAKÖY",
+            "KULP",
+            "LİCE",
+            "SİLVAN",
+            "SUR",
+            "YENİŞEHİR"
+        ]
+    },
+    {
+        "CityName": "DÜZCE",
+        "PlatesNo": 81,
+        "Districts": [
+            "AKÇAKOCA",
+            "CUMAYERİ",
+            "ÇİLİMLİ",
+            "GÖLYAKA",
+            "GÜMÜŞOVA",
+            "KAYNAŞLI",
+            "MERKEZ",
+            "YIĞILCA"
+        ]
+    },
+    {
+        "CityName": "EDİRNE",
+        "PlatesNo": 22,
+        "Districts": [
+            "ENEZ",
+            "HAVSA",
+            "İPSALA",
+            "KEŞAN",
+            "LALAPAŞA",
+            "MERİÇ",
+            "MERKEZ",
+            "SÜLOĞLU",
+            "UZUNKÖPRÜ"
+        ]
+    },
+    {
+        "CityName": "ELAZIĞ",
+        "PlatesNo": 23,
+        "Districts": [
+            "AĞIN",
+            "ALACAKAYA",
+            "ARICAK",
+            "BASKİL",
+            "KARAKOÇAN",
+            "KEBAN",
+            "KOVANCILAR",
+            "MADEN",
+            "MERKEZ",
+            "PALU",
+            "SİVRİCE"
+        ]
+    },
+    {
+        "CityName": "ERZİNCAN",
+        "PlatesNo": 24,
+        "Districts": [
+            "ÇAYIRLI",
+            "İLİÇ",
+            "KEMAH",
+            "KEMALİYE",
+            "MERKEZ",
+            "OTLUKBELİ",
+            "REFAHİYE",
+            "TERCAN",
+            "ÜZÜMLÜ"
+        ]
+    },
+    {
+        "CityName": "ERZURUM",
+        "PlatesNo": 25,
+        "Districts": [
+            "AŞKALE",
+            "AZİZİYE",
+            "ÇAT",
+            "HINIS",
+            "HORASAN",
+            "İSPİR",
+            "KARAÇOBAN",
+            "KARAYAZI",
+            "KÖPRÜKÖY",
+            "NARMAN",
+            "OLTU",
+            "OLUR",
+            "PALANDÖKEN",
+            "PASİNLER",
+            "PAZARYOLU",
+            "ŞENKAYA",
+            "TEKMAN",
+            "TORTUM",
+            "UZUNDERE",
+            "YAKUTİYE"
+        ]
+    },
+    {
+        "CityName": "ESKİŞEHİR",
+        "PlatesNo": 26,
+        "Districts": [
+            "ALPU",
+            "BEYLİKOVA",
+            "ÇİFTELER",
+            "GÜNYÜZÜ",
+            "HAN",
+            "İNÖNÜ",
+            "MAHMUDİYE",
+            "MİHALGAZİ",
+            "MİHALIÇÇIK",
+            "ODUNPAZARI",
+            "SARICAKAYA",
+            "SEYİTGAZİ",
+            "SİVRİHİSAR",
+            "TEPEBAŞI"
+        ]
+    },
+    {
+        "CityName": "GAZİANTEP",
+        "PlatesNo": 27,
+        "Districts": [
+            "ARABAN",
+            "İSLAHİYE",
+            "KARKAMIŞ",
+            "NİZİP",
+            "NURDAĞI",
+            "OĞUZELİ",
+            "ŞAHİNBEY",
+            "ŞEHİTKAMİL",
+            "YAVUZELİ"
+        ]
+    },
+    {
+        "CityName": "GİRESUN",
+        "PlatesNo": 28,
+        "Districts": [
+            "ALUCRA",
+            "BULANCAK",
+            "ÇAMOLUK",
+            "ÇANAKÇI",
+            "DERELİ",
+            "DOĞANKENT",
+            "ESPİYE",
+            "EYNESİL",
+            "GÖRELE",
+            "GÜCE",
+            "KEŞAP",
+            "MERKEZ",
+            "PİRAZİZ",
+            "ŞEBİNKARAHİSAR",
+            "TİREBOLU",
+            "YAĞLIDERE"
+        ]
+    },
+    {
+        "CityName": "GÜMÜŞHANE",
+        "PlatesNo": 29,
+        "Districts": ["KELKİT", "KÖSE", "KÜRTÜN", "MERKEZ", "ŞİRAN", "TORUL"]
+    },
+    {
+        "CityName": "HAKKARİ",
+        "PlatesNo": 30,
+        "Districts": ["ÇUKURCA", "DERECİK", "MERKEZ", "ŞEMDİNLİ", "YÜKSEKOVA"]
+    },
+    {
+        "CityName": "HATAY",
+        "PlatesNo": 31,
+        "Districts": [
+            "ALTINÖZÜ",
+            "ANTAKYA",
+            "ARSUZ",
+            "BELEN",
+            "DEFNE",
+            "DÖRTYOL",
+            "ERZİN",
+            "HASSA",
+            "İSKENDERUN",
+            "KIRIKHAN",
+            "KUMLU",
+            "PAYAS",
+            "REYHANLI",
+            "SAMANDAĞ",
+            "YAYLADAĞI"
+        ]
+    },
+    {
+        "CityName": "IĞDIR",
+        "PlatesNo": 76,
+        "Districts": ["ARALIK", "KARAKOYUNLU", "MERKEZ", "TUZLUCA"]
+    },
+    {
+        "CityName": "ISPARTA",
+        "PlatesNo": 32,
+        "Districts": [
+            "AKSU",
+            "ATABEY",
+            "EĞİRDİR",
+            "GELENDOST",
+            "GÖNEN",
+            "KEÇİBORLU",
+            "MERKEZ",
+            "SENİRKENT",
+            "SÜTÇÜLER",
+            "ŞARKİKARAAĞAÇ",
+            "ULUBORLU",
+            "YALVAÇ",
+            "YENİŞARBADEMLİ"
+        ]
+    },
+    {
+        "CityName": "İSTANBUL",
+        "PlatesNo": 34,
+        "Districts": [
+            "ADALAR",
+            "ARNAVUTKÖY",
+            "ATAŞEHİR",
+            "AVCILAR",
+            "BAĞCILAR",
+            "BAHÇELİEVLER",
+            "BAKIRKÖY",
+            "BAŞAKŞEHİR",
+            "BAYRAMPAŞA",
+            "BEŞİKTAŞ",
+            "BEYKOZ",
+            "BEYLİKDÜZÜ",
+            "BEYOĞLU",
+            "BÜYÜKÇEKMECE",
+            "ÇATALCA",
+            "ÇEKMEKÖY",
+            "ESENLER",
+            "ESENYURT",
+            "EYÜPSULTAN",
+            "FATİH",
+            "GAZİOSMANPAŞA",
+            "GÜNGÖREN",
+            "KADIKÖY",
+            "KAĞITHANE",
+            "KARTAL",
+            "KÜÇÜKÇEKMECE",
+            "MALTEPE",
+            "PENDİK",
+            "SANCAKTEPE",
+            "SARIYER",
+            "SİLİVRİ",
+            "SULTANBEYLİ",
+            "SULTANGAZİ",
+            "ŞİLE",
+            "ŞİŞLİ",
+            "TUZLA",
+            "ÜMRANİYE",
+            "ÜSKÜDAR",
+            "ZEYTİNBURNU"
+        ]
+    },
+    {
+        "CityName": "İZMİR",
+        "PlatesNo": 35,
+        "Districts": [
+            "ALİAĞA",
+            "BALÇOVA",
+            "BAYINDIR",
+            "BAYRAKLI",
+            "BERGAMA",
+            "BEYDAĞ",
+            "BORNOVA",
+            "BUCA",
+            "ÇEŞME",
+            "ÇİĞLİ",
+            "DİKİLİ",
+            "FOÇA",
+            "GAZİEMİR",
+            "GÜZELBAHÇE",
+            "KARABAĞLAR",
+            "KARABURUN",
+            "KARŞIYAKA",
+            "KEMALPAŞA",
+            "KINIK",
+            "KİRAZ",
+            "KONAK",
+            "MENDERES",
+            "MENEMEN",
+            "NARLIDERE",
+            "ÖDEMİŞ",
+            "SEFERİHİSAR",
+            "SELÇUK",
+            "TİRE",
+            "TORBALI",
+            "URLA"
+        ]
+    },
+    {
+        "CityName": "KAHRAMANMARAŞ",
+        "PlatesNo": 46,
+        "Districts": [
+            "AFŞİN",
+            "ANDIRIN",
+            "ÇAĞLAYANCERİT",
+            "DULKADİROĞLU",
+            "EKİNÖZÜ",
+            "ELBİSTAN",
+            "GÖKSUN",
+            "NURHAK",
+            "ONİKİŞUBAT",
+            "PAZARCIK",
+            "TÜRKOĞLU"
+        ]
+    },
+    {
+        "CityName": "KARABÜK",
+        "PlatesNo": 78,
+        "Districts": [
+            "EFLANİ",
+            "ESKİPAZAR",
+            "MERKEZ",
+            "OVACIK",
+            "SAFRANBOLU",
+            "YENİCE"
+        ]
+    },
+    {
+        "CityName": "KARAMAN",
+        "PlatesNo": 70,
+        "Districts": [
+            "AYRANCI",
+            "BAŞYAYLA",
+            "ERMENEK",
+            "KAZIMKARABEKİR",
+            "MERKEZ",
+            "SARIVELİLER"
+        ]
+    },
+    {
+        "CityName": "KARS",
+        "PlatesNo": 36,
+        "Districts": [
+            "AKYAKA",
+            "ARPAÇAY",
+            "DİGOR",
+            "KAĞIZMAN",
+            "MERKEZ",
+            "SARIKAMIŞ",
+            "SELİM",
+            "SUSUZ"
+        ]
+    },
+    {
+        "CityName": "KASTAMONU",
+        "PlatesNo": 37,
+        "Districts": [
+            "ABANA",
+            "AĞLI",
+            "ARAÇ",
+            "AZDAVAY",
+            "BOZKURT",
+            "CİDE",
+            "ÇATALZEYTİN",
+            "DADAY",
+            "DEVREKANİ",
+            "DOĞANYURT",
+            "HANÖNÜ",
+            "İHSANGAZİ",
+            "İNEBOLU",
+            "KÜRE",
+            "MERKEZ",
+            "PINARBAŞI",
+            "SEYDİLER",
+            "ŞENPAZAR",
+            "TAŞKÖPRÜ",
+            "TOSYA"
+        ]
+    },
+    {
+        "CityName": "KAYSERİ",
+        "PlatesNo": 38,
+        "Districts": [
+            "AKKIŞLA",
+            "BÜNYAN",
+            "DEVELİ",
+            "FELAHİYE",
+            "HACILAR",
+            "İNCESU",
+            "KOCASİNAN",
+            "MELİKGAZİ",
+            "ÖZVATAN",
+            "PINARBAŞI",
+            "SARIOĞLAN",
+            "SARIZ",
+            "TALAS",
+            "TOMARZA",
+            "YAHYALI",
+            "YEŞİLHİSAR"
+        ]
+    },
+    {
+        "CityName": "KIRIKKALE",
+        "PlatesNo": 71,
+        "Districts": [
+            "BAHŞILI",
+            "BALIŞEYH",
+            "ÇELEBİ",
+            "DELİCE",
+            "KARAKEÇİLİ",
+            "KESKİN",
+            "MERKEZ",
+            "SULAKYURT",
+            "YAHŞİHAN"
+        ]
+    },
+    {
+        "CityName": "KIRKLARELİ",
+        "PlatesNo": 39,
+        "Districts": [
+            "BABAESKİ",
+            "DEMİRKÖY",
+            "KOFÇAZ",
+            "LÜLEBURGAZ",
+            "MERKEZ",
+            "PEHLİVANKÖY",
+            "PINARHİSAR",
+            "VİZE"
+        ]
+    },
+    {
+        "CityName": "KIRŞEHİR",
+        "PlatesNo": 40,
+        "Districts": [
+            "AKÇAKENT",
+            "AKPINAR",
+            "BOZTEPE",
+            "ÇİÇEKDAĞI",
+            "KAMAN",
+            "MERKEZ",
+            "MUCUR"
+        ]
+    },
+    {
+        "CityName": "KİLİS",
+        "PlatesNo": 79,
+        "Districts": ["ELBEYLİ", "MERKEZ", "MUSABEYLİ", "POLATELİ"]
+    },
+    {
+        "CityName": "KOCAELİ",
+        "PlatesNo": 41,
+        "Districts": [
+            "BAŞİSKELE",
+            "ÇAYIROVA",
+            "DARICA",
+            "DERİNCE",
+            "DİLOVASI",
+            "GEBZE",
+            "GÖLCÜK",
+            "İZMİT",
+            "KANDIRA",
+            "KARAMÜRSEL",
+            "KARTEPE",
+            "KÖRFEZ"
+        ]
+    },
+    {
+        "CityName": "KONYA",
+        "PlatesNo": 42,
+        "Districts": [
+            "AHIRLI",
+            "AKÖREN",
+            "AKŞEHİR",
+            "ALTINEKİN",
+            "BEYŞEHİR",
+            "BOZKIR",
+            "CİHANBEYLİ",
+            "ÇELTİK",
+            "ÇUMRA",
+            "DERBENT",
+            "DEREBUCAK",
+            "DOĞANHİSAR",
+            "EMİRGAZİ",
+            "EREĞLİ",
+            "GÜNEYSINIR",
+            "HADİM",
+            "HALKAPINAR",
+            "HÜYÜK",
+            "ILGIN",
+            "KADINHANI",
+            "KARAPINAR",
+            "KARATAY",
+            "KULU",
+            "MERAM",
+            "SARAYÖNÜ",
+            "SELÇUKLU",
+            "SEYDİŞEHİR",
+            "TAŞKENT",
+            "TUZLUKÇU",
+            "YALIHÜYÜK",
+            "YUNAK"
+        ]
+    },
+    {
+        "CityName": "KÜTAHYA",
+        "PlatesNo": 43,
+        "Districts": [
+            "ALTINTAŞ",
+            "ASLANAPA",
+            "ÇAVDARHİSAR",
+            "DOMANİÇ",
+            "DUMLUPINAR",
+            "EMET",
+            "GEDİZ",
+            "HİSARCIK",
+            "MERKEZ",
+            "PAZARLAR",
+            "SİMAV",
+            "ŞAPHANE",
+            "TAVŞANLI"
+        ]
+    },
+    {
+        "CityName": "MALATYA",
+        "PlatesNo": 44,
+        "Districts": [
+            "AKÇADAĞ",
+            "ARAPGİR",
+            "ARGUVAN",
+            "BATTALGAZİ",
+            "DARENDE",
+            "DOĞANŞEHİR",
+            "DOĞANYOL",
+            "HEKİMHAN",
+            "KALE",
+            "KULUNCAK",
+            "PÜTÜRGE",
+            "YAZIHAN",
+            "YEŞİLYURT"
+        ]
+    },
+    {
+        "CityName": "MANİSA",
+        "PlatesNo": 45,
+        "Districts": [
+            "AHMETLİ",
+            "AKHİSAR",
+            "ALAŞEHİR",
+            "DEMİRCİ",
+            "GÖLMARMARA",
+            "GÖRDES",
+            "KIRKAĞAÇ",
+            "KÖPRÜBAŞI",
+            "KULA",
+            "SALİHLİ",
+            "SARIGÖL",
+            "SARUHANLI",
+            "SELENDİ",
+            "SOMA",
+            "ŞEHZADELER",
+            "TURGUTLU",
+            "YUNUSEMRE"
+        ]
+    },
+    {
+        "CityName": "MARDİN",
+        "PlatesNo": 47,
+        "Districts": [
+            "ARTUKLU",
+            "DARGEÇİT",
+            "DERİK",
+            "KIZILTEPE",
+            "MAZIDAĞI",
+            "MİDYAT",
+            "NUSAYBİN",
+            "ÖMERLİ",
+            "SAVUR",
+            "YEŞİLLİ"
+        ]
+    },
+    {
+        "CityName": "MERSİN",
+        "PlatesNo": 33,
+        "Districts": [
+            "AKDENİZ",
+            "ANAMUR",
+            "AYDINCIK",
+            "BOZYAZI",
+            "ÇAMLIYAYLA",
+            "ERDEMLİ",
+            "GÜLNAR",
+            "MEZİTLİ",
+            "MUT",
+            "SİLİFKE",
+            "TARSUS",
+            "TOROSLAR",
+            "YENİŞEHİR"
+        ]
+    },
+    {
+        "CityName": "MUĞLA",
+        "PlatesNo": 48,
+        "Districts": [
+            "BODRUM",
+            "DALAMAN",
+            "DATÇA",
+            "FETHİYE",
+            "KAVAKLIDERE",
+            "KÖYCEĞİZ",
+            "MARMARİS",
+            "MENTEŞE",
+            "MİLAS",
+            "ORTACA",
+            "SEYDİKEMER",
+            "ULA",
+            "YATAĞAN"
+        ]
+    },
+    {
+        "CityName": "MUŞ",
+        "PlatesNo": 49,
+        "Districts": ["BULANIK", "HASKÖY", "KORKUT", "MALAZGİRT", "MERKEZ", "VARTO"]
+    },
+    {
+        "CityName": "NEVŞEHİR",
+        "PlatesNo": 50,
+        "Districts": [
+            "ACIGÖL",
+            "AVANOS",
+            "DERİNKUYU",
+            "GÜLŞEHİR",
+            "HACIBEKTAŞ",
+            "KOZAKLI",
+            "MERKEZ",
+            "ÜRGÜP"
+        ]
+    },
+    {
+        "CityName": "NİĞDE",
+        "PlatesNo": 51,
+        "Districts": [
+            "ALTUNHİSAR",
+            "BOR",
+            "ÇAMARDI",
+            "ÇİFTLİK",
+            "MERKEZ",
+            "ULUKIŞLA"
+        ]
+    },
+    {
+        "CityName": "ORDU",
+        "PlatesNo": 52,
+        "Districts": [
+            "AKKUŞ",
+            "ALTINORDU",
+            "AYBASTI",
+            "ÇAMAŞ",
+            "ÇATALPINAR",
+            "ÇAYBAŞI",
+            "FATSA",
+            "GÖLKÖY",
+            "GÜLYALI",
+            "GÜRGENTEPE",
+            "İKİZCE",
+            "KABADÜZ",
+            "KABATAŞ",
+            "KORGAN",
+            "KUMRU",
+            "MESUDİYE",
+            "PERŞEMBE",
+            "ULUBEY",
+            "ÜNYE"
+        ]
+    },
+    {
+        "CityName": "OSMANİYE",
+        "PlatesNo": 80,
+        "Districts": [
+            "BAHÇE",
+            "DÜZİÇİ",
+            "HASANBEYLİ",
+            "KADİRLİ",
+            "MERKEZ",
+            "SUMBAS",
+            "TOPRAKKALE"
+        ]
+    },
+    {
+        "CityName": "RİZE",
+        "PlatesNo": 53,
+        "Districts": [
+            "ARDEŞEN",
+            "ÇAMLIHEMŞİN",
+            "ÇAYELİ",
+            "DEREPAZARI",
+            "FINDIKLI",
+            "GÜNEYSU",
+            "HEMŞİN",
+            "İKİZDERE",
+            "İYİDERE",
+            "KALKANDERE",
+            "MERKEZ",
+            "PAZAR"
+        ]
+    },
+    {
+        "CityName": "SAKARYA",
+        "PlatesNo": 54,
+        "Districts": [
+            "ADAPAZARI",
+            "AKYAZI",
+            "ARİFİYE",
+            "ERENLER",
+            "FERİZLİ",
+            "GEYVE",
+            "HENDEK",
+            "KARAPÜRÇEK",
+            "KARASU",
+            "KAYNARCA",
+            "KOCAALİ",
+            "PAMUKOVA",
+            "SAPANCA",
+            "SERDİVAN",
+            "SÖĞÜTLÜ",
+            "TARAKLI"
+        ]
+    },
+    {
+        "CityName": "SAMSUN",
+        "PlatesNo": 55,
+        "Districts": [
+            "19 MAYIS",
+            "ALAÇAM",
+            "ASARCIK",
+            "ATAKUM",
+            "AYVACIK",
+            "BAFRA",
+            "CANİK",
+            "ÇARŞAMBA",
+            "HAVZA",
+            "İLKADIM",
+            "KAVAK",
+            "LADİK",
+            "SALIPAZARI",
+            "TEKKEKÖY",
+            "TERME",
+            "VEZİRKÖPRÜ",
+            "YAKAKENT"
+        ]
+    },
+    {
+        "CityName": "SİİRT",
+        "PlatesNo": 56,
+        "Districts": [
+            "BAYKAN",
+            "ERUH",
+            "KURTALAN",
+            "MERKEZ",
+            "PERVARİ",
+            "ŞİRVAN",
+            "TİLLO"
+        ]
+    },
+    {
+        "CityName": "SİNOP",
+        "PlatesNo": 57,
+        "Districts": [
+            "AYANCIK",
+            "BOYABAT",
+            "DİKMEN",
+            "DURAĞAN",
+            "ERFELEK",
+            "GERZE",
+            "MERKEZ",
+            "SARAYDÜZÜ",
+            "TÜRKELİ"
+        ]
+    },
+    {
+        "CityName": "SİVAS",
+        "PlatesNo": 58,
+        "Districts": [
+            "AKINCILAR",
+            "ALTINYAYLA",
+            "DİVRİĞİ",
+            "DOĞANŞAR",
+            "GEMEREK",
+            "GÖLOVA",
+            "GÜRÜN",
+            "HAFİK",
+            "İMRANLI",
+            "KANGAL",
+            "KOYULHİSAR",
+            "MERKEZ",
+            "SUŞEHRİ",
+            "ŞARKIŞLA",
+            "ULAŞ",
+            "YILDIZELİ",
+            "ZARA"
+        ]
+    },
+    {
+        "CityName": "ŞANLIURFA",
+        "PlatesNo": 63,
+        "Districts": [
+            "AKÇAKALE",
+            "BİRECİK",
+            "BOZOVA",
+            "CEYLANPINAR",
+            "EYYÜBİYE",
+            "HALFETİ",
+            "HALİLİYE",
+            "HARRAN",
+            "HİLVAN",
+            "KARAKÖPRÜ",
+            "SİVEREK",
+            "SURUÇ",
+            "VİRANŞEHİR"
+        ]
+    },
+    {
+        "CityName": "ŞIRNAK",
+        "PlatesNo": 73,
+        "Districts": [
+            "BEYTÜŞŞEBAP",
+            "CİZRE",
+            "GÜÇLÜKONAK",
+            "İDİL",
+            "MERKEZ",
+            "SİLOPİ",
+            "ULUDERE"
+        ]
+    },
+    {
+        "CityName": "TEKİRDAĞ",
+        "PlatesNo": 59,
+        "Districts": [
+            "ÇERKEZKÖY",
+            "ÇORLU",
+            "ERGENE",
+            "HAYRABOLU",
+            "KAPAKLI",
+            "MALKARA",
+            "MARMARAEREĞLİSİ",
+            "MURATLI",
+            "SARAY",
+            "SÜLEYMANPAŞA",
+            "ŞARKÖY"
+        ]
+    },
+    {
+        "CityName": "TOKAT",
+        "PlatesNo": 60,
+        "Districts": [
+            "ALMUS",
+            "ARTOVA",
+            "BAŞÇİFTLİK",
+            "ERBAA",
+            "MERKEZ",
+            "NİKSAR",
+            "PAZAR",
+            "REŞADİYE",
+            "SULUSARAY",
+            "TURHAL",
+            "YEŞİLYURT",
+            "ZİLE"
+        ]
+    },
+    {
+        "CityName": "TRABZON",
+        "PlatesNo": 61,
+        "Districts": [
+            "AKÇAABAT",
+            "ARAKLI",
+            "ARSİN",
+            "BEŞİKDÜZÜ",
+            "ÇARŞIBAŞI",
+            "ÇAYKARA",
+            "DERNEKPAZARI",
+            "DÜZKÖY",
+            "HAYRAT",
+            "KÖPRÜBAŞI",
+            "MAÇKA",
+            "OF",
+            "ORTAHİSAR",
+            "SÜRMENE",
+            "ŞALPAZARI",
+            "TONYA",
+            "VAKFIKEBİR",
+            "YOMRA"
+        ]
+    },
+    {
+        "CityName": "TUNCELİ",
+        "PlatesNo": 62,
+        "Districts": [
+            "ÇEMİŞGEZEK",
+            "HOZAT",
+            "MAZGİRT",
+            "MERKEZ",
+            "NAZIMİYE",
+            "OVACIK",
+            "PERTEK",
+            "PÜLÜMÜR"
+        ]
+    },
+    {
+        "CityName": "UŞAK",
+        "PlatesNo": 64,
+        "Districts": ["BANAZ", "EŞME", "KARAHALLI", "MERKEZ", "SİVASLI", "ULUBEY"]
+    },
+    {
+        "CityName": "VAN",
+        "PlatesNo": 65,
+        "Districts": [
+            "BAHÇESARAY",
+            "BAŞKALE",
+            "ÇALDIRAN",
+            "ÇATAK",
+            "EDREMİT",
+            "ERCİŞ",
+            "GEVAŞ",
+            "GÜRPINAR",
+            "İPEKYOLU",
+            "MURADİYE",
+            "ÖZALP",
+            "SARAY",
+            "TUŞBA"
+        ]
+    },
+    {
+        "CityName": "YALOVA",
+        "PlatesNo": 77,
+        "Districts": [
+            "ALTINOVA",
+            "ARMUTLU",
+            "ÇINARCIK",
+            "ÇİFTLİKKÖY",
+            "MERKEZ",
+            "TERMAL"
+        ]
+    },
+    {
+        "CityName": "YOZGAT",
+        "PlatesNo": 66,
+        "Districts": [
+            "AKDAĞMADENİ",
+            "AYDINCIK",
+            "BOĞAZLIYAN",
+            "ÇANDIR",
+            "ÇAYIRALAN",
+            "ÇEKEREK",
+            "KADIŞEHRİ",
+            "MERKEZ",
+            "SARAYKENT",
+            "SARIKAYA",
+            "SORGUN",
+            "ŞEFAATLİ",
+            "YENİFAKILI",
+            "YERKÖY"
+        ]
+    },
+    {
+        "CityName": "ZONGULDAK",
+        "PlatesNo": 67,
+        "Districts": [
+            "ALAPLI",
+            "ÇAYCUMA",
+            "DEVREK",
+            "EREĞLİ",
+            "GÖKÇEBEY",
+            "KİLİMLİ",
+            "KOZLU",
+            "MERKEZ"
+        ]
+    }
+]
