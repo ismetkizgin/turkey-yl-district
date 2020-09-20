@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/ismetkizgin/turkey-yl-district/compare/v1.0.2...v1.0.4) (2020-09-20)
+
+
+### Bug Fixes
+
+* fix for optimization ([d07f134](https://github.com/ismetkizgin/turkey-yl-district/commit/d07f134e320aa2dade26544fa1681f4cbdf8e709))
+
 ### [1.0.3](https://github.com/ismetkizgin/turkey-yl-district/compare/v1.0.2...v1.0.3) (2020-09-20)
 
 
