@@ -1,4 +1,4 @@
-[
+export const CityNames: object = [
   "ADANA",
   "ADIYAMAN",
   "AFYONKARAHİSAR",
@@ -79,5 +79,5 @@
   "VAN",
   "YALOVA",
   "YOZGAT",
-  "ZONGULDAK"
-]
+  "ZONGULDAK",
+];

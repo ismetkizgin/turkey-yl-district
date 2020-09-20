@@ -1,6 +1,6 @@
-{
-  "ADANA": {
-    "ALADAĞ": [
+export const Neighbourhoods = {
+  ADANA: {
+    ALADAĞ: [
       "AKPINAR MAH",
       "BAŞPINAR MAH",
       "MANSURLU MAH",
@@ -31,9 +31,9 @@
       "TOPALLI MAH",
       "UZUNKUYU MAH",
       "YETİMLİ MAH",
-      "YÜKSEKÖREN MAH"
+      "YÜKSEKÖREN MAH",
     ],
-    "CEYHAN": [
+    CEYHAN: [
       "ADAPINAR MAH",
       "ADATEPE MAH",
       "AĞAÇLI MAH",
@@ -146,9 +146,9 @@
       "ULUS MAH",
       "YARSUAT MAH",
       "ZÜBEYDE HANIM MAH",
-      "MUSTAFABEYLİ MAH"
+      "MUSTAFABEYLİ MAH",
     ],
-    "ÇUKUROVA": [
+    ÇUKUROVA: [
       "BELEDİYE EVLERİ MAH",
       "HUZUREVLERİ MAH",
       "YÜZÜNCÜYIL MAH",
@@ -175,9 +175,9 @@
       "TOROS MAH",
       "YENİ MAH",
       "YURT MAH",
-      "SALBAŞ ESENTEPE MAH"
+      "SALBAŞ ESENTEPE MAH",
     ],
-    "FEKE": [
+    FEKE: [
       "AKKAYA MAH",
       "AKOLUK MAH",
       "BAĞDATLI MAH",
@@ -225,9 +225,9 @@
       "KAZANCI MAH",
       "KEKLİKÇİ MAH",
       "SÜLEMİŞLİ MAH",
-      "YEŞİL DÜŞMÜŞ MAH"
+      "YEŞİL DÜŞMÜŞ MAH",
     ],
-    "İMAMOĞLU": [
+    İMAMOĞLU: [
       "ADALET MAH",
       "CUMHURİYET MAH",
       "FATİH MAH",
@@ -254,9 +254,9 @@
       "ULUÇINAR MAH",
       "ÜÇTEPE MAH",
       "YAZITEPE MAH",
-      "YENİEVLER MAH"
+      "YENİEVLER MAH",
     ],
-    "KARAİSALI": [
+    KARAİSALI: [
       "AKÇALI MAH",
       "AKTAŞ MAH",
       "ALTINOVA MAH",
@@ -318,9 +318,9 @@
       "TOPKARALI MAH",
       "TORUNSOLAKLI MAH",
       "TÜMENLİ MAH",
-      "YAZIBAŞI MAH"
+      "YAZIBAŞI MAH",
     ],
-    "KARATAŞ": [
+    KARATAŞ: [
       "ADALI MAH",
       "ATAKÖY MAH",
       "BAHÇE MAH",
@@ -363,9 +363,9 @@
       "YEMİŞLİ MAH",
       "YENİ MAH",
       "YENİMURAT MAH",
-      "YÜZBAŞI MAH"
+      "YÜZBAŞI MAH",
     ],
-    "KOZAN": [
+    KOZAN: [
       "GAZİ MAH",
       "HACIBEYLİ MAH",
       "ACARMANTAŞ MAH",
@@ -468,9 +468,9 @@
       "TUFANPAŞA MAH",
       "TÜRKELİ MAH",
       "VARSAKLAR MAH",
-      "YARIMOĞLU MAH"
+      "YARIMOĞLU MAH",
     ],
-    "POZANTI": [
+    POZANTI: [
       "AKÇATEKİR MAH",
       "ALPU MAH",
       "AŞÇIBEKİRLİ MAH",
@@ -491,9 +491,9 @@
       "CUMHURİYET MAH",
       "İSTİKLAL MAH",
       "KURTULUŞ MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "SAİMBEYLİ": [
+    SAİMBEYLİ: [
       "AKSAAĞAÇ MAH",
       "AVCIPINARI MAH",
       "AYVACIK MAH",
@@ -521,9 +521,9 @@
       "TÜLÜ MAH",
       "YARDİBİ MAH",
       "YENİKÖY MAH",
-      "YEŞİLBAĞLAR MAH"
+      "YEŞİLBAĞLAR MAH",
     ],
-    "SARIÇAM": [
+    SARIÇAM: [
       "ACIDEREOSB MAH",
       "BEYCELİ MAH",
       "BURUK CUMHURİYET MAH",
@@ -592,9 +592,9 @@
       "ŞAHİNTEPE MAH",
       "YAVUZ SULTAN SELİM MAH",
       "YEŞİLTEPE MAH",
-      "YILDIRIM BEYAZIT MAH"
+      "YILDIRIM BEYAZIT MAH",
     ],
-    "SEYHAN": [
+    SEYHAN: [
       "AKKAPI MAH",
       "DAĞLIOĞLU MAH",
       "AHMET REMZİ YÜREĞİR MAH",
@@ -690,9 +690,9 @@
       "GAZİPAŞA MAH",
       "NAMIK KEMAL MAH",
       "SÜMER MAH",
-      "ZİYAPAŞA MAH"
+      "ZİYAPAŞA MAH",
     ],
-    "TUFANBEYLİ": [
+    TUFANBEYLİ: [
       "AKÇAL MAH",
       "AKPINAR MAH",
       "AYVAT MAH",
@@ -725,9 +725,9 @@
       "YEŞİLOVA MAH",
       "CUMHURİYET MAH",
       "İSTİKLAL MAH",
-      "YENİCAMİ MAH"
+      "YENİCAMİ MAH",
     ],
-    "YUMURTALIK": [
+    YUMURTALIK: [
       "ASMALI MAH",
       "AYVALIK MAH",
       "DEMİRTAŞ MAH",
@@ -751,9 +751,9 @@
       "AYAS MAH",
       "DEVRİŞİYE MAH",
       "KEMALPAŞA MAH",
-      "ÖREN MAH"
+      "ÖREN MAH",
     ],
-    "YÜREĞİR": [
+    YÜREĞİR: [
       "YAKAPINAR MAH",
       "ABDİOĞLU CUMHURİYET MAH",
       "AĞZIBÜYÜK MAH",
@@ -860,11 +860,11 @@
       "ÖZGÜR MAH",
       "SARIÇAM MAH",
       "SİNANPAŞA MAH",
-      "YAVUZLAR MAH"
-    ]
+      "YAVUZLAR MAH",
+    ],
   },
-  "ADIYAMAN": {
-    "BESNİ": [
+  ADIYAMAN: {
+    BESNİ: [
       "15 TEMMUZ ŞEHİTLER MAH",
       "AŞAĞISARHAN MAH",
       "CİRİT MEYDANI MAH",
@@ -1018,9 +1018,9 @@
       "ÖZBAĞLAR MAH (ATMALI KÖYÜ)",
       "TEKAĞAÇ KÖYÜ",
       "YAZIYALANGOZ MAH (TEKAĞAÇ KÖYÜ)",
-      "YENİ MAH (ŞAMBAYAT KÖYÜ)"
+      "YENİ MAH (ŞAMBAYAT KÖYÜ)",
     ],
-    "ÇELİKHAN": [
+    ÇELİKHAN: [
       "BAHÇELİ EVLER MAH",
       "BAŞPINAR MAH",
       "CAMİ MAH",
@@ -1083,9 +1083,9 @@
       "YAYLAEVLERİ MAH (ASKERHAN KÖYÜ)",
       "YEŞİLOVA KÖYÜ",
       "YEŞİLTEPE KÖYÜ",
-      "YEŞİLYAYLA KÖYÜ"
+      "YEŞİLYAYLA KÖYÜ",
     ],
-    "GERGER": [
+    GERGER: [
       "FATİH MAH",
       "KELEŞAN MAH",
       "MERKEZ MAH",
@@ -1221,9 +1221,9 @@
       "YENİBARDAK KÖYÜ",
       "YEŞİLYURT KÖYÜ",
       "YUKARIDAĞLICA KÖYÜ",
-      "YUVACIK MAH (AÇMA KÖYÜ)"
+      "YUVACIK MAH (AÇMA KÖYÜ)",
     ],
-    "GÖLBAŞI": [
+    GÖLBAŞI: [
       "CUMHURİYET MAH (BELÖREN KÖYÜ)",
       "MERKEZ MAH (BELÖREN KÖYÜ)",
       "ASFALT MAH",
@@ -1302,9 +1302,9 @@
       "YOLBAĞI MAH (ÇATALTEPE KÖYÜ)",
       "YUKARIÇÖPLÜ KÖYÜ",
       "YUKARIKARAKUYU KÖYÜ",
-      "YUKARINASIRLI KÖYÜ"
+      "YUKARINASIRLI KÖYÜ",
     ],
-    "KAHTA": [
+    KAHTA: [
       "ACOĞLU MAH (GELDİBULDU KÖYÜ)",
       "ADALI KÖYÜ",
       "AKALIN KÖYÜ",
@@ -1545,9 +1545,9 @@
       "YÜKSEKYAYLA MAH (BELENLİ KÖYÜ)",
       "ZEYNAN MAH (BOSTANLI KÖYÜ)",
       "ZEYTİN KÖYÜ",
-      "ZİYARET KÖYÜ"
+      "ZİYARET KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AĞCİN KÖYÜ",
       "AKDERE KÖYÜ",
       "AKINCILAR  MAH (ÇERÇİYAN MAH) (AKDERE KÖYÜ)",
@@ -1856,9 +1856,9 @@
       "TÜRKİYE PETROLLERİ MAH",
       "YAVUZ SELİM MAH",
       "YENİ MAH",
-      "YENİ SANAYİ MAH"
+      "YENİ SANAYİ MAH",
     ],
-    "SAMSAT": [
+    SAMSAT: [
       "AĞAKÖY MAH (UZUNTEPE KÖYÜ)",
       "AKDAMAR KÖYÜ",
       "ALTINTEPE MAH (KIRMACIK KÖYÜ)",
@@ -1898,9 +1898,9 @@
       "BARAJ MAH",
       "KALE MAH",
       "ÖRENTAŞ MAH",
-      "YAVUZ SELİM MAH"
+      "YAVUZ SELİM MAH",
     ],
-    "SİNCİK": [
+    SİNCİK: [
       "ADAKLAR MAH (ŞAHİNBEYLER KÖYÜ)",
       "AKSU KÖYÜ",
       "ALANCIK KÖYÜ",
@@ -1994,9 +1994,9 @@
       "KARAMAN MAH",
       "MAHMUTOĞLU MAH",
       "ONUR MAH",
-      "ZEYNEL ASLAN MAH"
+      "ZEYNEL ASLAN MAH",
     ],
-    "TUT": [
+    TUT: [
       "AKBEL MAH (ÇİFTLİK KÖYÜ)",
       "AKÇATEPE KÖYÜ",
       "BOYUNDERE KÖYÜ",
@@ -2023,11 +2023,11 @@
       "ÇAMLICA MAH",
       "FETHİYE MAH",
       "REŞADİYE MAH",
-      "SALAH MAH"
-    ]
+      "SALAH MAH",
+    ],
   },
-  "AFYONKARAHİSAR": {
-    "BAŞMAKÇI": [
+  AFYONKARAHİSAR: {
+    BAŞMAKÇI: [
       "AŞAĞI HİLAL MAH",
       "BARBAROS MAH",
       "ÇAĞLAYAN MAH",
@@ -2054,9 +2054,9 @@
       "YASSIÖREN KÖYÜ",
       "YUKARI MAH (ÇIĞRI KÖYÜ)",
       "YUKARI MAH (YAKA KÖYÜ)",
-      "YUKARIBELTARLA KÖYÜ"
+      "YUKARIBELTARLA KÖYÜ",
     ],
-    "BAYAT": [
+    BAYAT: [
       "BÜYÜK MAH",
       "CUMHURİYET MAH",
       "HÜRRİYET MAH",
@@ -2074,9 +2074,9 @@
       "MURATKORU KÖYÜ",
       "ORTA MAH (DERBENT KÖYÜ)",
       "SAĞIRLI KÖYÜ",
-      "YUKARIÇAYBELEN KÖYÜ"
+      "YUKARIÇAYBELEN KÖYÜ",
     ],
-    "BOLVADİN": [
+    BOLVADİN: [
       "AKÇEŞME MAH",
       "ALACA MAH",
       "ALİ EFENDİ MAH",
@@ -2164,9 +2164,9 @@
       "YUKARI MAH (DİŞLİ KÖYÜ)",
       "YUNUS EMRE MAH (DİŞLİ KÖYÜ)",
       "YÜRÜKKARACAÖREN KÖYÜ",
-      "ZAFER MAH (KEMERKAYA KÖYÜ)"
+      "ZAFER MAH (KEMERKAYA KÖYÜ)",
     ],
-    "ÇAY": [
+    ÇAY: [
       "AKTAŞ MAH",
       "ALİ İHSAN PAŞA MAH",
       "ALİ KALELİ MAH",
@@ -2230,9 +2230,9 @@
       "YEŞİLYURT KÖYÜ",
       "YUKARI MAH (EBER KÖYÜ)",
       "YUKARI MAH (PAZARAĞAÇ KÖYÜ)",
-      "ZAFER MAH (DERESİNEK KÖYÜ)"
+      "ZAFER MAH (DERESİNEK KÖYÜ)",
     ],
-    "ÇOBANLAR": [
+    ÇOBANLAR: [
       "BUCAK MAH",
       "GÖLCÜK MAH",
       "IŞIK MAH",
@@ -2248,9 +2248,9 @@
       "FATİH MAH (KOCAÖZ KÖYÜ)",
       "GÖYNÜK KÖYÜ",
       "İSTİKLAL MAH (KOCAÖZ KÖYÜ)",
-      "KALE KÖYÜ"
+      "KALE KÖYÜ",
     ],
-    "DAZKIRI": [
+    DAZKIRI: [
       "BARBAROS MAH",
       "ÇAMLIK MAH",
       "ESENTEPE MAH",
@@ -2274,9 +2274,9 @@
       "ÖRTÜLÜ KÖYÜ",
       "SARIKAVAK KÖYÜ",
       "YAYLAKÖY KÖYÜ",
-      "YUKARIYENİCE KÖYÜ"
+      "YUKARIYENİCE KÖYÜ",
     ],
-    "DİNAR": [
+    DİNAR: [
       "ADLİYE MAH",
       "ALTMIŞEVLER MAH",
       "ATATÜRK MAH",
@@ -2421,9 +2421,9 @@
       "ÇAĞLAYAN MAH (TATARLI KÖYÜ)",
       "ÇAMLICA MAH (TATARLI KÖYÜ)",
       "FATİH MAH (TATARLI KÖYÜ)",
-      "YEŞİLYURT MAH (TATARLI KÖYÜ)"
+      "YEŞİLYURT MAH (TATARLI KÖYÜ)",
     ],
-    "EMİRDAĞ": [
+    EMİRDAĞ: [
       "CUMHURİYET MAH",
       "ÇİLLİ MAH",
       "ESKİ KACERLİ MAH",
@@ -2538,9 +2538,9 @@
       "YILDIZ MAH (BADEMLİ KÖYÜ)",
       "YUSUFAĞA KÖYÜ",
       "YÜREĞİL KÖYÜ",
-      "ZAFER MAH (BADEMLİ KÖYÜ)"
+      "ZAFER MAH (BADEMLİ KÖYÜ)",
     ],
-    "EVCİLER": [
+    EVCİLER: [
       "CAMİKEBİR MAH",
       "FATİH MAH",
       "KAYALIK MAH",
@@ -2559,9 +2559,9 @@
       "KÖRKUYU KÖYÜ",
       "KÜME EVLERİ MAH (ALTINOVA KÖYÜ)",
       "MEVLANA MAH (BARAKLI KÖYÜ)",
-      "YUNUS EMRE MAH (BARAKLI KÖYÜ)"
+      "YUNUS EMRE MAH (BARAKLI KÖYÜ)",
     ],
-    "HOCALAR": [
+    HOCALAR: [
       "HÜRRİYET MAH",
       "ŞAFAK MAH",
       "YENİ MAH",
@@ -2587,9 +2587,9 @@
       "ULUKÖY KÖYÜ",
       "YAĞCI KÖYÜ",
       "YENİ MAH (YEŞİLHİSAR KÖYÜ)",
-      "YUKARI MAH (AKÇADERE KÖYÜ)"
+      "YUKARI MAH (AKÇADERE KÖYÜ)",
     ],
-    "İHSANİYE": [
+    İHSANİYE: [
       "FATİH MAH (DÖĞER KÖYÜ)",
       "KERVANSARAY MAH (DÖĞER KÖYÜ)",
       "YENİ MAH (DÖĞER KÖYÜ)",
@@ -2646,9 +2646,9 @@
       "YİĞİTPINARI KÖYÜ",
       "YUKARITANDIR KÖYÜ",
       "YUNUS EMRE MAH (BOZHÜYÜK KÖYÜ)",
-      "YUNUS EMRE MAH (GAZLIGÖL KÖYÜ)"
+      "YUNUS EMRE MAH (GAZLIGÖL KÖYÜ)",
     ],
-    "İSCEHİSAR": [
+    İSCEHİSAR: [
       "ÇUKUR MAH",
       "ESENTEPE MAH",
       "ESKİ HAMAM MAH",
@@ -2687,17 +2687,17 @@
       "ÖLDÜMLER MAH (OLUKPINAR KÖYÜ)",
       "SELİMİYE MAH (ALANYURT KÖYÜ)",
       "VELİLER MAH (KARAKAYA KÖYÜ)",
-      "YANIKLAR MAH (OLUKPINAR KÖYÜ)"
+      "YANIKLAR MAH (OLUKPINAR KÖYÜ)",
     ],
-    "KIZILÖREN": [
+    KIZILÖREN: [
       "CUMHURİYET MAH",
       "YENİ MAH",
       "EKİNOVA KÖYÜ",
       "GÜLYAZI KÖYÜ",
       "TÜRKBELKAVAK KÖYÜ",
-      "YENİBELKAVAK KÖYÜ"
+      "YENİBELKAVAK KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ATAKÖY MAH",
       "ESENTEPE MAH",
       "İSTİKLAL MAH",
@@ -2836,9 +2836,9 @@
       "OSMAN GAZİ MAH",
       "SELÇUKLU MAH",
       "YENİCE MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "SANDIKLI": [
+    SANDIKLI: [
       "AKİN KÖYÜ",
       "ALACAMİ KÖYÜ",
       "ALAGÖZ KÖYÜ",
@@ -2927,9 +2927,9 @@
       "ŞİRİNEVLER MAH",
       "TAPDUK EMRE MAH",
       "YUNUS EMRE MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "SİNANPAŞA": [
+    SİNANPAŞA: [
       "AKÇAŞAR KÖYÜ",
       "AKDEĞİRMEN KÖYÜ",
       "AŞAĞI MAH (GÜNEY KÖYÜ)",
@@ -3020,9 +3020,9 @@
       "FATİH MAH (TINAZTEPE KÖYÜ)",
       "SARAY MAH (TINAZTEPE KÖYÜ)",
       "YENİ MAH (TINAZTEPE KÖYÜ)",
-      "ZAFER MAH (TINAZTEPE KÖYÜ)"
+      "ZAFER MAH (TINAZTEPE KÖYÜ)",
     ],
-    "SULTANDAĞI": [
+    SULTANDAĞI: [
       "AKBABA KÖYÜ",
       "AKPINAR MAH (YEŞİLÇİFTLİK KÖYÜ)",
       "AŞAĞI MAH (YEŞİLÇİFTLİK KÖYÜ)",
@@ -3061,9 +3061,9 @@
       "KAYRAN MAH",
       "PAZARALTI MAH",
       "YENİ MAH",
-      "YILDIRIM MAH"
+      "YILDIRIM MAH",
     ],
-    "ŞUHUT": [
+    ŞUHUT: [
       "ÇAĞLAYAN MAH (KARAADİLLİ KÖYÜ)",
       "DEVELİ MAH (KARAADİLLİ KÖYÜ)",
       "ERENLER MAH (KARAADİLLİ KÖYÜ)",
@@ -3154,11 +3154,11 @@
       "PAZAR MAH",
       "TAŞLICA MAH",
       "YALI MAH",
-      "ZAFER MAH"
-    ]
+      "ZAFER MAH",
+    ],
   },
-  "AĞRI": {
-    "DİYADİN": [
+  AĞRI: {
+    DİYADİN: [
       "14 NİSAN MAH",
       "ATATÜRK MAH",
       "FATİH MAH",
@@ -3281,9 +3281,9 @@
       "YUKARITÜTEK KÖYÜ",
       "YUVA KÖYÜ",
       "YÜCELER MAH (AKÇEVRE KÖYÜ)",
-      "ZORAVA MAH (BOYALAN KÖYÜ)"
+      "ZORAVA MAH (BOYALAN KÖYÜ)",
     ],
-    "DOĞUBAYAZIT": [
+    DOĞUBAYAZIT: [
       "ABDİGÖR MAH",
       "AHMEDİHANİ MAH",
       "BARIŞ MAH",
@@ -3433,9 +3433,9 @@
       "YOLÜSTÜ MAH (KARAŞEYH KÖYÜ)",
       "YUKARI MELİKŞAH MAH (MELİKŞAH KÖYÜ)",
       "YUKARITAVLA KÖYÜ",
-      "ZİYARET MAH (SAĞLIKSUYU KÖYÜ)"
+      "ZİYARET MAH (SAĞLIKSUYU KÖYÜ)",
     ],
-    "ELEŞKİRT": [
+    ELEŞKİRT: [
       "ESENTEPE MAH",
       "FATİH MAH",
       "HÜRRİYET MAH",
@@ -3519,9 +3519,9 @@
       "ZEYİT YAYLASI MAH (MOLLASÜLEYMAN KÖYÜ)",
       "AYDINTEPE MAH (TAHİR KÖYÜ)",
       "KARŞIYAKA MAH (TAHİR KÖYÜ)",
-      "YEŞİL MAH (TAHİR KÖYÜ)"
+      "YEŞİL MAH (TAHİR KÖYÜ)",
     ],
-    "HAMUR": [
+    HAMUR: [
       "BUZHANE MAH",
       "KALE MAH",
       "KÜMBET MAH",
@@ -3626,9 +3626,9 @@
       "YUKARIGÖZLÜCE KÖYÜ",
       "YUKARITEPECİK MAH (ABDİÇIKMAZ KÖYÜ)",
       "YUKARIYENİGÜN KÖYÜ",
-      "YUVACIK KÖYÜ"
+      "YUVACIK KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "100.YIL MAH",
       "ALPASLAN MAH",
       "CUMHURİYET MAH",
@@ -3775,9 +3775,9 @@
       "YUKARISAKLICA KÖYÜ",
       "YUKARIYOLDÜZÜ KÖYÜ",
       "YURTPINAR KÖYÜ",
-      "ZİYARET KÖYÜ"
+      "ZİYARET KÖYÜ",
     ],
-    "PATNOS": [
+    PATNOS: [
       "ARPACIK MAH (BOZOĞLAK KÖYÜ)",
       "BALCILAR MAH (KARBASAN KÖYÜ)",
       "BAŞTARLA KÖYÜ",
@@ -3971,9 +3971,9 @@
       "YK.DUMANLI MAH (ÇAPUTLU KÖYÜ)",
       "YURTÖVEN KÖYÜ",
       "ZİREKLİ KÖYÜ",
-      "ZORAVA MAH (ERGEÇLİ KÖYÜ)"
+      "ZORAVA MAH (ERGEÇLİ KÖYÜ)",
     ],
-    "TAŞLIÇAY": [
+    TAŞLIÇAY: [
       "ADAKENT MAH (TANYOLU KÖYÜ)",
       "ALAKOÇLU KÖYÜ",
       "ARAS KÖYÜ",
@@ -4031,9 +4031,9 @@
       "15 TEMMUZ ŞEHİTLER MAH",
       "ADNAN MENDERES MAH",
       "CUMHURİYET MAH",
-      "HÜRRİYET MAH"
+      "HÜRRİYET MAH",
     ],
-    "TUTAK": [
+    TUTAK: [
       "ADA MAH (SOĞUKPINAR KÖYÜ)",
       "ADAKENT KÖYÜ",
       "AHMETABAT KÖYÜ",
@@ -4141,11 +4141,11 @@
       "KARŞIYAKA MAH",
       "MURAT MAH",
       "PINAR MAH",
-      "YENİ MAH"
-    ]
+      "YENİ MAH",
+    ],
   },
-  "AKSARAY": {
-    "AĞAÇÖREN": [
+  AKSARAY: {
+    AĞAÇÖREN: [
       "GÜMÜŞTEPE MAH",
       "KALE MAH",
       "YENİ MAH",
@@ -4180,9 +4180,9 @@
       "SARIHASANLI KÖYÜ",
       "SOFULAR KÖYÜ",
       "YAĞMURHÜYÜĞÜ KÖYÜ",
-      "YENİCE KÖYÜ"
+      "YENİCE KÖYÜ",
     ],
-    "ESKİL": [
+    ESKİL: [
       "AYDINLIK MAH",
       "CUMHURİYET MAH",
       "FATİH MAH",
@@ -4222,9 +4222,9 @@
       "YAVUZ SULTAN SELİM MAH",
       "YENİ MAH (EŞMEKAYA KÖYÜ)",
       "YEŞİLYURT MAH (EŞMEKAYA KÖYÜ)",
-      "YUKARIBEZİRCİ YAYLASI MAH (GÜNEŞLİ KÖYÜ)"
+      "YUKARIBEZİRCİ YAYLASI MAH (GÜNEŞLİ KÖYÜ)",
     ],
-    "GÜLAĞAÇ": [
+    GÜLAĞAÇ: [
       "ATATÜRK MAH",
       "FATİH MAH",
       "HÜRRİYET MAH",
@@ -4257,9 +4257,9 @@
       "TUZLA MAH (GÜLPINAR KÖYÜ)",
       "YAVUZ SELİM MAH (SOFULAR KÖYÜ)",
       "YENİPAZAR MAH (DEMİRCİ KÖYÜ)",
-      "ZAFER MAH (SARATLI KÖYÜ)"
+      "ZAFER MAH (SARATLI KÖYÜ)",
     ],
-    "GÜZELYURT": [
+    GÜZELYURT: [
       "AKYAMAÇ MAH",
       "AŞAĞI MAH",
       "YENİ MAH",
@@ -4279,9 +4279,9 @@
       "UZUNKAYA KÖYÜ",
       "YAPRAKHİSAR KÖYÜ",
       "YENİ MAH (ILISU KÖYÜ)",
-      "YENİ MAH (SELİME KÖYÜ)"
+      "YENİ MAH (SELİME KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "KURTULUŞ MAH",
       "YENİMAHALLE MAH",
       "ARATOL BAHÇELİ MAH",
@@ -4475,9 +4475,9 @@
       "PARABAŞLI MAH (YEŞİLOVA KÖYÜ)",
       "YAVUZ MAH (ULUKIŞLA KÖYÜ)",
       "ZAFER MAH (YENİKENT KÖYÜ)",
-      "ZAFER MAH (YEŞİLTEPE KÖYÜ)"
+      "ZAFER MAH (YEŞİLTEPE KÖYÜ)",
     ],
-    "ORTAKÖY": [
+    ORTAKÖY: [
       "AŞAĞI KÜME MAH (ÇATİN KÖYÜ)",
       "AŞAĞI MAH (OZANCIK KÖYÜ)",
       "BAĞ KÜMESİ MAH (ÇATİN KÖYÜ)",
@@ -4550,9 +4550,9 @@
       "MEHMET AKİF ERSOY MAH",
       "PLEVNE MAH",
       "YENİ MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "SARIYAHŞİ": [
+    SARIYAHŞİ: [
       "15 TEMMUZ MAH",
       "BEKDİK KÖYÜ",
       "BOĞAZİÇİ MAH (BOĞAZKÖY KÖYÜ)",
@@ -4568,9 +4568,9 @@
       "KURTULUŞ MAH",
       "ÖZAL MAH",
       "ŞAFAKTEPE MAH",
-      "YENİDOĞAN MAH"
+      "YENİDOĞAN MAH",
     ],
-    "SULTANHANI": [
+    SULTANHANI: [
       "CUMHURİYET MAH",
       "GAZİ MAH",
       "İSTİKAMET MAH",
@@ -4578,11 +4578,11 @@
       "SELÇUK MAH",
       "TÜRKİSTAN MAH",
       "YEŞİLTÖMEK KÖYÜ",
-      "ZAFER MAH"
-    ]
+      "ZAFER MAH",
+    ],
   },
-  "AMASYA": {
-    "GÖYNÜCEK": [
+  AMASYA: {
+    GÖYNÜCEK: [
       "CUMHURİYET MAH",
       "MERKEZ MAH",
       "MERKEZ MAH (DAMLAÇİMEN KÖYÜ)",
@@ -4642,9 +4642,9 @@
       "YASSIKIŞLA KÖYÜ",
       "YENİKÖY KÖYÜ",
       "YEŞİLDERE MAH (GEDİKSARAY KÖYÜ)",
-      "YEŞİLYURT MAH (TENCİRLİ KÖYÜ)"
+      "YEŞİLYURT MAH (TENCİRLİ KÖYÜ)",
     ],
-    "GÜMÜŞHACIKÖY": [
+    GÜMÜŞHACIKÖY: [
       "ADATEPE MAH",
       "AĞCADEDE MAH",
       "ARTIKABAT MAH",
@@ -4728,9 +4728,9 @@
       "SEMERCİOĞLU MAH (SARAYÖZÜ KÖYÜ)",
       "YAZIYERİ KÖYÜ",
       "YONGALIK MAH (DERBENTOBRUĞU KÖYÜ)",
-      "YUKARI OBRUK MAH (DERBENTOBRUĞU KÖYÜ)"
+      "YUKARI OBRUK MAH (DERBENTOBRUĞU KÖYÜ)",
     ],
-    "HAMAMÖZÜ": [
+    HAMAMÖZÜ: [
       "ARKUTBEY MAH",
       "HAMİTKAPLAN MAH",
       "KÖPRÜBAŞI MAH",
@@ -4758,9 +4758,9 @@
       "YAYLA MAH (DEDEKÖY KÖYÜ)",
       "YAYLA MAH (GÖLKÖY KÖYÜ)",
       "YEMİŞEN KÖYÜ",
-      "YUKARIOVACIK KÖYÜ"
+      "YUKARIOVACIK KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "BAHÇELERİÇİ MAH",
       "BEYAZITPAŞA MAH",
       "ELLİBEŞEVLER MAH",
@@ -4966,9 +4966,9 @@
       "YUKARI KIZSEKİ MAH (KIZSEKİ KÖYÜ)",
       "YUKARI MAH (ZİYARET KÖYÜ)",
       "YUVACIK KÖYÜ",
-      "YUVAKÖY KÖYÜ"
+      "YUVAKÖY KÖYÜ",
     ],
-    "MERZİFON": [
+    MERZİFON: [
       "AFET EVLERİ MAH (AKÖREN KÖYÜ)",
       "AKPINAR KÖYÜ",
       "AKTARLA KÖYÜ",
@@ -5074,9 +5074,9 @@
       "SOFULAR MAH",
       "TAVŞAN MAH",
       "YENİ MAH",
-      "YUNUS EMRE MAH"
+      "YUNUS EMRE MAH",
     ],
-    "SULUOVA": [
+    SULUOVA: [
       "AFETEVLERİ-CEBECİ MAH (ARMUTLU KÖYÜ)",
       "AKÖREN KÖYÜ",
       "ALABEDİR KÖYÜ",
@@ -5147,9 +5147,9 @@
       "ŞEKER MAH",
       "ULUÇINAR MAH (ERASLAN KÖYÜ)",
       "YENİ MAH",
-      "YENİDOĞAN MAH"
+      "YENİDOĞAN MAH",
     ],
-    "TAŞOVA": [
+    TAŞOVA: [
       "AKÇANIN DERE MAH (KAVALOLUĞU KÖYÜ)",
       "AKKİŞİLER MAH (KARLIK KÖYÜ)",
       "AKPINAR MAH (KARSAVUL KÖYÜ)",
@@ -5291,11 +5291,11 @@
       "TEPE MAH",
       "YEMİŞEN MAH",
       "YENİ MAH",
-      "YEŞİLIRMAK MAH"
-    ]
+      "YEŞİLIRMAK MAH",
+    ],
   },
-  "ANKARA": {
-    "AKYURT": [
+  ANKARA: {
+    AKYURT: [
       "AHMETADİL MAH",
       "ATATÜRK MAH",
       "BALIKHİSAR MAH",
@@ -5321,9 +5321,9 @@
       "TİMURHAN MAH",
       "UZUNLAR MAH",
       "YEŞİLTEPE MAH",
-      "YILDIRIM MAH"
+      "YILDIRIM MAH",
     ],
-    "ALTINDAĞ": [
+    ALTINDAĞ: [
       "ATIFBEY MAH",
       "GÜLTEPE MAH",
       "ÖRNEK MAH",
@@ -5349,9 +5349,9 @@
       "PEÇENEK MAH",
       "TATLAR MAH",
       "ULUBEY MAH",
-      "HACI BAYRAM MAH"
+      "HACI BAYRAM MAH",
     ],
-    "AYAŞ": [
+    AYAŞ: [
       "AKKAYA MAH",
       "BAŞAYAŞ MAH",
       "BAŞBEREKET MAH",
@@ -5384,9 +5384,9 @@
       "TEKKE MAH",
       "UĞURÇAYIRI MAH",
       "ULUPINAR MAH",
-      "YAĞMURDEDE MAH"
+      "YAĞMURDEDE MAH",
     ],
-    "BALA": [
+    BALA: [
       "ABAZLI MAH",
       "AFŞAR MAH",
       "AHMETÇAYIRI MAH",
@@ -5441,9 +5441,9 @@
       "YENİYAPANÇARŞAK MAH",
       "YENİYAPANŞEYHLİ MAH",
       "YÖRELİ MAH",
-      "YUKARIHACIBEKİR MAH"
+      "YUKARIHACIBEKİR MAH",
     ],
-    "BEYPAZARI": [
+    BEYPAZARI: [
       "ACISU MAH",
       "ADAÖREN MAH",
       "AKÇAKAVAK MAH",
@@ -5521,9 +5521,9 @@
       "YOĞUNPELİT MAH",
       "YUKARIGÜNEY MAH",
       "YUKARIULUCAK MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "ÇAMLIDERE": [
+    ÇAMLIDERE: [
       "AHATLAR MAH",
       "AKKAYA MAH",
       "ALAKOÇ MAH",
@@ -5571,9 +5571,9 @@
       "YAYALAR MAH",
       "YEDİÖREN MAH",
       "YILANLI MAH",
-      "YONCATEPE MAH"
+      "YONCATEPE MAH",
     ],
-    "ÇANKAYA": [
+    ÇANKAYA: [
       "ÇİĞDEM MAH",
       "ÇUKURAMBAR MAH",
       "İŞÇİ BLOKLARI MAH",
@@ -5697,9 +5697,9 @@
       "MİMAR SİNAN MAH",
       "MURAT MAH",
       "UMUT MAH",
-      "ZAFERTEPE MAH"
+      "ZAFERTEPE MAH",
     ],
-    "ÇUBUK": [
+    ÇUBUK: [
       "AĞILCIK MAH",
       "AKBAYIR MAH",
       "AKKUZULU MAH",
@@ -5784,9 +5784,9 @@
       "YİĞİTLİ MAH",
       "YUKARI ÇAVUNDUR MAH",
       "YUKARIEMİRLER MAH",
-      "YUKARIOBRUK MAH"
+      "YUKARIOBRUK MAH",
     ],
-    "ELMADAĞ": [
+    ELMADAĞ: [
       "AKÇAALİ MAH",
       "AŞAĞIKAMIŞLI MAH",
       "DELİLER MAH",
@@ -5816,9 +5816,9 @@
       "HASANOĞLAN HAVUZBAŞI MAH",
       "İSTASYON MAH",
       "MUZAFFER EKŞİ MAH",
-      "ŞEHİTLİK MAH"
+      "ŞEHİTLİK MAH",
     ],
-    "ETİMESGUT": [
+    ETİMESGUT: [
       "30 AĞUSTOS MAH",
       "AHİ MESUT MAH",
       "ELVAN MAH",
@@ -5854,9 +5854,9 @@
       "ORHUN MAH",
       "ŞEHİTALİ MAH",
       "TURKUAZ MAH",
-      "YUKARIYURTÇU MAH"
+      "YUKARIYURTÇU MAH",
     ],
-    "EVREN": [
+    EVREN: [
       "ALTINBAŞAK MAH",
       "CEBİRLİ MAH",
       "ÇATALPINAR MAH",
@@ -5869,9 +5869,9 @@
       "SOLAKUŞAĞI MAH",
       "ŞERAFETTİN YILMAZ MAH",
       "YENİ MAH",
-      "YUSUFUŞAĞI MAH"
+      "YUSUFUŞAĞI MAH",
     ],
-    "GÖLBAŞI": [
+    GÖLBAŞI: [
       "AHİBOZ MAH",
       "AKÖRENÇARŞAK MAH",
       "ALTUNÇANAK MAH",
@@ -5925,9 +5925,9 @@
       "YAĞLIPINAR MAH",
       "YAVRUCUK MAH",
       "YAYLABAĞ MAH",
-      "YURTBEYİ MAH"
+      "YURTBEYİ MAH",
     ],
-    "GÜDÜL": [
+    GÜDÜL: [
       "ADALIKUZU MAH",
       "AFŞAR MAH",
       "AKBAŞ MAH",
@@ -5958,9 +5958,9 @@
       "YELLİ MAH",
       "YENİ MAH",
       "YEŞİLÖZ MAH",
-      "YUKARI MAH"
+      "YUKARI MAH",
     ],
-    "HAYMANA": [
+    HAYMANA: [
       "AHIRLIKUYU MAH",
       "ALAÇIK MAH",
       "ALAHACILI MAH",
@@ -6038,9 +6038,9 @@
       "YERGÖMÜ MAH",
       "YEŞİLKÖY MAH",
       "YUKARISEBİL MAH",
-      "YURTBEYLİ MAH"
+      "YURTBEYLİ MAH",
     ],
-    "KAHRAMANKAZAN": [
+    KAHRAMANKAZAN: [
       "AHİ MAH",
       "AKÇAÖREN MAH",
       "AKINCI MAH",
@@ -6089,9 +6089,9 @@
       "YAVUZ SULTAN SELİM MAH",
       "YAYALAR MAH",
       "YAZIBEYLİ MAH",
-      "YILDIRIMBEYAZIT MAH"
+      "YILDIRIMBEYAZIT MAH",
     ],
-    "KALECİK": [
+    KALECİK: [
       "AFŞAR MAH",
       "AHİKEMALŞENYURT MAH",
       "AHİLER YENİCE MAH",
@@ -6148,9 +6148,9 @@
       "YEŞİLÖZ MAH",
       "YILANLI MAH",
       "YURTYENİCE MAH",
-      "YÜZBEY MAH"
+      "YÜZBEY MAH",
     ],
-    "KEÇİÖREN": [
+    KEÇİÖREN: [
       "23 NİSAN MAH",
       "ADNAN MENDERES MAH",
       "AKTEPE MAH",
@@ -6201,9 +6201,9 @@
       "OSMANGAZİ MAH",
       "OVACIK MAH",
       "PINARBAŞI MAH",
-      "UFUKTEPE MAH"
+      "UFUKTEPE MAH",
     ],
-    "KIZILCAHAMAM": [
+    KIZILCAHAMAM: [
       "AKÇAKESE MAH",
       "AKÇAY MAH",
       "AKDOĞAN MAH",
@@ -6312,9 +6312,9 @@
       "YUKARIÇANLI MAH",
       "YUKARIHÜYÜK MAH",
       "YUKARIKARAÖREN MAH",
-      "YUKARIKESE MAH"
+      "YUKARIKESE MAH",
     ],
-    "MAMAK": [
+    MAMAK: [
       "ABİDİNPAŞA MAH",
       "AŞIK VEYSEL MAH",
       "BALKİRAZ MAH",
@@ -6378,9 +6378,9 @@
       "HÜSEYİNGAZİ MAH",
       "KARAAĞAÇ MAH",
       "MİSKET MAH",
-      "ŞAHİNTEPE MAH"
+      "ŞAHİNTEPE MAH",
     ],
-    "NALLIHAN": [
+    NALLIHAN: [
       "100.YIL MAH",
       "AKDERE MAH",
       "AKSU MAH",
@@ -6464,9 +6464,9 @@
       "YEŞİLYURT MAH",
       "YUKARIBAĞDERE MAH",
       "YUKARIBAĞLICA MAH",
-      "YUKARIKAVACIK MAH"
+      "YUKARIKAVACIK MAH",
     ],
-    "POLATLI": [
+    POLATLI: [
       "ADATOPRAKPINAR MAH",
       "AVDANLI MAH",
       "AVŞAR MAH",
@@ -6562,9 +6562,9 @@
       "YEŞİLÖZ MAH",
       "YILDIZLI MAH",
       "YÜZÜKBAŞI MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "PURSAKLAR": [
+    PURSAKLAR: [
       "ABADAN MAH",
       "ALTINOVA MAH",
       "AYYILDIZ MAH",
@@ -6585,9 +6585,9 @@
       "YENİ KARAKÖY MAH",
       "YILDIRIM BEYAZIT MAH",
       "YUNUS EMRE MAH",
-      "YUVA MAH"
+      "YUVA MAH",
     ],
-    "SİNCAN": [
+    SİNCAN: [
       "AHİ EVRAN MAH",
       "AHİ EVRAN OSB MAH",
       "FATİH MAH",
@@ -6649,9 +6649,9 @@
       "MENDERES MAH",
       "MUSTAFA KEMAL MAH",
       "MÜLK MAH",
-      "YENİKAYI MAH"
+      "YENİKAYI MAH",
     ],
-    "ŞEREFLİKOÇHİSAR": [
+    ŞEREFLİKOÇHİSAR: [
       "ACIKUYU MAH",
       "ACIÖZ MAH",
       "AKARCA MAH",
@@ -6715,9 +6715,9 @@
       "YENİ MAH",
       "YEŞİLOVA MAH",
       "YEŞİLYURT MAH",
-      "YUSUFKUYUSU MAH"
+      "YUSUFKUYUSU MAH",
     ],
-    "YENİMAHALLE": [
+    YENİMAHALLE: [
       "BEŞTEPE MAH",
       "EMNİYET MAH",
       "GAZİ MAH",
@@ -6774,11 +6774,11 @@
       "TEPEALTI MAH",
       "VARLIK MAH",
       "YENİÇAĞ MAH",
-      "YUNUS EMRE MAH"
-    ]
+      "YUNUS EMRE MAH",
+    ],
   },
-  "ANTALYA": {
-    "AKSEKİ": [
+  ANTALYA: {
+    AKSEKİ: [
       "AKŞAHAP MAH",
       "ALAÇEŞME MAH",
       "AŞAĞIAŞIKLAR MAH",
@@ -6829,9 +6829,9 @@
       "SÜLEYMANİYE MAH",
       "TAŞLICA MAH",
       "YARPUZ MAH",
-      "CEVİZLİ MAH"
+      "CEVİZLİ MAH",
     ],
-    "AKSU": [
+    AKSU: [
       "ALAYLI MAH",
       "ALTINTAŞ MAH",
       "ATATÜRK MAH",
@@ -6866,9 +6866,9 @@
       "TOPALLI MAH",
       "YENİDUMANLAR MAH",
       "YEŞİLKARAMAN MAH",
-      "YURTPINAR MAH"
+      "YURTPINAR MAH",
     ],
-    "ALANYA": [
+    ALANYA: [
       "AKÇATI MAH",
       "AKDAM MAH",
       "ALACAMİ MAH",
@@ -6970,9 +6970,9 @@
       "SEKİ MAH",
       "UĞRAK MAH",
       "YAYLALI MAH",
-      "YEŞİLÖZ MAH"
+      "YEŞİLÖZ MAH",
     ],
-    "DEMRE": [
+    DEMRE: [
       "BELÖREN MAH",
       "ÇAĞMAN MAH",
       "ÇEVRELİ MAH",
@@ -6989,9 +6989,9 @@
       "YAYLAKAYA MAH",
       "BEYMELEK MAH",
       "KAYAALTI MAH",
-      "KÖŞKERLER MAH"
+      "KÖŞKERLER MAH",
     ],
-    "DÖŞEMEALTI": [
+    DÖŞEMEALTI: [
       "AHIRTAŞ MAH",
       "AKKOÇ MAH",
       "ALTINKALE MAH",
@@ -7026,9 +7026,9 @@
       "YAĞCA MAH",
       "YALINLI MAH",
       "YENİKÖY MAH",
-      "YEŞİLBAYIR MAH"
+      "YEŞİLBAYIR MAH",
     ],
-    "ELMALI": [
+    ELMALI: [
       "AKÇAY MAH",
       "AFŞAR MAH",
       "AHATLI MAH",
@@ -7088,9 +7088,9 @@
       "YILMAZLI MAH",
       "YÖRENLER MAH",
       "YUVA MAH",
-      "ZÜMRÜTOVA MAH"
+      "ZÜMRÜTOVA MAH",
     ],
-    "FİNİKE": [
+    FİNİKE: [
       "AKÇAALAN MAH",
       "ALACADAĞ MAH",
       "ARİF MAH",
@@ -7116,9 +7116,9 @@
       "YENİ MAH",
       "YEŞİLKÖY MAH",
       "YEŞİLYURT MAH",
-      "YUVALI MAH"
+      "YUVALI MAH",
     ],
-    "GAZİPAŞA": [
+    GAZİPAŞA: [
       "AKOLUK MAH",
       "AYDIN MAH",
       "AYDINCIK MAH",
@@ -7171,9 +7171,9 @@
       "YENİGÜNEY MAH",
       "YENİKÖY MAH",
       "YEŞİLYURT MAH",
-      "ZEYTİNADA MAH"
+      "ZEYTİNADA MAH",
     ],
-    "GÜNDOĞMUŞ": [
+    GÜNDOĞMUŞ: [
       "AKYAR MAH",
       "BALKAYA MAH",
       "BEDAN MAH",
@@ -7202,9 +7202,9 @@
       "SENİR MAH",
       "SERİNYAKA MAH",
       "UMUTLU MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "İBRADI": [
+    İBRADI: [
       "AŞAĞI MAH",
       "AYDINYAYLA MAH",
       "BAŞLAR MAH",
@@ -7213,9 +7213,9 @@
       "ORMANA MAH",
       "ÜRÜNLÜ MAH",
       "ÜZÜMDERE MAH",
-      "YUKARI MAH"
+      "YUKARI MAH",
     ],
-    "KAŞ": [
+    KAŞ: [
       "BELDİBİ MAH",
       "CEMRE MAH",
       "ÇAMLIKÖY MAH",
@@ -7269,9 +7269,9 @@
       "YENİKÖY MAH",
       "KINIK MAH",
       "OVA MAH",
-      "YEŞİLKÖY MAH"
+      "YEŞİLKÖY MAH",
     ],
-    "KEMER": [
+    KEMER: [
       "BELDİBİ MAH",
       "BEYCİK MAH",
       "OVACIK MAH",
@@ -7283,9 +7283,9 @@
       "KUZDERE MAH",
       "MERKEZ MAH",
       "YENİ MAH",
-      "TEKİROVA MAH"
+      "TEKİROVA MAH",
     ],
-    "KEPEZ": [
+    KEPEZ: [
       "AHATLI MAH",
       "FABRİKALAR MAH",
       "KEPEZ MAH",
@@ -7353,9 +7353,9 @@
       "KUZEYYAKA MAH",
       "ODABAŞI MAH",
       "YENİ EMEK MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "KONYAALTI": [
+    KONYAALTI: [
       "AKDAMLAR MAH",
       "AKKUYU MAH",
       "ALTINKUM MAH",
@@ -7395,9 +7395,9 @@
       "SARISU MAH",
       "SUİÇECEK MAH",
       "YENİ MAH",
-      "ZÜMRÜT MAH"
+      "ZÜMRÜT MAH",
     ],
-    "KORKUTELİ": [
+    KORKUTELİ: [
       "AKYAR MAH",
       "ALAADDİN MAH",
       "AŞAĞIPAZAR MAH",
@@ -7455,9 +7455,9 @@
       "YENİ MAH",
       "YEŞİLOBA MAH",
       "YEŞİLYAYLA MAH",
-      "YUKARIKARAMAN MAH"
+      "YUKARIKARAMAN MAH",
     ],
-    "KUMLUCA": [
+    KUMLUCA: [
       "ADRASAN MAH",
       "ALTINYAKA MAH",
       "BAĞLIK MAH",
@@ -7498,9 +7498,9 @@
       "YENİ MAH",
       "YENİKIŞLA MAH",
       "YEŞİLKÖY MAH",
-      "MAVİKENT MAH"
+      "MAVİKENT MAH",
     ],
-    "MANAVGAT": [
+    MANAVGAT: [
       "ÇOLAKLI MAH",
       "EVRENSEKİ MAH",
       "A. HİSAR MAH",
@@ -7606,9 +7606,9 @@
       "PERAKENDE MAH",
       "SAĞIRİN MAH",
       "TAŞAĞIL MAH",
-      "YEŞİLBAĞ MAH"
+      "YEŞİLBAĞ MAH",
     ],
-    "MURATPAŞA": [
+    MURATPAŞA: [
       "ALTINDAĞ MAH",
       "BAHÇELİEVLER MAH",
       "DENİZ MAH",
@@ -7663,9 +7663,9 @@
       "MEYDANKAVAĞI MAH",
       "TARIM MAH",
       "YEŞİLOVA MAH",
-      "ZÜMRÜTOVA MAH"
+      "ZÜMRÜTOVA MAH",
     ],
-    "SERİK": [
+    SERİK: [
       "ABDURRAHMANLAR MAH",
       "AKBAŞ MAH",
       "AKÇAALAN MAH",
@@ -7731,11 +7731,11 @@
       "YUKARIÇATMA MAH",
       "YUKARIKOCAYATAK MAH",
       "YUMAKLAR MAH",
-      "ZIRLANKAYA MAH"
-    ]
+      "ZIRLANKAYA MAH",
+    ],
   },
-  "ARDAHAN": {
-    "ÇILDIR": [
+  ARDAHAN: {
+    ÇILDIR: [
       "AŞIKŞENLİK MAH",
       "ÇANKAYA MAH",
       "ÇAY MAH",
@@ -7780,9 +7780,9 @@
       "SEMİHAŞAKİR KÖYÜ",
       "TAŞDEĞİRMEN KÖYÜ",
       "YENİBEYREHATUN KÖYÜ",
-      "YUKARICAMBAZ KÖYÜ"
+      "YUKARICAMBAZ KÖYÜ",
     ],
-    "DAMAL": [
+    DAMAL: [
       "ATA MAH",
       "CUMHURİYET MAH",
       "ÇAYBAŞI MAH",
@@ -7801,9 +7801,9 @@
       "OTAĞLI KÖYÜ",
       "SEYİTÖREN KÖYÜ",
       "TEPEKÖY KÖYÜ MERKEZ",
-      "TEPEKÖY YAYLA EVLERİ MAH (TEPEKÖY KÖYÜ)"
+      "TEPEKÖY YAYLA EVLERİ MAH (TEPEKÖY KÖYÜ)",
     ],
-    "GÖLE": [
+    GÖLE: [
       "FEVZİ ÇAKMAK MAH",
       "KAZIM KARABEKİR MAH",
       "KUBİLAY BEY MAH",
@@ -7863,9 +7863,9 @@
       "YELEÇLİ KÖYÜ",
       "YENİDEMİRKAPI KÖYÜ",
       "YENİKÖY KÖYÜ",
-      "YİĞİTKONAĞI KÖYÜ"
+      "YİĞİTKONAĞI KÖYÜ",
     ],
-    "HANAK": [
+    HANAK: [
       "ALAÇAM MAH",
       "ATALAR MAH",
       "AVCILAR MAH",
@@ -7909,9 +7909,9 @@
       "YAYLA MAH (İNCEDERE KÖYÜ)",
       "YUKARI ÇAT MAH (ÇATKÖY KÖYÜ)",
       "YUKARIAYDERE KÖYÜ",
-      "YÜNBÜKEN KÖYÜ"
+      "YÜNBÜKEN KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ATATÜRK MAH",
       "GÜRÇAYIR MAH",
       "HALİLEFENDİ MAH",
@@ -8002,9 +8002,9 @@
       "KIRAÇ KÖYÜ",
       "TEPELER KÖYÜ",
       "UZUNOVA KÖYÜ",
-      "YANLIZÇAM KÖYÜ"
+      "YANLIZÇAM KÖYÜ",
     ],
-    "POSOF": [
+    POSOF: [
       "AKBALLI KÖYÜ",
       "ALABALIK KÖYÜ",
       "ALKÖY KÖYÜ",
@@ -8092,11 +8092,11 @@
       "YURTBAŞI KÖYÜ",
       "YURTBEKLER KÖYÜ",
       "DOĞRULAR MAH",
-      "MERKEZ MAH"
-    ]
+      "MERKEZ MAH",
+    ],
   },
-  "ARTVİN": {
-    "ARDANUÇ": [
+  ARTVİN: {
+    ARDANUÇ: [
       "MERKEZ MAH",
       "AFET EVLERİ MAH (BALLI KÖYÜ)",
       "AFET EVLERİ MAH (MÜEZZİNLER KÖYÜ)",
@@ -8300,9 +8300,9 @@
       "YUKARI MAH (PEYNİRLİ KÖYÜ)",
       "YUKARI ŞUVAT MAH (AŞIKLAR KÖYÜ)",
       "YUKARIIRMAKLAR KÖYÜ",
-      "ZEKERİYAKÖY KÖYÜ"
+      "ZEKERİYAKÖY KÖYÜ",
     ],
-    "ARHAVİ": [
+    ARHAVİ: [
       "AŞAĞI HACILAR MAH",
       "BOĞAZİÇİ MAH",
       "CUMHURİYET MAH",
@@ -8403,9 +8403,9 @@
       "YUKARI MAH (KAVAK KÖYÜ)",
       "YUKARI MAH (KONAKLI KÖYÜ)",
       "YUKARI MERKEZ MAH (BAŞKÖY KÖYÜ)",
-      "YUKARI ULUKENT MAH (ULUKENT KÖYÜ)"
+      "YUKARI ULUKENT MAH (ULUKENT KÖYÜ)",
     ],
-    "BORÇKA": [
+    BORÇKA: [
       "AKSU MAH",
       "GÜNDOĞDU MAH",
       "KÜÇÜK KÖY MAH",
@@ -8481,9 +8481,9 @@
       "YEŞİLKÖY KÖYÜ",
       "ZEDOBAN KÖYÜ",
       "ZORLU KÖYÜ",
-      "ZORLU MAH (ZORLU KÖYÜ)"
+      "ZORLU MAH (ZORLU KÖYÜ)",
     ],
-    "HOPA": [
+    HOPA: [
       "BUCAK MAH",
       "CUMHURİYET MAH",
       "MERKEZ KULEDİBİ MAH",
@@ -8513,9 +8513,9 @@
       "PINARLI KÖYÜ",
       "SUBAŞI KÖYÜ",
       "YEŞİLKÖY KÖYÜ",
-      "YUKARI YOLDERE MAH (YOLDERE KÖYÜ)"
+      "YUKARI YOLDERE MAH (YOLDERE KÖYÜ)",
     ],
-    "KEMALPAŞA": [
+    KEMALPAŞA: [
       "CUMHURİYET MAH",
       "SELİMİYE MAH",
       "UZUNYALI MAH",
@@ -8531,9 +8531,9 @@
       "LİMAN KÖYÜ",
       "MERKEZ MAH (OSMANİYE KÖYÜ)",
       "SARP KÖYÜ",
-      "ÜÇKARDEŞ KÖYÜ"
+      "ÜÇKARDEŞ KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "BALCIOĞLU MAH",
       "ÇAMLIK MAH",
       "ÇARŞI MAH",
@@ -8845,9 +8845,9 @@
       "ZEGONİ MAH (TÜTÜNCÜLER KÖYÜ)",
       "ZOM MAH (AŞAĞIMADEN KÖYÜ)",
       "ZORLU MAH (YUKARIMADEN KÖYÜ)",
-      "ZUVAR MAH (HAMAMLI KÖYÜ)"
+      "ZUVAR MAH (HAMAMLI KÖYÜ)",
     ],
-    "MURGUL": [
+    MURGUL: [
       "KÜRE MAH",
       "A.BALABAN MAH (BAŞKÖY KÖYÜ)",
       "AKANTAŞ KÖYÜ",
@@ -8867,9 +8867,9 @@
       "OSMANLI KÖYÜ",
       "PETEK KÖYÜ",
       "SALKAYA MAH (KABACA KÖYÜ)",
-      "Y.BALABAN MAH (BAŞKÖY KÖYÜ)"
+      "Y.BALABAN MAH (BAŞKÖY KÖYÜ)",
     ],
-    "ŞAVŞAT": [
+    ŞAVŞAT: [
       "A.ŞİNDOBAN MAH (DALKIRMAZ KÖYÜ)",
       "ABDULGİL MAH (PINARLI KÖYÜ)",
       "ABDULOĞLU MAH (KOCABEY KÖYÜ)",
@@ -9295,9 +9295,9 @@
       "ZİYARET MAH (ZİYARET KÖYÜ)",
       "ARMUTLU MAH",
       "SÖĞÜTLÜ MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "YUSUFELİ": [
+    YUSUFELİ: [
       "ABANOZ MAH (BAHÇELİ KÖYÜ)",
       "ABRAMET  -KAKRAZEVL MAH (ALTIPARMAK KÖYÜ)",
       "ADA MAH (ÇEVRELİ KÖYÜ)",
@@ -10004,11 +10004,11 @@
       "ERDEMLER MAH",
       "HASANAĞA MAH",
       "KAZIM KARABEKİR MAH",
-      "MERKEZ MAH"
-    ]
+      "MERKEZ MAH",
+    ],
   },
-  "AYDIN": {
-    "BOZDOĞAN": [
+  AYDIN: {
+    BOZDOĞAN: [
       "AKÇAY MAH",
       "AKSEKİ MAH",
       "AKYAKA MAH",
@@ -10063,9 +10063,9 @@
       "YENİKÖY MAH",
       "YEŞİL YENİCE MAH",
       "YEŞİLÇAM MAH",
-      "ZİYARETLİ MAH"
+      "ZİYARETLİ MAH",
     ],
-    "BUHARKENT": [
+    BUHARKENT: [
       "ERİCEK MAH",
       "FESLEK MAH",
       "GELENBE MAH",
@@ -10079,9 +10079,9 @@
       "ORTAKÇI MAH",
       "SAVCILLI MAH",
       "ÜÇEYLÜL MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "ÇİNE": [
+    ÇİNE: [
       "AKÇAOVA MAH",
       "AKDAM MAH",
       "ALABAYIR MAH",
@@ -10153,9 +10153,9 @@
       "YENİKÖY MAH",
       "YEŞİLKÖY MAH",
       "YOLBOYU MAH",
-      "YÖRÜKLER MAH"
+      "YÖRÜKLER MAH",
     ],
-    "DİDİM": [
+    DİDİM: [
       "AK-YENİKÖY MAH",
       "AKBÜK MAH",
       "AKKÖY MAH",
@@ -10171,9 +10171,9 @@
       "MAVİŞEHİR MAH",
       "MERSİNDERE MAH",
       "YALIKÖY MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "EFELER": [
+    EFELER: [
       "ALATEPE MAH",
       "AMBARCIK MAH",
       "BALIKKÖY MAH",
@@ -10257,9 +10257,9 @@
       "SERÇEKÖY MAH",
       "TERZİLER MAH",
       "UMURLU MAH",
-      "YUKARIKAYACIK MAH"
+      "YUKARIKAYACIK MAH",
     ],
-    "GERMENCİK": [
+    GERMENCİK: [
       "ALANGÜLLÜ MAH",
       "BOZKÖY MAH",
       "CAMİKEBİR MAH",
@@ -10295,9 +10295,9 @@
       "ORTAKLAR MAH",
       "SELATİN MAH",
       "TEKİN MAH",
-      "UZUNKUM MAH"
+      "UZUNKUM MAH",
     ],
-    "İNCİRLİOVA": [
+    İNCİRLİOVA: [
       "ACARLAR MAH",
       "AKÇEŞME MAH",
       "ARPADERE MAH",
@@ -10325,9 +10325,9 @@
       "SINIRTEKE MAH",
       "ŞİRİNDERE MAH",
       "YAZIDERE MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "KARACASU": [
+    KARACASU: [
       "ALEMLER MAH",
       "AŞAĞIGÖRLE MAH",
       "ATAEYMİR MAH",
@@ -10365,9 +10365,9 @@
       "YEŞİLKÖY MAH",
       "YEŞİLYURT MAH",
       "YOLALTI MAH",
-      "YOLÜSTÜ MAH"
+      "YOLÜSTÜ MAH",
     ],
-    "KARPUZLU": [
+    KARPUZLU: [
       "ABAK MAH",
       "AKÇAABAT MAH",
       "BAYRAKTEPE MAH",
@@ -10390,9 +10390,9 @@
       "ULUKONAK MAH",
       "UMCULAR MAH",
       "YAĞŞILAR MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "KOÇARLI": [
+    KOÇARLI: [
       "ADNAN MENDERES MAH",
       "AKMESCİT MAH",
       "ATATÜRK MAH",
@@ -10444,9 +10444,9 @@
       "YAĞHANLI MAH",
       "YENİ MAH",
       "YENİKÖY MAH",
-      "ZEYTİNKÖY MAH"
+      "ZEYTİNKÖY MAH",
     ],
-    "KÖŞK": [
+    KÖŞK: [
       "AHATLAR MAH",
       "AKÇAKÖY MAH",
       "ALTIEYLÜL MAH",
@@ -10474,9 +10474,9 @@
       "SERDAROĞLU MAH",
       "SOĞUKKUYU MAH",
       "UZUNDERE MAH",
-      "YAVUZKÖY MAH"
+      "YAVUZKÖY MAH",
     ],
-    "KUŞADASI": [
+    KUŞADASI: [
       "ALACAMESCİT MAH",
       "BAYRAKLIDEDE MAH",
       "CAFERLİ MAH",
@@ -10499,9 +10499,9 @@
       "TÜRKMEN MAH",
       "YAVANSU MAH",
       "YAYLAKÖY MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "KUYUCAK": [
+    KUYUCAK: [
       "AKSAZ MAH",
       "AYDINOĞLU MAH",
       "AZİZABAT MAH",
@@ -10537,9 +10537,9 @@
       "YENİ MAH",
       "YEŞİLDERE MAH",
       "YÖRE MAH",
-      "YUKARIYAKACIK MAH"
+      "YUKARIYAKACIK MAH",
     ],
-    "NAZİLLİ": [
+    NAZİLLİ: [
       "AKPINAR MAH",
       "AKSU MAH",
       "ALTINTAŞ MAH",
@@ -10622,9 +10622,9 @@
       "NAZİLLİ OSB MAH",
       "SÜMER MAH",
       "ŞİRİNEVLER MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "SÖKE": [
+    SÖKE: [
       "AĞAÇLI MAH",
       "AKÇAKAYA MAH",
       "AKÇAKONAK MAH",
@@ -10674,9 +10674,9 @@
       "YENİKENT MAH",
       "YENİKÖY MAH",
       "YEŞİLKÖY MAH",
-      "YUVACA MAH"
+      "YUVACA MAH",
     ],
-    "SULTANHİSAR": [
+    SULTANHİSAR: [
       "ATÇA MAH",
       "BEŞEYLÜL MAH",
       "DEMİRHAN MAH",
@@ -10694,9 +10694,9 @@
       "SALAVATLI MAH",
       "UZUNLAR MAH",
       "YAĞDERE MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "YENİPAZAR": [
+    YENİPAZAR: [
       "ALHAN MAH",
       "ALİOĞULLAR MAH",
       "ÇARŞI MAH",
@@ -10714,11 +10714,11 @@
       "KARAÇAKAL MAH",
       "KOYUNLAR MAH",
       "PAŞAKÖY MAH",
-      "YENİ MAH"
-    ]
+      "YENİ MAH",
+    ],
   },
-  "BALIKESİR": {
-    "ALTIEYLÜL": [
+  BALIKESİR: {
+    ALTIEYLÜL: [
       "AKARSU MAH",
       "AKÇAKÖY MAH",
       "ALTI EYLÜL MAH",
@@ -10814,9 +10814,9 @@
       "PAMUKÇU MAH",
       "BAHÇELİEVLER MAH",
       "HASAN BASRİ ÇANTAY MAH",
-      "PLEVNE MAH"
+      "PLEVNE MAH",
     ],
-    "AYVALIK": [
+    AYVALIK: [
       "MİTHATPAŞA MAH",
       "NAMIK KEMAL MAH",
       "ALTINOVA MAH",
@@ -10850,9 +10850,9 @@
       "YENİ MAH",
       "YENİKÖY MAH",
       "ZEKİBEY MAH",
-      "KÜÇÜKKÖY MAH"
+      "KÜÇÜKKÖY MAH",
     ],
-    "BALYA": [
+    BALYA: [
       "ENVERPAŞA MAH",
       "KOCA CAMİİ MAH",
       "AKBAŞ MAH",
@@ -10898,9 +10898,9 @@
       "YARIŞALANI MAH",
       "YAYLACIK MAH",
       "YAZLIK MAH",
-      "YENİKAVAK MAH"
+      "YENİKAVAK MAH",
     ],
-    "BANDIRMA": [
+    BANDIRMA: [
       "DOĞA MAH",
       "ERGİLİ MAH",
       "KİRAZLI MAH",
@@ -10954,9 +10954,9 @@
       "KÜLEFLİ MAH",
       "MİSAKÇA MAH",
       "ORHANİYE MAH",
-      "ŞİRİNÇAVUŞ MAH"
+      "ŞİRİNÇAVUŞ MAH",
     ],
-    "BİGADİÇ": [
+    BİGADİÇ: [
       "4 EYLÜL MAH",
       "ABACI MAH",
       "CAMİİ MAH",
@@ -11036,9 +11036,9 @@
       "YOLBAŞI MAH",
       "YUKARIÇAMLI MAH",
       "YUKARIGÖÇEK MAH",
-      "YÜRÜCEKLER MAH"
+      "YÜRÜCEKLER MAH",
     ],
-    "BURHANİYE": [
+    BURHANİYE: [
       "BAHÇELİEVLER MAH",
       "GERİŞ MAH",
       "HACIAHMET MAH",
@@ -11077,9 +11077,9 @@
       "YAYLACIK MAH",
       "YUNUSLAR MAH",
       "CUMHURİYET MAH",
-      "HÜRRİYET MAH"
+      "HÜRRİYET MAH",
     ],
-    "DURSUNBEY": [
+    DURSUNBEY: [
       "BOZYOKUŞ MAH",
       "CEBECİ MAH",
       "ÇAKMAK MAH",
@@ -11190,9 +11190,9 @@
       "YASSIÖREN MAH",
       "YUKARIMUSALAR MAH",
       "YUKARIYAĞCILAR MAH",
-      "YUNUSLAR MAH"
+      "YUNUSLAR MAH",
     ],
-    "EDREMİT": [
+    EDREMİT: [
       "AKÇAY MAH",
       "ALTINKUM MAH",
       "ÇAMLIBEL MAH",
@@ -11239,9 +11239,9 @@
       "YAŞYER MAH",
       "YAYLAÖNÜ MAH",
       "YOLÖREN MAH",
-      "ZEYTİNLİ MAH"
+      "ZEYTİNLİ MAH",
     ],
-    "ERDEK": [
+    ERDEK: [
       "AŞAĞIYAPICI MAH",
       "BALLIPINAR MAH",
       "BELKIS MAH",
@@ -11269,9 +11269,9 @@
       "SAHİL MAH",
       "TUZLA MAH",
       "YALI MAH",
-      "ZEYTİNLİ MAH"
+      "ZEYTİNLİ MAH",
     ],
-    "GÖMEÇ": [
+    GÖMEÇ: [
       "DURSUNLU MAH",
       "HACIHÜSEYİNLER MAH",
       "HACIOĞLU MAH",
@@ -11284,9 +11284,9 @@
       "KEMALPAŞA MAH",
       "MİTHATPAŞA MAH",
       "YAYA MAH",
-      "KARAAĞAÇ MAH"
+      "KARAAĞAÇ MAH",
     ],
-    "GÖNEN": [
+    GÖNEN: [
       "100.YIL MAH",
       "AKÇAALİ MAH",
       "ALTAY MAH",
@@ -11387,9 +11387,9 @@
       "KINALAR MAH",
       "TAHTALI MAH",
       "TURPLU MAH",
-      "ULUKIR MAH"
+      "ULUKIR MAH",
     ],
-    "HAVRAN": [
+    HAVRAN: [
       "CAMİİKEBİR MAH",
       "ÇİĞİTZADE MAH",
       "EBUBEKİR MAH",
@@ -11423,9 +11423,9 @@
       "TARLABAŞI MAH",
       "TAŞARASI MAH",
       "TEMAŞALIK MAH",
-      "TEPEOBA MAH"
+      "TEPEOBA MAH",
     ],
-    "İVRİNDİ": [
+    İVRİNDİ: [
       "BÜYÜKYENİCE MAH",
       "GÖKÇEYAZI MAH",
       "7 EYLÜL MAH",
@@ -11494,9 +11494,9 @@
       "YAREN MAH",
       "YEŞİLKÖY MAH",
       "YUKARIKALEOBA MAH",
-      "YÜREKLİ MAH"
+      "YÜREKLİ MAH",
     ],
-    "KARESİ": [
+    KARESİ: [
       "1.ORUÇGAZİ MAH",
       "2.ORUÇGAZİ MAH",
       "ALİ HİKMET PAŞA MAH",
@@ -11566,9 +11566,9 @@
       "TOYBELEN MAH",
       "YAĞCILAR MAH",
       "YAYLACIK MAH",
-      "YENİİSKENDER MAH"
+      "YENİİSKENDER MAH",
     ],
-    "KEPSUT": [
+    KEPSUT: [
       "CAMİİATİK MAH",
       "CAMİİCEDİT MAH",
       "İHSANİYE MAH",
@@ -11637,9 +11637,9 @@
       "TUZAK MAH",
       "YAYLABAŞI MAH",
       "YEŞİLDAĞ MAH",
-      "YOĞUNOLUK MAH"
+      "YOĞUNOLUK MAH",
     ],
-    "MANYAS": [
+    MANYAS: [
       "AKÇAOVA MAH",
       "BOĞAZPINAR MAH",
       "BÖLCEAĞAÇ MAH",
@@ -11689,9 +11689,9 @@
       "ÇARŞI MAH",
       "KALEBAYIR MAH",
       "MALTEPE MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "MARMARA": [
+    MARMARA: [
       "EKİNLİK MAH",
       "ABROZ MAH",
       "ASMALI MAH",
@@ -11705,9 +11705,9 @@
       "SARAYLAR MAH",
       "TOPAĞAÇ MAH",
       "YENİ MAH",
-      "YİĞİTLER MAH"
+      "YİĞİTLER MAH",
     ],
-    "SAVAŞTEPE": [
+    SAVAŞTEPE: [
       "AKPINAR MAH",
       "ARDIÇLI MAH",
       "AŞAĞIDANİŞMENT MAH",
@@ -11757,9 +11757,9 @@
       "FATİH MAH",
       "HÜRRİYET MAH",
       "İSTİKLAL MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "SINDIRGI": [
+    SINDIRGI: [
       "AKÇAKISRAK MAH",
       "AKTAŞ MAH",
       "ALACAATLI MAH",
@@ -11834,9 +11834,9 @@
       "KOCAKONAK MAH",
       "KURTULUŞ MAH",
       "RIZAİYE MAH",
-      "YAĞCIBEDİR MAH"
+      "YAĞCIBEDİR MAH",
     ],
-    "SUSURLUK": [
+    SUSURLUK: [
       "BEYKÖY MAH",
       "ILICABOĞAZI MAH",
       "KEPEKLER MAH",
@@ -11890,11 +11890,11 @@
       "KIŞLA MAH",
       "ORTA MAH",
       "SULTANİYE MAH",
-      "YENİ MAH"
-    ]
+      "YENİ MAH",
+    ],
   },
-  "BARTIN": {
-    "AMASRA": [
+  BARTIN: {
+    AMASRA: [
       "BOZTEPE MAH",
       "FATİH MAH",
       "KALEİÇİ MAH",
@@ -11990,9 +11990,9 @@
       "YUKARI MAH (GÖMÜ KÖYÜ)",
       "YUKARI MAH (SARAYDÜZÜ KÖYÜ)",
       "YUKARI MAH (ŞENYURT KÖYÜ)",
-      "ZİCA MAH (YAHYAYAZICILAR KÖYÜ)"
+      "ZİCA MAH (YAHYAYAZICILAR KÖYÜ)",
     ],
-    "KURUCAŞİLE": [
+    KURUCAŞİLE: [
       "KARGACAK MAH",
       "LİMAN MAH",
       "ÖMERLER MAH",
@@ -12047,9 +12047,9 @@
       "YALI MAH (KARAMAN KÖYÜ)",
       "YAYLACIK MAH (PAŞALILAR KÖYÜ)",
       "YENİCE MAH (MEYDAN KÖYÜ)",
-      "YENİKÖY KÖYÜ"
+      "YENİKÖY KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AĞDACI MAH",
       "DEMİRCİLER MAH",
       "GECEN MAH",
@@ -12603,9 +12603,9 @@
       "CUMHURİYET MAH",
       "ÇAYDÜZÜ MAH",
       "ESENTEPE MAH",
-      "KARAKÖY MAH"
+      "KARAKÖY MAH",
     ],
-    "ULUS": [
+    ULUS: [
       "ABDALOĞLU MAH (ZAFER KÖYÜ)",
       "AHMET SOFUOĞLU MAH (KONAK KÖYÜ)",
       "AKSARAY MAH (AKÖRENSÖKÜLER KÖYÜ)",
@@ -12927,11 +12927,11 @@
       "KASIMLAR MAH",
       "MEZGELLER MAH",
       "SAMAT MAH",
-      "SAZ MAH"
-    ]
+      "SAZ MAH",
+    ],
   },
-  "BATMAN": {
-    "BEŞİRİ": [
+  BATMAN: {
+    BEŞİRİ: [
       "BAĞDU MAH",
       "BEHREM YOĞUN MAH",
       "CUMHURİYET MAH",
@@ -13045,9 +13045,9 @@
       "YUKARI BAYRAMLI MAH (ESKİHAMUR KÖYÜ)",
       "YUKARI KÜRSÜ MAH (OTLUCA KÖYÜ)",
       "YUKARI ÜRÜNLÜ MAH (DURUCAK KÖYÜ)",
-      "YUMRUKAYA MAH (İKİYAKA KÖYÜ)"
+      "YUMRUKAYA MAH (İKİYAKA KÖYÜ)",
     ],
-    "GERCÜŞ": [
+    GERCÜŞ: [
       "BAĞLARBAŞI MAH",
       "ÇUKURÇEŞME MAH",
       "PINARBAŞI MAH",
@@ -13129,9 +13129,9 @@
       "YENİCE KÖYÜ",
       "YEŞİLYURT MAH (KAYAPINAR KÖYÜ)",
       "YOLAĞZI MAH",
-      "YÜCEKÖY KÖYÜ"
+      "YÜCEKÖY KÖYÜ",
     ],
-    "HASANKEYF": [
+    HASANKEYF: [
       "BAHÇELİEVLER MAH",
       "KALE MAH",
       "AKALIN KÖYÜ",
@@ -13161,9 +13161,9 @@
       "UZUNDERE KÖYÜ",
       "ÜÇYOL KÖYÜ",
       "YAKAKÖY KÖYÜ",
-      "YOLÜSTÜ KÖYÜ"
+      "YOLÜSTÜ KÖYÜ",
     ],
-    "KOZLUK": [
+    KOZLUK: [
       "AŞAĞIGÜNEŞLİ MAH",
       "ÇAYBAŞI MAH",
       "DEĞİRMENDERE MAH",
@@ -13378,9 +13378,9 @@
       "YUKARIKIRATLI KÖYÜ",
       "YUVACIK MAH (TAŞLIDERE KÖYÜ)",
       "ZİYARET KÖYÜ",
-      "ZORLUCA MAH (ULAŞLI KÖYÜ)"
+      "ZORLUCA MAH (ULAŞLI KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "19 MAYIS MAH",
       "AYDINLIKEVLER MAH",
       "BEŞEVLER MAH",
@@ -13492,9 +13492,9 @@
       "PETROL MAH",
       "PETROLKENT MAH",
       "SEYİTLER MAH",
-      "SİTE MAH"
+      "SİTE MAH",
     ],
-    "SASON": [
+    SASON: [
       "ACAR KÖYÜ",
       "AĞAKÜNÜK MAH (DÖRTBÖLÜK KÖYÜ)",
       "AHKAR MEZRA MAH (DERİNCE KÖYÜ)",
@@ -13679,11 +13679,11 @@
       "YEŞİLTEPE MAH",
       "YILDIZ MAH",
       "YUKARI MAH",
-      "ZAFER MAH"
-    ]
+      "ZAFER MAH",
+    ],
   },
-  "BAYBURT": {
-    "AYDINTEPE": [
+  BAYBURT: {
+    AYDINTEPE: [
       "AHMET YESEVİ MAH",
       "AYDINTEPE YAYLASI MAH",
       "HACI ALİ EFENDİ MAH",
@@ -13714,9 +13714,9 @@
       "YANOBA KÖYÜ",
       "YAPRACIK KÖYÜ",
       "YAZLIK KÖYÜ",
-      "YUKARIKIRZI KÖYÜ"
+      "YUKARIKIRZI KÖYÜ",
     ],
-    "DEMİRÖZÜ": [
+    DEMİRÖZÜ: [
       "ÇİFTETAŞ MAH",
       "ESENTEPE MAH",
       "GÜNEŞLİ MAH",
@@ -13750,9 +13750,9 @@
       "YELPINAR KÖYÜ",
       "YEŞİLYURT MAH (BEŞPINAR KÖYÜ)",
       "YEŞİLYURT MAH (GÖKÇEDERE KÖYÜ)",
-      "YUKARIPINARLI KÖYÜ"
+      "YUKARIPINARLI KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "CAMİİKEBİR MAH",
       "ESENTEPE MAH",
       "GENÇOSMAN MAH",
@@ -13925,11 +13925,11 @@
       "YOLALTI OSB MAH (YOLALTI KÖYÜ)",
       "YUKARI DARICA MAH (DARICA KÖYÜ)",
       "YUKARI UĞRAK MAH (UĞRAK KÖYÜ)",
-      "YUKARIKIŞLAK KÖYÜ"
-    ]
+      "YUKARIKIŞLAK KÖYÜ",
+    ],
   },
-  "BİLECİK": {
-    "BOZÜYÜK": [
+  BİLECİK: {
+    BOZÜYÜK: [
       "4 EYLÜL MAH",
       "AKPINAR MAH",
       "ÇARŞI MAH",
@@ -13990,9 +13990,9 @@
       "POYRAOSB MAH (POYRA KÖYÜ)",
       "REVNAK KÖYÜ",
       "SARAYCIK KÖYÜ",
-      "YENİÇEPNİ KÖYÜ"
+      "YENİÇEPNİ KÖYÜ",
     ],
-    "GÖLPAZARI": [
+    GÖLPAZARI: [
       "BAHÇELİEVLER MAH",
       "İSMETPAŞA MAH",
       "İSTİKLAL MAH",
@@ -14061,9 +14061,9 @@
       "URGANCILAR MAH (TONGURLAR KÖYÜ)",
       "ÜYÜK KÖYÜ",
       "YAĞCI MAH (DOKUZ KÖYÜ)",
-      "YAĞCILAR MAH (KAVAK KÖYÜ)"
+      "YAĞCILAR MAH (KAVAK KÖYÜ)",
     ],
-    "İNHİSAR": [
+    İNHİSAR: [
       "AKKUM MAH",
       "GÜNER ORBAY MAH",
       "KARAAĞAÇ MAH",
@@ -14076,9 +14076,9 @@
       "MERKEZ MAH (TARPAK KÖYÜ)",
       "MURATÇA KÖYÜ",
       "SAMRI KÖYÜ",
-      "TOZMAN KÖYÜ"
+      "TOZMAN KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "BAHÇELİEVLER MAH",
       "BEŞİKTAŞ MAH",
       "CUMHURİYET MAH",
@@ -14161,9 +14161,9 @@
       "YENİ MAH (VEZİRHAN KÖYÜ)",
       "YENİKÖY KÖYÜ",
       "YENİKÖY MAH (YENİKÖY KÖYÜ)",
-      "YUNUSLAR MAH (GÜLÜMBE KÖYÜ)"
+      "YUNUSLAR MAH (GÜLÜMBE KÖYÜ)",
     ],
-    "OSMANELİ": [
+    OSMANELİ: [
       "ADLİYE KÖYÜ",
       "AĞLAN KÖYÜ",
       "AKÇAPINAR MAH (AKÇAPINAR KÖYÜ)",
@@ -14203,9 +14203,9 @@
       "CAMİCEDİT MAH",
       "CAMİKEBİR MAH",
       "HACELOĞLU MAH",
-      "İNÖNÜ MAH"
+      "İNÖNÜ MAH",
     ],
-    "PAZARYERİ": [
+    PAZARYERİ: [
       "AHMETLER KÖYÜ",
       "ALINCA KÖYÜ",
       "ARAPDEDE KÖYÜ",
@@ -14243,9 +14243,9 @@
       "DOĞANLAR MAH",
       "PAMUCAKOSB MAH",
       "YENİ MAH",
-      "YÜZBAŞI MAH"
+      "YÜZBAŞI MAH",
     ],
-    "SÖĞÜT": [
+    SÖĞÜT: [
       "AKARBAŞI MAH (ÇALTI KÖYÜ)",
       "AKÇASU KÖYÜ",
       "BORCAK KÖYÜ",
@@ -14277,9 +14277,9 @@
       "CUMHURİYET MAH",
       "KAYHAN MAH",
       "ORTA MAH",
-      "TÜRKMENBAŞI MAH"
+      "TÜRKMENBAŞI MAH",
     ],
-    "YENİPAZAR": [
+    YENİPAZAR: [
       "AŞAĞIBOĞAZ KÖYÜ",
       "AŞAĞIÇAYLI KÖYÜ",
       "BATIBELENÖREN KÖYÜ",
@@ -14308,11 +14308,11 @@
       "ÇÖTE MAH",
       "OSMANGAZİ MAH",
       "YENİ MAH",
-      "ZAFER MAH"
-    ]
+      "ZAFER MAH",
+    ],
   },
-  "BİNGÖL": {
-    "ADAKLI": [
+  BİNGÖL: {
+    ADAKLI: [
       "AFET KONUTLARI MAH",
       "ARICA MAH",
       "DEMİROLUK MAH",
@@ -14401,9 +14401,9 @@
       "YAKINCA MAH (HASBAĞLAR KÖYÜ)",
       "YAYLAKONAK MAH (AYSAKLI KÖYÜ)",
       "YELDEĞİRMENİ KÖYÜ",
-      "YONCALIK MAH (ÇEVRELİ KÖYÜ)"
+      "YONCALIK MAH (ÇEVRELİ KÖYÜ)",
     ],
-    "GENÇ": [
+    GENÇ: [
       "CUMHURİYET MAH",
       "KÜLTÜR MAH",
       "YEŞİLDERE MAH",
@@ -14727,9 +14727,9 @@
       "YUMURTALİ MAH (KOÇSIRTI KÖYÜ)",
       "YUVAKLI MAH (GEYİKDERE KÖYÜ)",
       "YÜCELER MAH (YENİYAZI KÖYÜ)",
-      "YÜREKLİ MAH (YOLAÇTI KÖYÜ)"
+      "YÜREKLİ MAH (YOLAÇTI KÖYÜ)",
     ],
-    "KARLIOVA": [
+    KARLIOVA: [
       "KANIREŞ MAH",
       "SEYRAN TEPE MAH",
       "TURGUT ÖZAL MAH",
@@ -14814,9 +14814,9 @@
       "YONCALIK KÖYÜ",
       "YORGANÇAYIR KÖYÜ",
       "YUKARI ÇIR MAH (HASANOVA KÖYÜ)",
-      "YUKARIYAĞMURLU KÖYÜ"
+      "YUKARIYAĞMURLU KÖYÜ",
     ],
-    "KİĞI": [
+    KİĞI: [
       "ESKİŞEHİR MAH",
       "YENİŞEHİR MAH",
       "YEŞİLYURT MAH",
@@ -14873,9 +14873,9 @@
       "YAZGÜNÜ KÖYÜ",
       "YONCALI MAH (AÇIKGÜNEY KÖYÜ)",
       "YUKARISERİNYER KÖYÜ",
-      "ZENGOK MAH (İLBEYİ KÖYÜ)"
+      "ZENGOK MAH (İLBEYİ KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ALATEPE KÖYÜ",
       "AŞAĞI MAH (ELMALI KÖYÜ)",
       "ATÇAYIR MAH (ELMALI KÖYÜ)",
@@ -15100,9 +15100,9 @@
       "YAYIMLI MAH (UZUNSAVAT KÖYÜ)",
       "YAZGÜLÜ KÖYÜ",
       "YENİ YERLEŞİM MAH (UĞUROVA KÖYÜ)",
-      "YEŞİLOVA MAH (SANCAK KÖYÜ)"
+      "YEŞİLOVA MAH (SANCAK KÖYÜ)",
     ],
-    "SOLHAN": [
+    SOLHAN: [
       "AKBÜK MAH (GENÇTAVUS KÖYÜ)",
       "AKDERE MAH (ASMAKAYA KÖYÜ)",
       "AKSAKAL KOMLER MAH (HAZARŞAH KÖYÜ)",
@@ -15311,9 +15311,9 @@
       "BOĞLAN MAH",
       "HALİME PINAR MAH",
       "YENİ MAH",
-      "YEŞİLOVA MAH"
+      "YEŞİLOVA MAH",
     ],
-    "YAYLADERE": [
+    YAYLADERE: [
       "ALINYAZI KÖYÜ",
       "BAKIMLI MAH (ÇİKAN KÖYÜ)",
       "BAŞPARMAK MAH (GÜNEŞLİK KÖYÜ)",
@@ -15373,9 +15373,9 @@
       "HAKTANIR MAH",
       "HASKÖY MAH",
       "MERKEZ MAH",
-      "YOLGÜDEN MAH"
+      "YOLGÜDEN MAH",
     ],
-    "YEDİSU": [
+    YEDİSU: [
       "AKIMLI KÖYÜ",
       "AŞAĞI SALKIMLAR MAH (ELMALI KÖYÜ)",
       "AYANOĞLU KÖYÜ",
@@ -15422,11 +15422,11 @@
       "KABAOLUK MAH",
       "KOŞAN MAH",
       "MERKEZ MAH",
-      "YENİ MAH"
-    ]
+      "YENİ MAH",
+    ],
   },
-  "BİTLİS": {
-    "ADİLCEVAZ": [
+  BİTLİS: {
+    ADİLCEVAZ: [
       "ALACAATLI MAH",
       "ATATÜRK MAH",
       "CEVİZLİ MAH",
@@ -15478,9 +15478,9 @@
       "YOLÇATI KÖYÜ",
       "YUKARI MAH (İPEKÇAYIR KÖYÜ)",
       "YUKARI MAH (YARIMADA KÖYÜ)",
-      "YUKARISÜPHAN KÖYÜ"
+      "YUKARISÜPHAN KÖYÜ",
     ],
-    "AHLAT": [
+    AHLAT: [
       "ERKİZAN MAH",
       "HARABA ŞEHİR MAH",
       "İKİ KUBBE MAH",
@@ -15533,9 +15533,9 @@
       "OTLUYAZI KÖYÜ",
       "SARAY MAH (OVAKIŞLA KÖYÜ)",
       "YILDIZLAR MAH (OVAKIŞLA KÖYÜ)",
-      "YOĞURTYEMEZ KÖYÜ"
+      "YOĞURTYEMEZ KÖYÜ",
     ],
-    "GÜROYMAK": [
+    GÜROYMAK: [
       "BAĞLAR MAH",
       "BARAJYOLU MAH",
       "BARIŞ MAH",
@@ -15597,9 +15597,9 @@
       "YENİ MAH (GÖLBAŞI KÖYÜ)",
       "YEŞİLTEPE MAH (GÖLBAŞI KÖYÜ)",
       "YEŞİLYURT MAH (GÜNKIRI KÖYÜ)",
-      "YUKARIKOLBAŞI KÖYÜ"
+      "YUKARIKOLBAŞI KÖYÜ",
     ],
-    "HİZAN": [
+    HİZAN: [
       "ALTINOLUK MAH",
       "AŞAĞIKARASU MAH",
       "BAHÇELİEVLER MAH",
@@ -15793,9 +15793,9 @@
       "YUKARIÇALI KÖYÜ",
       "YUMACIK MAH (YENİCİK KÖYÜ)",
       "YURTİÇİ MAH (SARPKAYA KÖYÜ)",
-      "ZİVİ MAH (GAYDA KÖYÜ)"
+      "ZİVİ MAH (GAYDA KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ATATÜRK MAH",
       "BEŞ MİNARE MAH",
       "GAZİ BEY MAH",
@@ -15926,9 +15926,9 @@
       "YUKARIYOLAK KÖYÜ",
       "YUMURTATEPE KÖYÜ",
       "YÜCEBAŞ KÖYÜ",
-      "ZİYARET MAH (SARPKAYA KÖYÜ)"
+      "ZİYARET MAH (SARPKAYA KÖYÜ)",
     ],
-    "MUTKİ": [
+    MUTKİ: [
       "BAĞ MAH (ÇİĞDEMALAN KÖYÜ)",
       "BEYAZ SU MAH (YUVALIDAM KÖYÜ)",
       "ÇİĞDEMALAN KÖYÜ",
@@ -16071,9 +16071,9 @@
       "PINARBAŞI MAH",
       "TAŞLI PINAR MAH",
       "YENİ MAH",
-      "YENİBAĞ MAH"
+      "YENİBAĞ MAH",
     ],
-    "TATVAN": [
+    TATVAN: [
       "2.KM MAH (ADABAĞ KÖYÜ)",
       "ADABAĞ KÖYÜ",
       "BENEKLİ KÖYÜ",
@@ -16191,11 +16191,11 @@
       "YENİTOPRAK MAH (KORUKLU KÖYÜ)",
       "YONCABAŞI KÖYÜ",
       "YORGALAR MAH (SARIDAL KÖYÜ)",
-      "YUMRUKAYA KÖYÜ"
-    ]
+      "YUMRUKAYA KÖYÜ",
+    ],
   },
-  "BOLU": {
-    "DÖRTDİVAN": [
+  BOLU: {
+    DÖRTDİVAN: [
       "ADAKINIK MAH",
       "BAYRAMLAR MAH",
       "ÇAVUŞLAR MAH",
@@ -16301,9 +16301,9 @@
       "YUKARI MAH (YUKARIDÜĞER KÖYÜ)",
       "YUKARI MANDIRA MAH (SORKUN KÖYÜ)",
       "YUKARI YAYLA MAH (GÖBÜLER KÖYÜ)",
-      "YUKARISAYIK MERKEZ MAH (YUKARISAYIK KÖYÜ)"
+      "YUKARISAYIK MERKEZ MAH (YUKARISAYIK KÖYÜ)",
     ],
-    "GEREDE": [
+    GEREDE: [
       "BAHÇELİEVLER MAH",
       "DAYIOĞLU MAH",
       "DEMİRCİLER MAH",
@@ -16595,9 +16595,9 @@
       "YUKARI MAH (HALAÇLAR KÖYÜ)",
       "YUKARI MAH (ORTACA KÖYÜ)",
       "YUNUSLAR MAH (YAKAKAYA KÖYÜ)",
-      "ZADATLAR MAH (ENSELİLER KÖYÜ)"
+      "ZADATLAR MAH (ENSELİLER KÖYÜ)",
     ],
-    "GÖYNÜK": [
+    GÖYNÜK: [
       "CUMA MAH",
       "ÇEŞME MAH",
       "HACI ABDİ MAH",
@@ -16751,9 +16751,9 @@
       "YEŞİLOVA MAHALLESİ (BÖLÜCEKOVA KÖYÜ)",
       "YEŞİLYAZI  MERKEZ MAH (YEŞİLYAZI KÖYÜ)",
       "YÖRÜKLER MAH (TEKİRLER KÖYÜ)",
-      "YUKARIKINIK MERKEZ MAH (YUKARIKINIK KÖYÜ)"
+      "YUKARIKINIK MERKEZ MAH (YUKARIKINIK KÖYÜ)",
     ],
-    "KIBRISCIK": [
+    KIBRISCIK: [
       "KARADOĞAN MAH",
       "KÖROĞLU MAH",
       "AKPINAR MAH (BELEN KÖYÜ)",
@@ -16820,9 +16820,9 @@
       "YAZICA KÖYÜ",
       "YUKARI ALADAĞ YAYLASI MAH (ÇÖKELER KÖYÜ)",
       "YUKARI BEDESTEN MAH (BELEN KÖYÜ)",
-      "YUKARI KÖY YAYLASI MAH (BELEN KÖYÜ)"
+      "YUKARI KÖY YAYLASI MAH (BELEN KÖYÜ)",
     ],
-    "MENGEN": [
+    MENGEN: [
       "ADASAL MAH (GÖKÇESU KÖYÜ)",
       "AKMEHMETOĞLU MAH (KAYABAŞI KÖYÜ)",
       "ALİOĞLU MAH (ÇORAKKADİRLER KÖYÜ)",
@@ -17119,9 +17119,9 @@
       "YUKARI MAH (TEBERİKLER KÖYÜ)",
       "ZAYIMLAR MAH (KARAŞEYHLER KÖYÜ)",
       "ZEBUNLAR MAH (KARAŞEYHLER KÖYÜ)",
-      "ZİLFEROĞLU MAH (AKÖREN KÖYÜ)"
+      "ZİLFEROĞLU MAH (AKÖREN KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ALPAĞUT MAH",
       "ALPAĞUTBEY MAH",
       "AŞAĞISOKU MAH",
@@ -17466,9 +17466,9 @@
       "YUVA MERKEZ MAH (YUVA KÖYÜ)",
       "YUVALCA MAH (KUZÖRENEMİRLER KÖYÜ)",
       "ZAHMANLAR MAH (BÜRNÜK KÖYÜ)",
-      "ZAHMANLAR YAYLASI MAH (BÜRNÜK KÖYÜ)"
+      "ZAHMANLAR YAYLASI MAH (BÜRNÜK KÖYÜ)",
     ],
-    "MUDURNU": [
+    MUDURNU: [
       "MAH (HAYALLAR MAH)YAYLA EVLERİ (ALPAGUT KÖYÜ)",
       "100.YIL MAH (BOSTANCILAR KÖYÜ)",
       "100.YIL MAH (KURTLAR KÖYÜ)",
@@ -17692,9 +17692,9 @@
       "KAYGANA MAH",
       "MUSALLA MAH",
       "SEYRANCIK MAH",
-      "YILDIRIM BAYAZID MAH"
+      "YILDIRIM BAYAZID MAH",
     ],
-    "SEBEN": [
+    SEBEN: [
       "ALPAGUT KÖYÜ",
       "AŞAĞI MAH (DEĞİRMENKAYA KÖYÜ)",
       "AŞAĞI MAH (KIZIK KÖYÜ)",
@@ -17805,9 +17805,9 @@
       "YUKARI YAYLA MAH (KUZGÖLCÜK KÖYÜ)",
       "YUVA KÖYÜ",
       "ÇARŞI MAH",
-      "KESKİNLİ MAH"
+      "KESKİNLİ MAH",
     ],
-    "YENİÇAĞA": [
+    YENİÇAĞA: [
       "ACISU MAH (AŞAĞIKULDAN KÖYÜ)",
       "AHMETLER MAH (ÖREN KÖYÜ)",
       "AKINCILAR KÖYÜ",
@@ -17865,11 +17865,11 @@
       "YUKARI MAH (ŞAHNALAR KÖYÜ)",
       "ASİL BEY MAH",
       "CAMİATİK MAH",
-      "GÖLYÜZÜ MAH"
-    ]
+      "GÖLYÜZÜ MAH",
+    ],
   },
-  "BURDUR": {
-    "AĞLASUN": [
+  BURDUR: {
+    AĞLASUN: [
       "BALA MAH",
       "ÇINAR MAH",
       "HAMAM MAH",
@@ -17892,9 +17892,9 @@
       "SAKARLAR MAH (YAZIR KÖYÜ)",
       "SAKIZLIK MAH (ÇAMLIDERE KÖYÜ)",
       "YAVUZ MAH (MAMAK KÖYÜ)",
-      "YAZIR KÖYÜ"
+      "YAZIR KÖYÜ",
     ],
-    "ALTINYAYLA": [
+    ALTINYAYLA: [
       "GÜLPINAR MAH",
       "HEYBELİ MAH",
       "TAŞYAKA MAH",
@@ -17909,9 +17909,9 @@
       "MERKEZ MAH (ÇÖRTEN KÖYÜ)",
       "MERKEZ MAH (KIZILYAKA KÖYÜ)",
       "SÖBEN MAH (BALLIK KÖYÜ)",
-      "SÜPÜRGELİK MAH (BALLIK KÖYÜ)"
+      "SÜPÜRGELİK MAH (BALLIK KÖYÜ)",
     ],
-    "BUCAK": [
+    BUCAK: [
       "ALAATTİN MAH",
       "ATİLLA MAH",
       "BARBOROS MAH",
@@ -18020,9 +18020,9 @@
       "YENİCE MAH (ELSAZI KÖYÜ)",
       "YUKARI MAH (KUYUBAŞI KÖYÜ)",
       "YUVA MAH (KIZILKAYA KÖYÜ)",
-      "YÜREĞİL KÖYÜ"
+      "YÜREĞİL KÖYÜ",
     ],
-    "ÇAVDIR": [
+    ÇAVDIR: [
       "ATATÜRK MAH",
       "BAYIR MAH",
       "ÇINAR MAH",
@@ -18046,9 +18046,9 @@
       "SARAY BURNU MAH (KOZAĞACI KÖYÜ)",
       "YAZIR KÖYÜ",
       "YENİ MAH",
-      "YEŞİL MAH (SÖĞÜT KÖYÜ)"
+      "YEŞİL MAH (SÖĞÜT KÖYÜ)",
     ],
-    "ÇELTİKÇİ": [
+    ÇELTİKÇİ: [
       "CAMİİ MAH",
       "KONAK MAH",
       "AŞAĞI MAH (GÜVENLİ KÖYÜ)",
@@ -18064,9 +18064,9 @@
       "TEKKEKÖY KÖYÜ",
       "YAKA MAH (BAĞSARAY KÖYÜ)",
       "YUKARI MAH (BAĞSARAY KÖYÜ)",
-      "YUKARI MAH (GÜVENLİ KÖYÜ)"
+      "YUKARI MAH (GÜVENLİ KÖYÜ)",
     ],
-    "GÖLHİSAR": [
+    GÖLHİSAR: [
       "ARMUTLU MAH",
       "ÇAKMAK MAH",
       "ÇEŞME MAH",
@@ -18118,9 +18118,9 @@
       "YAPRAKLI MAH (İBECİK KÖYÜ)",
       "YENİ MAH (İBECİK KÖYÜ)",
       "YILANLI MAH (ELMALIYURT KÖYÜ)",
-      "YUKARI MAH (UYLUPINAR KÖYÜ)"
+      "YUKARI MAH (UYLUPINAR KÖYÜ)",
     ],
-    "KARAMANLI": [
+    KARAMANLI: [
       "BARBAROS MAH",
       "CAFER MAH",
       "CAMİİ MAH",
@@ -18152,9 +18152,9 @@
       "TEPE MEVKİİ MAH (DEREKÖY KÖYÜ)",
       "YUKARI MAH (BADEMLİ KÖYÜ)",
       "YUKARI MAH (KAĞILCIK KÖYÜ)",
-      "YUKARI MAH (MANCA KÖYÜ)"
+      "YUKARI MAH (MANCA KÖYÜ)",
     ],
-    "KEMER": [
+    KEMER: [
       "KONAK MAH",
       "SARAY MAH",
       "YENİ CAMİİ MAH",
@@ -18170,9 +18170,9 @@
       "PINARBAŞI KÖYÜ",
       "YUKARI MAH (KAYI KÖYÜ)",
       "YUKARI TEPE MAH (BELENLİ KÖYÜ)",
-      "YUKARI TEPE MAH (YAKALAR KÖYÜ)"
+      "YUKARI TEPE MAH (YAKALAR KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ARMAĞAN İLCİ MAH",
       "ATATÜRK MAH",
       "BAĞLAR MAH",
@@ -18293,9 +18293,9 @@
       "NECATİ BEY MAH",
       "RECEP MAH",
       "YENİ MAH",
-      "YENİCE MAH"
+      "YENİCE MAH",
     ],
-    "TEFENNİ": [
+    TEFENNİ: [
       "AŞIKLAR MAH (HASANPAŞA KÖYÜ)",
       "BAŞPINAR KÖYÜ",
       "BAYRAMLAR KÖYÜ",
@@ -18322,9 +18322,9 @@
       "PAZAR MAH",
       "YENİCE MAH",
       "YOKUŞ MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "YEŞİLOVA": [
+    YEŞİLOVA: [
       "1.KÜME EVLER MAH (ORHANLI KÖYÜ)",
       "2.KÜME EVLER MAH (ORHANLI KÖYÜ)",
       "ARMUT KÖYÜ",
@@ -18388,11 +18388,11 @@
       "KARAATLI MAH",
       "KAYADİBİ MAH",
       "KOYUNLAR ÇEŞME MAH",
-      "MERKEZ MAH"
-    ]
+      "MERKEZ MAH",
+    ],
   },
-  "BURSA": {
-    "BÜYÜKORHAN": [
+  BURSA: {
+    BÜYÜKORHAN: [
       "AKÇASAZ MAH",
       "AKTAŞ MAH",
       "ARMUTÇUK MAH",
@@ -18435,9 +18435,9 @@
       "SARNIÇ MAH",
       "TEKERLER MAH",
       "YENİCE MAH",
-      "ZAFERİYE MAH"
+      "ZAFERİYE MAH",
     ],
-    "GEMLİK": [
+    GEMLİK: [
       "ADLİYE MAH",
       "ATA MAH",
       "ATA SB MAH",
@@ -18473,9 +18473,9 @@
       "ŞÜKRİYE MAH",
       "UMURBEY MAH",
       "YENİ MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "GÜRSU": [
+    GÜRSU: [
       "ADAKÖY MAH",
       "AĞAKÖY MAH",
       "CAMBAZLARKÖYÜ MAH",
@@ -18492,9 +18492,9 @@
       "KURTULUŞOSB MAH",
       "YENİDOĞAN MAH",
       "YENİDOĞANOSB MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "HARMANCIK": [
+    HARMANCIK: [
       "AKPINAR MAH",
       "ALUTCA MAH",
       "BALATDANİŞMENT MAH",
@@ -18525,9 +18525,9 @@
       "OKÇULAR MAH",
       "SAÇAKLI MAH",
       "YAYABAŞI MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "İNEGÖL": [
+    İNEGÖL: [
       "AKBAŞLAR MAH",
       "AKHİSAR MAH",
       "AKINCILAR MAH",
@@ -18645,9 +18645,9 @@
       "YENİYÖRÜK MAH",
       "YİĞİT MAH",
       "YUKARIBALLIK MAH",
-      "YUNUSEMRE MAH"
+      "YUNUSEMRE MAH",
     ],
-    "İZNİK": [
+    İZNİK: [
       "AYDINLAR MAH",
       "BAYINDIR MAH",
       "BEYLER MAH",
@@ -18693,9 +18693,9 @@
       "YENİ MAH",
       "YENİŞEREFİYE MAH",
       "YEŞİL CAMİİ MAH",
-      "YÜRÜKLER MAH"
+      "YÜRÜKLER MAH",
     ],
-    "KARACABEY": [
+    KARACABEY: [
       "ABDULLAHPAŞA MAH",
       "AKÇAKOYUN MAH",
       "AKÇASUSURLUK MAH",
@@ -18780,9 +18780,9 @@
       "YENİKARAAĞAÇ MAH",
       "YENİSARIBEY MAH",
       "YEŞİLDERE MAH",
-      "YOLAĞZI MAH"
+      "YOLAĞZI MAH",
     ],
-    "KELES": [
+    KELES: [
       "AKÇAPINAR MAH",
       "ALPAĞUT MAH",
       "AVDAN MAH",
@@ -18824,9 +18824,9 @@
       "YAĞCILAR MAH",
       "YAZIBAŞI MAH",
       "YENİCE MAH",
-      "YUNUSLAR MAH"
+      "YUNUSLAR MAH",
     ],
-    "KESTEL": [
+    KESTEL: [
       "AĞLAŞAN MAH",
       "AHMET VEFİK PAŞAOSB MAH",
       "AHMETVEFİKPAŞA MAH",
@@ -18862,9 +18862,9 @@
       "ÜMİTALAN MAH",
       "VANİMEHMET MAH",
       "YAĞMURLU MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "MUDANYA": [
+    MUDANYA: [
       "AKKÖY MAH",
       "ALTINTAŞ MAH",
       "AYDINPINAR MAH",
@@ -18911,9 +18911,9 @@
       "YAYLACIK MAH",
       "YENİ MAH",
       "YÖRÜKALİ MAH",
-      "YÖRÜKYENİCESİ MAH"
+      "YÖRÜKYENİCESİ MAH",
     ],
-    "MUSTAFAKEMALPAŞA": [
+    MUSTAFAKEMALPAŞA: [
       "ADAKÖY MAH",
       "ADALET MAH",
       "AĞAÇLI MAH",
@@ -19044,9 +19044,9 @@
       "YUMURCAKLI MAH",
       "YUNUS EMRE MAH",
       "YÜZBAŞI SABRİBEY MAH",
-      "ZÜFERBEY MAH"
+      "ZÜFERBEY MAH",
     ],
-    "NİLÜFER": [
+    NİLÜFER: [
       "ALAADDİNBEY MAH",
       "ÜRÜNLÜ MAH",
       "19 MAYIS MAH",
@@ -19116,9 +19116,9 @@
       "IŞIKTEPE MAH",
       "IŞIKTEPEOSB MAH",
       "DEMİRCİ MAH",
-      "ÜÇEVLER MAH"
+      "ÜÇEVLER MAH",
     ],
-    "ORHANELİ": [
+    ORHANELİ: [
       "300 EVLER MAH",
       "AĞAÇHİSAR MAH",
       "AKALAN MAH",
@@ -19179,9 +19179,9 @@
       "YAKUPLAR MAH",
       "YENİDANİŞMENT MAH",
       "YEŞİLLER MAH",
-      "YÖRÜCEKLER MAH"
+      "YÖRÜCEKLER MAH",
     ],
-    "ORHANGAZİ": [
+    ORHANGAZİ: [
       "AKHAREM MAH",
       "ARAPZADE MAH",
       "BAYIRKÖY MAH",
@@ -19212,9 +19212,9 @@
       "ÜREĞİL MAH",
       "YENİGÜRLE MAH",
       "YENİKÖY MAH",
-      "YENİSÖLÖZ MAH"
+      "YENİSÖLÖZ MAH",
     ],
-    "OSMANGAZİ": [
+    OSMANGAZİ: [
       "ALEMDAR MAH",
       "ARMUTKÖY MAH",
       "ÇELTİKKÖY MAH",
@@ -19351,9 +19351,9 @@
       "ULU MAH",
       "DEREÇAVUŞKÖY MAH",
       "GÜNEŞTEPE MAH",
-      "YUNUSELİ MAH"
+      "YUNUSELİ MAH",
     ],
-    "YENİŞEHİR": [
+    YENİŞEHİR: [
       "AFŞAR MAH",
       "AKBIYIK MAH",
       "AKÇAPINAR MAH",
@@ -19424,9 +19424,9 @@
       "YILDIRIM MAH",
       "YILMAZ MAH",
       "YOLÖREN MAH",
-      "YÜZÜNCÜYIL MAH"
+      "YÜZÜNCÜYIL MAH",
     ],
-    "YILDIRIM": [
+    YILDIRIM: [
       "ARABAYATAĞI MAH",
       "ÇINARÖNÜ MAH",
       "DEMETEVLER MAH",
@@ -19495,11 +19495,11 @@
       "HACISEYFETTİN MAH",
       "SELİMZADE MAH",
       "SİNANDEDE MAH",
-      "YILDIRIM MAH"
-    ]
+      "YILDIRIM MAH",
+    ],
   },
-  "ÇANAKKALE": {
-    "AYVACIK": [
+  ÇANAKKALE: {
+    AYVACIK: [
       "FATİH MAH",
       "HAMDİBEY MAH",
       "ÜMMÜHAN MAH",
@@ -19652,9 +19652,9 @@
       "YEŞİLLİMAN MAH (KORUBAŞI KÖYÜ)",
       "YÖRÜKLER EVİ MAH (BALABANLI KÖYÜ)",
       "YUKARI TARTIŞIK MAH (TARTIŞIK KÖYÜ)",
-      "YUKARIKÖY KÖYÜ"
+      "YUKARIKÖY KÖYÜ",
     ],
-    "BAYRAMİÇ": [
+    BAYRAMİÇ: [
       "CAMİCEDİT MAH",
       "CAMİKEBİR MAH",
       "MENDERES MAH",
@@ -19749,9 +19749,9 @@
       "YENİKÖY MAH (MURATLAR KÖYÜ)",
       "YİĞİTALİLER KÖYÜ",
       "YUKARIŞAPÇI KÖYÜ",
-      "YUKARIŞEVİK KÖYÜ"
+      "YUKARIŞEVİK KÖYÜ",
     ],
-    "BİGA": [
+    BİGA: [
       "CUMHURİYET MAH",
       "GAZİKEMAL MAH",
       "HAMDİBEY MAH",
@@ -19888,10 +19888,10 @@
       "YENİCEKÖY MAH",
       "YENİMAHALLE KÖYÜ",
       "YEŞİLKÖY KÖYÜ",
-      "YOLİNDİ KÖYÜ"
+      "YOLİNDİ KÖYÜ",
     ],
-    "BOZCAADA": ["ALAYBEY MAH", "CUMHURİYET MAH"],
-    "ÇAN": [
+    BOZCAADA: ["ALAYBEY MAH", "CUMHURİYET MAH"],
+    ÇAN: [
       "ATATÜRK MAH",
       "CUMHURİYET MAH",
       "FATİH MAH",
@@ -19973,9 +19973,9 @@
       "YENİÇERİ KÖYÜ",
       "YUKARIKÖY MAH (KÜÇÜKLÜ KÖYÜ)",
       "YUVALAR KÖYÜ",
-      "ZEYBEKÇAYIR KÖYÜ"
+      "ZEYBEKÇAYIR KÖYÜ",
     ],
-    "ECEABAT": [
+    ECEABAT: [
       "İSMETPAŞA MAH",
       "KEMALPAŞA MAH",
       "AHILDERE ALTI MAH (YALOVA KÖYÜ)",
@@ -19999,9 +19999,9 @@
       "TOPRAKSIRTI MAH (SEDDÜLBAHİR KÖYÜ)",
       "YALOVA KÖYÜ",
       "YOLAĞZI KÖYÜ",
-      "ZIĞINDERE MAH (SEDDÜLBAHİR KÖYÜ)"
+      "ZIĞINDERE MAH (SEDDÜLBAHİR KÖYÜ)",
     ],
-    "EZİNE": [
+    EZİNE: [
       "CAMİKEBİR MAH",
       "CUMHURİYET MAH",
       "DANİŞMENT MAH",
@@ -20077,9 +20077,9 @@
       "YAHYAÇAVUŞ KÖYÜ",
       "YAVAŞLAR KÖYÜ",
       "YAYLACIK KÖYÜ",
-      "YENİOBA KÖYÜ"
+      "YENİOBA KÖYÜ",
     ],
-    "GELİBOLU": [
+    GELİBOLU: [
       "ADİLHAN KÖYÜ",
       "ARMUTDERE MAH (ADİLHAN KÖYÜ)",
       "ARMUTDERE1 MAH (ADİLHAN KÖYÜ)",
@@ -20161,9 +20161,9 @@
       "SÜTLÜCE MAH (SÜTLÜCE KÖYÜ)",
       "TAYFURKÖY KÖYÜ",
       "YENİKÖY KÖYÜ",
-      "YENİKÖY MAH (YENİKÖY KÖYÜ)"
+      "YENİKÖY MAH (YENİKÖY KÖYÜ)",
     ],
-    "GÖKÇEADA": [
+    GÖKÇEADA: [
       "CUMHURİYET MAH",
       "ÇINARLI MAH",
       "FATİH MAH",
@@ -20178,9 +20178,9 @@
       "TEPEKÖY KÖYÜ",
       "UĞURLU KÖYÜ",
       "YENİBADEMLİ KÖYÜ",
-      "ZEYTİNLİKÖY KÖYÜ"
+      "ZEYTİNLİKÖY KÖYÜ",
     ],
-    "LAPSEKİ": [
+    LAPSEKİ: [
       "CUMHURİYET MAH",
       "DALYAN MAH",
       "GAZİ SÜLEYMAN PAŞA MAH",
@@ -20242,9 +20242,9 @@
       "SAZAK OBASI MAH (BEYBAŞ KÖYÜ)",
       "SINDAL KÖYÜ",
       "UMURBEY MERKEZ MAH (UMURBEY KÖYÜ)",
-      "ÜÇPINAR KÖYÜ"
+      "ÜÇPINAR KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "BARBAROS MAH",
       "CEVAT PAŞA MAH",
       "ESENLER MAH",
@@ -20337,9 +20337,9 @@
       "ULUPINAR KÖYÜ",
       "YAĞCILAR KÖYÜ",
       "YAPILDAK KÖYÜ",
-      "YUKARIOKÇULAR KÖYÜ"
+      "YUKARIOKÇULAR KÖYÜ",
     ],
-    "YENİCE": [
+    YENİCE: [
       "AKKÖY KÖYÜ",
       "ARMUTÇUK KÖYÜ",
       "AŞAĞIÇAVUŞ KÖYÜ",
@@ -20438,11 +20438,11 @@
       "ESKİ YENİCE MAH",
       "KIŞLALAR MAH",
       "KURTULUŞ MAH",
-      "YENİ MAH"
-    ]
+      "YENİ MAH",
+    ],
   },
-  "ÇANKIRI": {
-    "ATKARACALAR": [
+  ÇANKIRI: {
+    ATKARACALAR: [
       "GAZİBEY MAH",
       "HOCA MAH",
       "İLKER MAH",
@@ -20466,9 +20466,9 @@
       "ORTA MAH (KÜKÜRT KÖYÜ)",
       "ORTA MAH (YAKALI KÖYÜ)",
       "SUSUZ KÖYÜ",
-      "ZEVDEŞ MAH (KÜKÜRT KÖYÜ)"
+      "ZEVDEŞ MAH (KÜKÜRT KÖYÜ)",
     ],
-    "BAYRAMÖREN": [
+    BAYRAMÖREN: [
       "KÖPRÜLÜBEY MAH",
       "MERKEZ MAH",
       "ZÜBEYDE HANIM MAH",
@@ -20534,9 +20534,9 @@
       "YUKARI MAH (İNCEKAYA KÖYÜ)",
       "YUKARI MAH (KARAKUZU KÖYÜ)",
       "YUKARI MAH (YUSUFOĞLU KÖYÜ)",
-      "YURTPINAR KÖYÜ"
+      "YURTPINAR KÖYÜ",
     ],
-    "ÇERKEŞ": [
+    ÇERKEŞ: [
       "CUMHURİYET MAH",
       "ÇERKEŞ OSB MAH",
       "İDRİS MAH",
@@ -20641,9 +20641,9 @@
       "YORTAN YAYLASI MAH (KİREMİTÇİ KÖYÜ)",
       "YÖRÜK MAH (ÇAYLI KÖYÜ)",
       "YUMAKLI KÖYÜ",
-      "YUSUFOĞLU MAH (KUZÖREN KÖYÜ)"
+      "YUSUFOĞLU MAH (KUZÖREN KÖYÜ)",
     ],
-    "ELDİVAN": [
+    ELDİVAN: [
       "BAHÇELİEVLER MAH",
       "BEYDERE MAH",
       "CAMİ MAH",
@@ -20668,9 +20668,9 @@
       "SARAYKÖY KÖYÜ",
       "SARITARLA KÖYÜ",
       "SEYDİKÖY KÖYÜ",
-      "YUKARIYANLAR KÖYÜ"
+      "YUKARIYANLAR KÖYÜ",
     ],
-    "ILGAZ": [
+    ILGAZ: [
       "FATİH MAH",
       "GAZİ DEDE MAH",
       "KARATAŞ MAH",
@@ -20776,9 +20776,9 @@
       "YUKARI SARMAŞIK MAH (SARMAŞIK KÖYÜ)",
       "YUKARIBOZAN KÖYÜ",
       "YUKARIMEYDAN KÖYÜ",
-      "YUVASARAY KÖYÜ"
+      "YUVASARAY KÖYÜ",
     ],
-    "KIZILIRMAK": [
+    KIZILIRMAK: [
       "HÜSEYİNLİ MAH",
       "OSMANLI MAH",
       "YENİ MAH",
@@ -20810,9 +20810,9 @@
       "TEPEALEGÖZ KÖYÜ",
       "TIMARLI KÖYÜ",
       "YENİYAPAN KÖYÜ",
-      "YUKARIALEGÖZ KÖYÜ"
+      "YUKARIALEGÖZ KÖYÜ",
     ],
-    "KORGUN": [
+    KORGUN: [
       "BÜYÜK MAH",
       "BÜYÜKOSB MAH",
       "DOĞU MAH",
@@ -20834,9 +20834,9 @@
       "MERKEZ MAH (DİKENLİ KÖYÜ)",
       "SANI YAYLASI MAH (MARUF KÖYÜ)",
       "ŞIHLAR KÖYÜ",
-      "YOLKAYA YAYLASI MAH (HICIP KÖYÜ)"
+      "YOLKAYA YAYLASI MAH (HICIP KÖYÜ)",
     ],
-    "KURŞUNLU": [
+    KURŞUNLU: [
       "BEŞPINAR MAH",
       "CÖMERTLER MAH",
       "ÇAL MAH",
@@ -20879,9 +20879,9 @@
       "UZUNOĞLU MAH (SARIALAN KÖYÜ)",
       "YENİ MAH (SİVRİCEK KÖYÜ)",
       "YEŞİLÖREN KÖYÜ",
-      "YEŞİLÖZ KÖYÜ"
+      "YEŞİLÖZ KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ALİBEY MAH",
       "BUĞDAY PAZARI MAH",
       "CUMHURİYET MAH",
@@ -20965,9 +20965,9 @@
       "ZAFER MAH (AKÖREN KÖYÜ)",
       "ABDULHALİK RENDA MAH",
       "AKSU MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "ORTA": [
+    ORTA: [
       "AKÇAÖREN MAH (ELMALIK KÖYÜ)",
       "BUĞURÖREN KÖYÜ",
       "BÜĞDÜZ KÖYÜ",
@@ -21014,9 +21014,9 @@
       "CEM SULTAN MAH",
       "ESKİ YAYLA MAH",
       "KANLICA MAH",
-      "SULTAN BEYAZIT MAH"
+      "SULTAN BEYAZIT MAH",
     ],
-    "ŞABANÖZÜ": [
+    ŞABANÖZÜ: [
       "BAKIRLI KÖYÜ",
       "BULDUK KÖYÜ",
       "BULGURCU KÖYÜ",
@@ -21049,9 +21049,9 @@
       "MAHMUDİYE MAH",
       "SAĞLIK MAH",
       "YENİ MAH",
-      "YENİOSB MAH"
+      "YENİOSB MAH",
     ],
-    "YAPRAKLI": [
+    YAPRAKLI: [
       "AŞAĞIÖZ KÖYÜ",
       "AYSEKİ KÖYÜ",
       "AYVA KÖYÜ",
@@ -21095,11 +21095,11 @@
       "CAMİKEBİR MAH",
       "İĞDİR MAH",
       "KAVAK MAH",
-      "YUKARI MAH"
-    ]
+      "YUKARI MAH",
+    ],
   },
-  "ÇORUM": {
-    "ALACA": [
+  ÇORUM: {
+    ALACA: [
       "AYHAN MAH",
       "CENGİZHAN MAH",
       "CUMHURİYET MAH",
@@ -21210,9 +21210,9 @@
       "YENİCE KÖYÜ",
       "YENİKÖY KÖYÜ",
       "YEŞİLYURT KÖYÜ",
-      "YÜKSEKYAYLA KÖYÜ"
+      "YÜKSEKYAYLA KÖYÜ",
     ],
-    "BAYAT": [
+    BAYAT: [
       "DERE MAH",
       "KAYABAŞI MAH",
       "TEPEBAYAT MAH",
@@ -21319,9 +21319,9 @@
       "YUKARI MAH (ÇAYKÖY KÖYÜ)",
       "YUKARI MAH (YONCALI KÖYÜ)",
       "YUKARI TAŞLIK MAH (EVCİ KÖYÜ)",
-      "YÜCEARDI MAH (AHACIK KÖYÜ)"
+      "YÜCEARDI MAH (AHACIK KÖYÜ)",
     ],
-    "BOĞAZKALE": [
+    BOĞAZKALE: [
       "ÇARŞI MAH",
       "HATTUSAS MAH",
       "HİSAR MAH",
@@ -21342,9 +21342,9 @@
       "YENİ MAH (EVCİ KÖYÜ)",
       "YENİKADILI KÖYÜ",
       "YUKARIFINDIKLI KÖYÜ",
-      "YUNUS EMRE MAH (EVCİ KÖYÜ)"
+      "YUNUS EMRE MAH (EVCİ KÖYÜ)",
     ],
-    "DODURGA": [
+    DODURGA: [
       "ÇATAR MAH",
       "DOĞU MAH",
       "ESENTEPE MAH",
@@ -21373,9 +21373,9 @@
       "YENİKÖY KÖYÜ",
       "YENİOKUL MAH (ALPAGUT KÖYÜ)",
       "YUKARI MAH (ALPAGUT KÖYÜ)",
-      "YUSUFLAR MAH (AYVAKÖY KÖYÜ)"
+      "YUSUFLAR MAH (AYVAKÖY KÖYÜ)",
     ],
-    "İSKİLİP": [
+    İSKİLİP: [
       "BAHABEY MAH",
       "BÜYÜKTAŞ MAH",
       "ÇAVUŞ MAH",
@@ -21580,9 +21580,9 @@
       "YUKARI EKŞİOĞLU MAH (AŞAĞIŞEYHLER KÖYÜ)",
       "YUKARI KIRAN MAH (AŞAĞIŞEYHLER KÖYÜ)",
       "YUKARIÖRENSEKİ KÖYÜ",
-      "YUNUS PINARI MAH (İBİK KÖYÜ)"
+      "YUNUS PINARI MAH (İBİK KÖYÜ)",
     ],
-    "KARGI": [
+    KARGI: [
       "BAHÇELİEVLER MAH",
       "FATİH MAH",
       "İMAMBEY MAH",
@@ -21799,9 +21799,9 @@
       "YUKARI YAYLA MAH (DEREKÖY KÖYÜ)",
       "ZAİMLER MAH (SARAÇLAR KÖYÜ)",
       "ZEYNEL MAH (HACIHAMZA KÖYÜ)",
-      "ZEYVE MAH (UZUNYURT KÖYÜ)"
+      "ZEYVE MAH (UZUNYURT KÖYÜ)",
     ],
-    "LAÇİN": [
+    LAÇİN: [
       "BAHÇELİEVLER MAH",
       "FATİH MAH",
       "YENİ MAH",
@@ -21825,9 +21825,9 @@
       "ŞENYURT MAH (ÇAMLICA KÖYÜ)",
       "YENİ MAH (NARLI KÖYÜ)",
       "YEŞİLPINAR KÖYÜ",
-      "YEŞİLYURT MAH (ÇAMLICA KÖYÜ)"
+      "YEŞİLYURT MAH (ÇAMLICA KÖYÜ)",
     ],
-    "MECİTÖZÜ": [
+    MECİTÖZÜ: [
       "BAHÇELİEVLER MAH",
       "BAHÇELİEVLER MAH (ELVANÇELEBİ KÖYÜ)",
       "CAMİKEBİR MAH",
@@ -21897,9 +21897,9 @@
       "TOTALİ KÖYÜ",
       "VAKIFLAR KÖYÜ",
       "YEDİGÖZ KÖYÜ",
-      "YEŞİLOVA KÖYÜ"
+      "YEŞİLOVA KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "GÜLABİBEY MAH",
       "KALE MAH",
       "MİMARSİNAN MAH",
@@ -22210,9 +22210,9 @@
       "ULUKAVAK MAH",
       "BAHÇELİEVLER MAH",
       "YAVRUTURNA MAH",
-      "YENİYOL MAH"
+      "YENİYOL MAH",
     ],
-    "OĞUZLAR": [
+    OĞUZLAR: [
       "ASARÇAY MAH",
       "BİRTATLI MAH",
       "ÇARŞI MAH",
@@ -22248,9 +22248,9 @@
       "ŞAPHANE KÖYÜ",
       "TEKKEŞİNLER MAH (DERİNÖZ KÖYÜ)",
       "YAMAÇ MAH (CEVİZLİ KÖYÜ)",
-      "YOĞUNPELİT MAH (AĞAÇÇAMI KÖYÜ)"
+      "YOĞUNPELİT MAH (AĞAÇÇAMI KÖYÜ)",
     ],
-    "ORTAKÖY": [
+    ORTAKÖY: [
       "AKYAR MAH (SENEMOĞLU KÖYÜ)",
       "ASAR KÖYÜ",
       "BAHÇELİEVLER MAH (AŞTAVUL KÖYÜ)",
@@ -22272,9 +22272,9 @@
       "YUKARI KUYUCAK KÖYÜ",
       "BAHÇELİEVLER MAH",
       "CUMHURİYET MAH",
-      "SUYOLU MAH"
+      "SUYOLU MAH",
     ],
-    "OSMANCIK": [
+    OSMANCIK: [
       "AĞIROĞLAN KÖYÜ",
       "AĞIZSUYU MAH (GECEK KÖYÜ)",
       "AHATLI MAH (KARALARGÜNEY KÖYÜ)",
@@ -22427,9 +22427,9 @@
       "ULUCAMİİ MAH",
       "YAZI MAH",
       "YENİ MAH",
-      "YEŞİLÇATMA MAH"
+      "YEŞİLÇATMA MAH",
     ],
-    "SUNGURLU": [
+    SUNGURLU: [
       "AKÇAKOYUNLU KÖYÜ",
       "AKÇALI KÖYÜ",
       "AKDERE KÖYÜ",
@@ -22566,9 +22566,9 @@
       "ŞEKERPINAR MAH",
       "TURAN MAH",
       "YENİDOĞAN MAH",
-      "YENİHAYAT MAH"
+      "YENİHAYAT MAH",
     ],
-    "UĞURLUDAĞ": [
+    UĞURLUDAĞ: [
       "ANBARCI KÖYÜ",
       "AŞILIARMUT KÖYÜ",
       "BELKAVAK KÖYÜ",
@@ -22593,11 +22593,11 @@
       "TUTPINAR MAH",
       "YENİCAMİİ MAH",
       "YEŞİLYURT MAH",
-      "YÜZGEÇ MAH"
-    ]
+      "YÜZGEÇ MAH",
+    ],
   },
-  "DENİZLİ": {
-    "ACIPAYAM": [
+  DENİZLİ: {
+    ACIPAYAM: [
       "AKALAN MAH",
       "AKŞAR MAH",
       "ALAATTİN MAH",
@@ -22653,9 +22653,9 @@
       "YEŞİLYUVA MAH",
       "YOLÇATI MAH",
       "YUKARI MAH",
-      "YUMRUTAŞ MAH"
+      "YUMRUTAŞ MAH",
     ],
-    "BABADAĞ": [
+    BABADAĞ: [
       "AHILLI MAH",
       "BEKİRLER MAH",
       "CUMHURİYET MAH",
@@ -22667,9 +22667,9 @@
       "KIRANYER MAH",
       "MOLLAAHMET MAH",
       "OĞUZLAR MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "BAKLAN": [
+    BAKLAN: [
       "BALCA MAH",
       "BEYELLİ MAH",
       "BOĞAZİÇİ MAH",
@@ -22683,9 +22683,9 @@
       "KAVAKLAR MAH",
       "KİRAZLI MAH",
       "KONAK MAH",
-      "ŞENYAYLA MAH"
+      "ŞENYAYLA MAH",
     ],
-    "BEKİLLİ": [
+    BEKİLLİ: [
       "BAHÇELİ MAH",
       "BÜKRÜCE MAH",
       "ÇAMKÖY MAH",
@@ -22700,9 +22700,9 @@
       "ÜÇKUYU MAH",
       "YAHYALAR MAH",
       "YENİ MAH",
-      "YEŞİLOBA MAH"
+      "YEŞİLOBA MAH",
     ],
-    "BEYAĞAÇ": [
+    BEYAĞAÇ: [
       "CUMHURİYET MAH",
       "ÇAMLIK MAH",
       "EŞENLER MAH",
@@ -22717,9 +22717,9 @@
       "UZUNOLUK MAH",
       "YENİ MAH",
       "YENİÇEŞME MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "BOZKURT": [
+    BOZKURT: [
       "ALİKURT MAH",
       "ARMUTALANI MAH",
       "AVDAN MAH",
@@ -22739,9 +22739,9 @@
       "MİMAR SİNAN MAH",
       "SAZKÖY MAH",
       "TUTLUCA MAH",
-      "YENİBAĞLAR MAH"
+      "YENİBAĞLAR MAH",
     ],
-    "BULDAN": [
+    BULDAN: [
       "AKTAŞ MAH",
       "ALACAOĞLU MAH",
       "ALANDIZ MAH",
@@ -22786,9 +22786,9 @@
       "YENİ MAH",
       "YENİCEKENT MAH",
       "YENİÇAM MAH",
-      "YEŞİL DERE MAH"
+      "YEŞİL DERE MAH",
     ],
-    "ÇAL": [
+    ÇAL: [
       "AKKENT MAH",
       "ALFAKLAR MAH",
       "AŞAĞISEYİT MAH",
@@ -22822,9 +22822,9 @@
       "ŞAPCILAR MAH",
       "YAZIR MAH",
       "YEŞİLYURT MAH",
-      "YUKARISEYİT MAH"
+      "YUKARISEYİT MAH",
     ],
-    "ÇAMELİ": [
+    ÇAMELİ: [
       "AKPINAR MAH",
       "ARIKAYA MAH",
       "AYVACIK MAH",
@@ -22855,9 +22855,9 @@
       "YENİ MAH",
       "YEŞİLYAYLA MAH",
       "YUMRUTAŞ MAH",
-      "YUNUSPINARI MAH"
+      "YUNUSPINARI MAH",
     ],
-    "ÇARDAK": [
+    ÇARDAK: [
       "AYVAZ MAH",
       "BAHÇELİEVLER MAH",
       "BEYLERLİ MAH",
@@ -22874,9 +22874,9 @@
       "İSTİKLAL MAH",
       "SARAY MAH",
       "SÖĞÜTLÜ MAH",
-      "SÖĞÜTÖZÜ MAH"
+      "SÖĞÜTÖZÜ MAH",
     ],
-    "ÇİVRİL": [
+    ÇİVRİL: [
       "AKÇAKÖY MAH",
       "AKPINAR MAH",
       "AKTAŞ MAH",
@@ -22953,9 +22953,9 @@
       "YASSIHÜYÜK MAH",
       "YUKARI ÇAPAK MAH",
       "YUKARI MAH",
-      "YUVAKÖY MAH"
+      "YUVAKÖY MAH",
     ],
-    "GÜNEY": [
+    GÜNEY: [
       "ADIGÜZELLER MAH",
       "AŞAĞIÇEŞME MAH",
       "AYDOĞDU MAH",
@@ -22979,9 +22979,9 @@
       "ÜÇ EYLÜL MAH",
       "YAĞCILAR MAH",
       "YENİ MAH",
-      "YENİKONAK MAH"
+      "YENİKONAK MAH",
     ],
-    "HONAZ": [
+    HONAZ: [
       "AFŞIN BEY MAH",
       "AKBAŞ MAH",
       "AŞAĞIDAĞDERE MAH",
@@ -23004,9 +23004,9 @@
       "SAPACA MAH",
       "YENİ MAH",
       "YOKUŞBAŞI MAH",
-      "YUKARIDAĞDERE MAH"
+      "YUKARIDAĞDERE MAH",
     ],
-    "KALE": [
+    KALE: [
       "ADAMHARMANI MAH",
       "ALANYURT MAH",
       "BELENKÖY MAH",
@@ -23038,9 +23038,9 @@
       "TOKİ MAH",
       "ULUÇAM MAH",
       "YENİDERE MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "MERKEZEFENDİ": [
+    MERKEZEFENDİ: [
       "ADALET MAH",
       "BAHÇELİEVLER MAH",
       "BARUTÇULAR MAH",
@@ -23090,9 +23090,9 @@
       "AŞAĞIŞAMLI MAH",
       "ÇELTİKÇİ MAH",
       "SALİHAĞA MAH",
-      "ÜZERLİK MAH"
+      "ÜZERLİK MAH",
     ],
-    "PAMUKKALE": [
+    PAMUKKALE: [
       "AKKÖY MAH",
       "KARAHAYIT MAH",
       "PAMUKKALE MAH",
@@ -23153,9 +23153,9 @@
       "TEKKE MAH",
       "YUNUSEMRE MAH",
       "ZEYTİNKÖY MAH",
-      "ZÜMRÜT MAH"
+      "ZÜMRÜT MAH",
     ],
-    "SARAYKÖY": [
+    SARAYKÖY: [
       "ACIDERE MAH",
       "ACISU MAH",
       "ADA MAH",
@@ -23188,9 +23188,9 @@
       "TURAN MAH",
       "UYANIK MAH",
       "YAKAYURT MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "SERİNHİSAR": [
+    SERİNHİSAR: [
       "AŞAĞI MAH",
       "AYAZ MAH",
       "CUMHURİYET MAH",
@@ -23201,9 +23201,9 @@
       "ŞAİR EŞREF MAH",
       "YATAĞAN MAH",
       "YENİCE MAH",
-      "YÜREĞİL MAH"
+      "YÜREĞİL MAH",
     ],
-    "TAVAS": [
+    TAVAS: [
       "AKINCILAR MAH",
       "AKYAR MAH",
       "ALPA MAH",
@@ -23253,11 +23253,11 @@
       "YENİ MAH",
       "YEŞİLKÖY MAH",
       "YORGA MAH",
-      "YUKARIBOĞAZ MAH"
-    ]
+      "YUKARIBOĞAZ MAH",
+    ],
   },
-  "DİYARBAKIR": {
-    "BAĞLAR": [
+  DİYARBAKIR: {
+    BAĞLAR: [
       "AĞAÇGEÇİT MAH",
       "ALİPINAR MAH",
       "BAĞCILAR MAH",
@@ -23305,9 +23305,9 @@
       "ORTAÖREN MAH",
       "SELAHATTİN EYYUBİ MAH",
       "ŞEYH ŞAMİL MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "BİSMİL": [
+    BİSMİL: [
       "AĞILKÖY MAH",
       "AĞILLI MAH",
       "AHMETLİ MAH",
@@ -23429,9 +23429,9 @@
       "YENİCE MAH",
       "YUKARIDOLAY MAH",
       "YUKARIHARIM MAH",
-      "YUKARISALAT MAH"
+      "YUKARISALAT MAH",
     ],
-    "ÇERMİK": [
+    ÇERMİK: [
       "AĞAÇHAN MAH",
       "AKÇÖRTEN MAH",
       "AKKOYUNLU MAH",
@@ -23512,9 +23512,9 @@
       "YAYLACIK MAH",
       "YEŞİLOVA MAH",
       "YİĞİTLER MAH",
-      "YOĞUN MAH"
+      "YOĞUN MAH",
     ],
-    "ÇINAR": [
+    ÇINAR: [
       "AĞAÇSEVER MAH",
       "AKÇOMAK MAH",
       "AKTEPE MAH",
@@ -23614,9 +23614,9 @@
       "YEŞİLTAŞ MAH",
       "YILLARCA MAH",
       "YUKARIORTAÖREN MAH",
-      "YUVACIK MAH"
+      "YUVACIK MAH",
     ],
-    "ÇÜNGÜŞ": [
+    ÇÜNGÜŞ: [
       "AKBAŞAK MAH",
       "AKTAŞ MAH",
       "ALBAYRAK MAH",
@@ -23656,9 +23656,9 @@
       "YAZYAĞMURU MAH",
       "YENİCE MAH",
       "YENİKÖY MAH",
-      "YUKARIŞEYHLER MAH"
+      "YUKARIŞEYHLER MAH",
     ],
-    "DİCLE": [
+    DİCLE: [
       "15 TEMMUZ MAH",
       "ACAR MAH",
       "ALTAYKÖY MAH",
@@ -23706,9 +23706,9 @@
       "ÜZÜMLÜ MAH",
       "YEŞİLSIRT MAH",
       "YEŞİLTEPE MAH",
-      "YOKUŞLU MAH"
+      "YOKUŞLU MAH",
     ],
-    "EĞİL": [
+    EĞİL: [
       "AKALAN MAH",
       "BABALAR MAH",
       "BAHŞİLAR MAH",
@@ -23739,9 +23739,9 @@
       "TEPECİK MAH",
       "YATIR MAH",
       "YENİŞEHİR MAH",
-      "YUKARIHAYDAN MAH"
+      "YUKARIHAYDAN MAH",
     ],
-    "ERGANİ": [
+    ERGANİ: [
       "ADNAN MENDERES MAH",
       "AHMETLİ MAH",
       "AKÇAKALE MAH",
@@ -23843,9 +23843,9 @@
       "YUKARIBİTİKÇİ MAH",
       "YUKARIKARPUZLU MAH",
       "YUKARIKUYULU MAH",
-      "ZİYARET MAH"
+      "ZİYARET MAH",
     ],
-    "HANİ": [
+    HANİ: [
       "ABACILAR MAH",
       "AKÇAYURT MAH",
       "ANIL MAH",
@@ -23871,9 +23871,9 @@
       "VEZİRİ MAH",
       "YAYVAN MAH",
       "YUKARITURALI MAH",
-      "ZİRVE MAH"
+      "ZİRVE MAH",
     ],
-    "HAZRO": [
+    HAZRO: [
       "AĞARTI MAH",
       "BAĞYURDU MAH",
       "BAHÇE MAH",
@@ -23904,9 +23904,9 @@
       "UZUNARGIT MAH",
       "ÜLGEN MAH",
       "VARINCA MAH",
-      "YAZGI MAH"
+      "YAZGI MAH",
     ],
-    "KAYAPINAR": [
+    KAYAPINAR: [
       "AVCISUYU MAH",
       "BARIŞ MAH",
       "BAYKARA MAH",
@@ -23940,9 +23940,9 @@
       "TOSUNLU MAH",
       "UYANDIK MAH",
       "YENİÖZERLİ MAH",
-      "YOLBOYU PİRİNÇLİK MAH"
+      "YOLBOYU PİRİNÇLİK MAH",
     ],
-    "KOCAKÖY": [
+    KOCAKÖY: [
       "AMBAR MAH",
       "ARKBAŞI MAH",
       "BOYUNLU MAH",
@@ -23964,9 +23964,9 @@
       "ŞEYH ŞERAFETTİN MAH",
       "TEPECİK MAH",
       "YAZIKÖY MAH",
-      "YENİŞEHİR MAH"
+      "YENİŞEHİR MAH",
     ],
-    "KULP": [
+    KULP: [
       "AĞAÇKORUR MAH",
       "AĞAÇLI MAH",
       "AĞILLI MAH",
@@ -24024,9 +24024,9 @@
       "YAYLAK MAH",
       "YEŞİLKÖY MAH",
       "YUVACIK MAH",
-      "ZEYREK MAH"
+      "ZEYREK MAH",
     ],
-    "LİCE": [
+    LİCE: [
       "ABALI MAH",
       "AKÇABUDAK MAH",
       "ARIKLI MAH",
@@ -24096,9 +24096,9 @@
       "YORULMAZ MAH",
       "YÜNLÜCE MAH",
       "ZİYARET MAH",
-      "ZÜMRÜT MAH"
+      "ZÜMRÜT MAH",
     ],
-    "SİLVAN": [
+    SİLVAN: [
       "AKÇAYIR MAH",
       "AKÇELTİK MAH",
       "AKDERE MAH",
@@ -24191,9 +24191,9 @@
       "YOLARASI MAH",
       "YUKARIVEYSİ MAH",
       "YUVA MAH",
-      "YÜKSEK MAH"
+      "YÜKSEK MAH",
     ],
-    "SUR": [
+    SUR: [
       "AĞAÇLIDERE MAH",
       "ALABAL MAH",
       "ALCIK MAH",
@@ -24293,9 +24293,9 @@
       "LALEBEY MAH",
       "MELİKAHMET MAH",
       "SÜLEYMAN NAZİF MAH",
-      "ZİYA GÖKALP MAH"
+      "ZİYA GÖKALP MAH",
     ],
-    "YENİŞEHİR": [
+    YENİŞEHİR: [
       "AZİZİYE MAH",
       "CUMHURİYET MAH",
       "GÜRDOĞAN MAH",
@@ -24337,11 +24337,11 @@
       "SİVRİTEPE MAH",
       "YAYTAŞ MAH",
       "YENİŞEHİR MAH",
-      "YUKARI NASIRLAR MAH"
-    ]
+      "YUKARI NASIRLAR MAH",
+    ],
   },
-  "DÜZCE": {
-    "AKÇAKOCA": [
+  DÜZCE: {
+    AKÇAKOCA: [
       "AYAZLI MAH",
       "CUMHURİYET MAH",
       "HACI YUSUFLAR MAH",
@@ -24407,9 +24407,9 @@
       "UĞURLU KÖYÜ",
       "YALI MAH (BEYHANLI KÖYÜ)",
       "YENİCE KÖYÜ",
-      "YEŞİLKÖY KÖYÜ"
+      "YEŞİLKÖY KÖYÜ",
     ],
-    "CUMAYERİ": [
+    CUMAYERİ: [
       "ÇEVRİK MAH",
       "MEHMET AKİF MAH",
       "ORTA MAH",
@@ -24466,9 +24466,9 @@
       "ŞAKİR MAH (ORDULUKARADERE KÖYÜ)",
       "TAŞLIK KÖYÜ",
       "TOMAS MAH (HAMASCIK KÖYÜ)",
-      "YUKARIAVLAYAN KÖYÜ"
+      "YUKARIAVLAYAN KÖYÜ",
     ],
-    "ÇİLİMLİ": [
+    ÇİLİMLİ: [
       "ARABACI MAH",
       "MAHİRAĞA MAH",
       "ŞEREFİYE MAH",
@@ -24507,9 +24507,9 @@
       "YENİ MAH (YENİVAKIF KÖYÜ)",
       "YENİKÖY KÖYÜ",
       "YUKARIKARAKÖY KÖYÜ",
-      "YUKARIKÖY MAH (KIRKHARMAN KÖYÜ)"
+      "YUKARIKÖY MAH (KIRKHARMAN KÖYÜ)",
     ],
-    "GÖLYAKA": [
+    GÖLYAKA: [
       "AÇMA MAH",
       "CUMAKIRI MAH",
       "ESEN MAH",
@@ -24566,9 +24566,9 @@
       "YAZLIK KÖYÜ",
       "YENİ MAH (SAÇMALIPINAR KÖYÜ)",
       "YEŞİLOVA KÖYÜ",
-      "ZEKERİYA KÖYÜ"
+      "ZEKERİYA KÖYÜ",
     ],
-    "GÜMÜŞOVA": [
+    GÜMÜŞOVA: [
       "FATİH MAH",
       "HACILAR MAH",
       "KIŞLA MAH",
@@ -24597,9 +24597,9 @@
       "YAKABAŞI MAH (YAKABAŞI KÖYÜ)",
       "YEŞİLYAYLA KÖYÜ",
       "YILDIZTEPE KÖYÜ",
-      "YONGALIK KÖYÜ"
+      "YONGALIK KÖYÜ",
     ],
-    "KAYNAŞLI": [
+    KAYNAŞLI: [
       "ÇELE MAH",
       "ESKİKÖY MAH",
       "KARAÇALI MAH",
@@ -24685,9 +24685,9 @@
       "VELİOĞLU ALİOSMAN MAH (MURATBEY KÖYÜ)",
       "VEYSELUSTA MAH (TAVAK KÖYÜ)",
       "YAĞCILAR BİLAL MAH (MURATBEY KÖYÜ)",
-      "YENİDOĞAN MAH (ÜÇKÖPRÜ KÖYÜ)"
+      "YENİDOĞAN MAH (ÜÇKÖPRÜ KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AĞAKÖYÜ MAH",
       "AKPINAR MAH",
       "ARAPÇİFTLİĞİ MAH",
@@ -24955,9 +24955,9 @@
       "YILANKAYA MAH (AYDINPINAR KÖYÜ)",
       "YUKARI MAH (GÜNBAŞI KÖYÜ)",
       "YUKARI MAH (YÖRÜK KÖYÜ)",
-      "YUNUSLAR MAH (KEMERKASIM KÖYÜ)"
+      "YUNUSLAR MAH (KEMERKASIM KÖYÜ)",
     ],
-    "YIĞILCA": [
+    YIĞILCA: [
       "AKSU MAH (HOŞAFOĞLU KÖYÜ)",
       "ASAR KÖYÜ",
       "AŞAĞI MAH (HACILAR KÖYÜ)",
@@ -25042,11 +25042,11 @@
       "AHMETÇİLER MAH",
       "ATATÜRK MAH",
       "MAREŞAL FEVZİ  ÇAKMAK MAH",
-      "ORHANGAZİ MAH"
-    ]
+      "ORHANGAZİ MAH",
+    ],
   },
-  "EDİRNE": {
-    "ENEZ": [
+  EDİRNE: {
+    ENEZ: [
       "ÇATALTEPE MAH",
       "GAZİÖMERBEY MAH",
       "YENİ MAH",
@@ -25068,9 +25068,9 @@
       "UMURBEY KÖYÜ",
       "VAKIF KÖYÜ",
       "YAZIR KÖYÜ",
-      "YENİCE KÖYÜ"
+      "YENİCE KÖYÜ",
     ],
-    "HAVSA": [
+    HAVSA: [
       "ARPAÇ KÖYÜ",
       "HABİLLER KÖYÜ",
       "HASKÖY KÖYÜ",
@@ -25101,9 +25101,9 @@
       "ŞERBETTAR KÖYÜ",
       "TAHAL KÖYÜ",
       "TAPTIK KÖYÜ",
-      "YOLAGELDİ KÖYÜ"
+      "YOLAGELDİ KÖYÜ",
     ],
-    "İPSALA": [
+    İPSALA: [
       "BAYRAMBEY MAH",
       "BOZKURT MAH",
       "FATİH MAH",
@@ -25141,9 +25141,9 @@
       "TEVFİKİYE KÖYÜ",
       "TURPÇULAR KÖYÜ",
       "YAPILDAK KÖYÜ",
-      "ZAFERİYE MAH (HACI KÖYÜ)"
+      "ZAFERİYE MAH (HACI KÖYÜ)",
     ],
-    "KEŞAN": [
+    KEŞAN: [
       "AŞAĞI ZAFERİYE MAH",
       "BÜYÜK CAMİ MAH",
       "CUMHURİYET MAH",
@@ -25214,9 +25214,9 @@
       "SAZLIDERE MAH (SAZLIDERE KÖYÜ)",
       "SEYDİKÖY KÖYÜ",
       "ŞÜKRÜKÖY KÖYÜ",
-      "YERLİSU KÖYÜ"
+      "YERLİSU KÖYÜ",
     ],
-    "LALAPAŞA": [
+    LALAPAŞA: [
       "MERKEZ MAH",
       "BÜYÜNLÜ KÖYÜ",
       "ÇALLIDERE KÖYÜ",
@@ -25244,9 +25244,9 @@
       "TUĞLALIK KÖYÜ",
       "UZUNBAYIR KÖYÜ",
       "VAYSAL KÖYÜ",
-      "YÜNLÜCE KÖYÜ"
+      "YÜNLÜCE KÖYÜ",
     ],
-    "MERİÇ": [
+    MERİÇ: [
       "ADASARHANLI KÖYÜ",
       "BÜYÜKALTIAĞAÇ KÖYÜ",
       "GAZİ MAH (KÜPLÜ KÖYÜ)",
@@ -25273,9 +25273,9 @@
       "SEREM KÖYÜ",
       "UMURCA KÖYÜ",
       "YAKUPBEY KÖYÜ",
-      "YENİCEGÖRÜCE KÖYÜ"
+      "YENİCEGÖRÜCE KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "1.MURAT MAH",
       "ABDURRAHMAN MAH",
       "BABADEMİRTAŞ MAH",
@@ -25336,9 +25336,9 @@
       "UZGAÇ KÖYÜ",
       "ÜYÜKLÜTATAR KÖYÜ",
       "YENİKADIN KÖYÜ",
-      "YOLÜSTÜ KÖYÜ"
+      "YOLÜSTÜ KÖYÜ",
     ],
-    "SÜLOĞLU": [
+    SÜLOĞLU: [
       "AKARDERE KÖYÜ",
       "BÜYÜK GERDELLİ KÖYÜ",
       "DOMURCALI KÖYÜ",
@@ -25353,9 +25353,9 @@
       "MERKEZ MAH",
       "ORGANİZE SANAYİ BÖLGESİ MAH",
       "ŞAFAK MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "UZUNKÖPRÜ": [
+    UZUNKÖPRÜ: [
       "AŞÇIOĞLU MAH",
       "ATATÜRK MAH",
       "DEMİRTAŞ MAH",
@@ -25431,11 +25431,11 @@
       "MESCİT MAH",
       "MURADİYE CAMİ MAH",
       "RIZAEFENDİ MAH",
-      "YENİKÖY MAH"
-    ]
+      "YENİKÖY MAH",
+    ],
   },
-  "ELAZIĞ": {
-    "AĞIN": [
+  ELAZIĞ: {
+    AĞIN: [
       "AKPINAR MAH",
       "BAŞPINAR MAH",
       "MERKEZ MAH",
@@ -25463,9 +25463,9 @@
       "SARAYCIK KÖYÜ",
       "TARLABAŞI MAH (ÖĞRENDİK KÖYÜ)",
       "YEDİBAĞ KÖYÜ",
-      "YENİPAYAM KÖYÜ"
+      "YENİPAYAM KÖYÜ",
     ],
-    "ALACAKAYA": [
+    ALACAKAYA: [
       "ALTINÇANAK MAH",
       "ALTIOLUK MAH",
       "GÜLAMAN MAH",
@@ -25487,9 +25487,9 @@
       "KAYRANLI KÖYÜ",
       "OĞUZ MAH (İNCEBAYIR KÖYÜ)",
       "YALNIZDAMLAR KÖYÜ",
-      "YILMAZ MAH (İNCEBAYIR KÖYÜ)"
+      "YILMAZ MAH (İNCEBAYIR KÖYÜ)",
     ],
-    "ARICAK": [
+    ARICAK: [
       "GÜMÜŞYAKA MAH",
       "HALİL YAVUZ MAH",
       "HÜRRİYET MAH",
@@ -25530,9 +25530,9 @@
       "YAYLABAŞI MAH (BÜKARDI KÖYÜ)",
       "YOĞUNBİLEK KÖYÜ",
       "ZEYNET MAH (BÜKARDI KÖYÜ)",
-      "ZİYARET MAH (ÜÇOCAK KÖYÜ)"
+      "ZİYARET MAH (ÜÇOCAK KÖYÜ)",
     ],
-    "BASKİL": [
+    BASKİL: [
       "CANBEYLER MAH",
       "CUMHURİYET MAH",
       "ESKİBASKİL MAH",
@@ -25826,9 +25826,9 @@
       "YUVALAR MAH (ŞİTUŞAĞI KÖYÜ)",
       "YÜZGEÇLER MAH (ÇİĞDEMLİK KÖYÜ)",
       "ZELİHAN MAH (ALADİKME KÖYÜ)",
-      "ZİYARET MAH (DOĞANCIK KÖYÜ)"
+      "ZİYARET MAH (DOĞANCIK KÖYÜ)",
     ],
-    "KARAKOÇAN": [
+    KARAKOÇAN: [
       "BAHÇELİEVLER MAH",
       "GÖLPINAR MAH",
       "KARŞIYAKA MAH",
@@ -25979,9 +25979,9 @@
       "YUKARIOVACIK KÖYÜ",
       "YÜCEKONAK KÖYÜ",
       "YÜZEV KÖYÜ",
-      "ZİLGÖLÜ MAH (ALAYAĞMUR KÖYÜ)"
+      "ZİLGÖLÜ MAH (ALAYAĞMUR KÖYÜ)",
     ],
-    "KEBAN": [
+    KEBAN: [
       "BARAJ MAH",
       "DEĞİRMENBAŞI MAH",
       "FIRAT MAH",
@@ -26060,9 +26060,9 @@
       "YUKARI DEMİRLİ MAH (BEYDEĞİRMENİ KÖYÜ)",
       "YUKARI KUŞÇU MAH (KUŞÇU KÖYÜ)",
       "YUKARI MAH (ÖRENYAKA KÖYÜ)",
-      "YUKARI MEVKİİ MAH (ALTINKÜREK KÖYÜ)"
+      "YUKARI MEVKİİ MAH (ALTINKÜREK KÖYÜ)",
     ],
-    "KOVANCILAR": [
+    KOVANCILAR: [
       "BAĞLAR MAH",
       "BAHÇELİEVLER MAH",
       "ÇARŞI BAŞI MAH",
@@ -26207,9 +26207,9 @@
       "YUKARIKANATLI KÖYÜ",
       "YUKARIKAZANLAR KÖYÜ",
       "YUKARIMİRAHMET KÖYÜ",
-      "YÜNLÜCE MAH (DEĞİRMENTAŞI KÖYÜ)"
+      "YÜNLÜCE MAH (DEĞİRMENTAŞI KÖYÜ)",
     ],
-    "MADEN": [
+    MADEN: [
       "BAHÇELİEVLER MAH",
       "CAMİİ KEBİR MAH",
       "ACIBADEM MAH (ÇİTLİKÖY KÖYÜ)",
@@ -26324,9 +26324,9 @@
       "ZAHURAN MAH (SAĞRILI KÖYÜ)",
       "ZİBE MAH (TEKEVLER KÖYÜ)",
       "ZİYARET EVLERİ MAH (KARTALDERE KÖYÜ)",
-      "ZUĞUR EVLERİ MAH (ÇALKAYA KÖYÜ)"
+      "ZUĞUR EVLERİ MAH (ÇALKAYA KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ABDULLAH PAŞA MAH",
       "CUMHURİYET MAH",
       "HİLALKENT MAH",
@@ -26682,9 +26682,9 @@
       "ATAŞEHİR MAH",
       "HİCRET MAH",
       "OLGUNLAR MAH",
-      "SÜRSÜRÜ MAH"
+      "SÜRSÜRÜ MAH",
     ],
-    "PALU": [
+    PALU: [
       "GİRNE MAH (BEYHAN KÖYÜ)",
       "GÜNEY MAH (BEYHAN KÖYÜ)",
       "İSTASYON MAH (BEYHAN KÖYÜ)",
@@ -26760,9 +26760,9 @@
       "KÜLTÜR MAH",
       "NUMUNE MAH",
       "YENİMAHALLE MAH",
-      "YUKARI PALU MAH"
+      "YUKARI PALU MAH",
     ],
-    "SİVRİCE": [
+    SİVRİCE: [
       "AĞILÖZÜ MAH (KÜRKKÖY KÖYÜ)",
       "AKBUĞDAY KÖYÜ",
       "AKSEKİ KÖYÜ",
@@ -26907,11 +26907,11 @@
       "KARAÇALI MAH",
       "KÜLTÜR MAH",
       "OLGUNLAR MAH",
-      "SANAYİ MAH"
-    ]
+      "SANAYİ MAH",
+    ],
   },
-  "ERZİNCAN": {
-    "ÇAYIRLI": [
+  ERZİNCAN: {
+    ÇAYIRLI: [
       "ATATÜRK MAH",
       "BARBAROS MAH",
       "FATİH MAH",
@@ -26981,9 +26981,9 @@
       "YEŞİLYAKA KÖYÜ",
       "YUKARIÇAMURDERE KÖYÜ",
       "YUKARIKARTALLI KÖYÜ",
-      "YÜREKLİ KÖYÜ"
+      "YÜREKLİ KÖYÜ",
     ],
-    "İLİÇ": [
+    İLİÇ: [
       "ABDULLAH PAŞA MAH",
       "FATİH MAH",
       "İBRAHİM ÇEÇEN MAH",
@@ -27058,9 +27058,9 @@
       "YAYLAPINAR KÖYÜ",
       "YEŞİLYURT MAH (ÇALTI KÖYÜ)",
       "YILMAZ KÖYÜ",
-      "YUKARI AĞILDERE MAH (AĞILDERE KÖYÜ)"
+      "YUKARI AĞILDERE MAH (AĞILDERE KÖYÜ)",
     ],
-    "KEMAH": [
+    KEMAH: [
       "AŞAĞIGEDİK MAH",
       "BEKLİMÇAY MAH",
       "CİRGİŞİN MAH",
@@ -27202,9 +27202,9 @@
       "YUKARI MAH (YASTIKTEPE KÖYÜ)",
       "YUSUFLAR MAH (ELMALI KÖYÜ)",
       "YUVACIK MAH (DERE KÖYÜ)",
-      "YÜCEBELEN KÖYÜ"
+      "YÜCEBELEN KÖYÜ",
     ],
-    "KEMALİYE": [
+    KEMALİYE: [
       "ARMAĞAN KÖYÜ",
       "AŞAĞIUMUTLU KÖYÜ",
       "AVCI KÖYÜ",
@@ -27309,9 +27309,9 @@
       "YENİKÖY MAH (DİLLİ KÖYÜ)",
       "YEŞİLYAMAÇ KÖYÜ",
       "YEŞİLYURT KÖYÜ",
-      "YUVA KÖYÜ"
+      "YUVA KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AKŞEMSETTİN MAH",
       "ATATÜRK MAH",
       "BARBAROS MAH",
@@ -27478,9 +27478,9 @@
       "YENİKÖY KÖYÜ",
       "YEŞİLÇAT KÖYÜ",
       "YEŞİLÇAY KÖYÜ",
-      "YEŞİLYURT MAH (MOLLAKÖY KÖYÜ)"
+      "YEŞİLYURT MAH (MOLLAKÖY KÖYÜ)",
     ],
-    "OTLUKBELİ": [
+    OTLUKBELİ: [
       "AĞAMÇAĞAM KÖYÜ",
       "AVCIÇAYIRI KÖYÜ",
       "BOĞAZLI KÖYÜ",
@@ -27495,9 +27495,9 @@
       "YEŞİLBÜK KÖYÜ",
       "FATİH MAH",
       "MEHMET AKİF ERSOY MAH",
-      "ŞEHİTLER MAH"
+      "ŞEHİTLER MAH",
     ],
-    "REFAHİYE": [
+    REFAHİYE: [
       "AĞMUSA KÖYÜ",
       "AĞTAŞ MAH (BABAASLAN KÖYÜ)",
       "AKARSU KÖYÜ",
@@ -27683,9 +27683,9 @@
       "CAMİİŞERİF MAH",
       "HAKOĞLU MAH",
       "KEMALİYE MAH",
-      "YENİDOĞAN MAH"
+      "YENİDOĞAN MAH",
     ],
-    "TERCAN": [
+    TERCAN: [
       "A.TEPECİK  MAH (İĞİKİ MAH) (ILISU KÖYÜ)",
       "AĞÖREN KÖYÜ",
       "AKMEZAR MEZRASI MAH (BALYAYLA KÖYÜ)",
@@ -27852,9 +27852,9 @@
       "FATİH MAH",
       "KAZIM KARABEKİR MAH",
       "MAMAHATUN MAH",
-      "YAVUZ SELİM MAH"
+      "YAVUZ SELİM MAH",
     ],
-    "ÜZÜMLÜ": [
+    ÜZÜMLÜ: [
       "BÜYÜK KADAĞAN MAH (ALTINBAŞAK KÖYÜ)",
       "FIRAT MAHELLESİ MAH (ALTINBAŞAK KÖYÜ)",
       "İSTASYON MAH (ALTINBAŞAK KÖYÜ)",
@@ -27937,11 +27937,11 @@
       "TERZİBABA MAH",
       "ÜÇLER MAH",
       "YAVUZ SELİM MAH",
-      "YUNUS EMRE MAH"
-    ]
+      "YUNUS EMRE MAH",
+    ],
   },
-  "ERZURUM": {
-    "AŞKALE": [
+  ERZURUM: {
+    AŞKALE: [
       "ABDALCIK MAH",
       "AKÖREN MAH",
       "ALTINTAŞ MAH",
@@ -28017,9 +28017,9 @@
       "YENİ MAH",
       "YENİKÖY HALİTPAŞA MAH",
       "YEŞİLOVA MAH",
-      "YUMRUVEREN MAH"
+      "YUMRUVEREN MAH",
     ],
-    "AZİZİYE": [
+    AZİZİYE: [
       "ADAÇAY MAH",
       "AĞCAKENT MAH",
       "AĞÖREN MAH",
@@ -28092,9 +28092,9 @@
       "YEŞİLOVA MAH",
       "YEŞİLVADİ MAH",
       "YONCALIK MAH",
-      "YUKARICANÖREN MAH"
+      "YUKARICANÖREN MAH",
     ],
-    "ÇAT": [
+    ÇAT: [
       "AĞAKÖY MAH",
       "AŞAĞIÇAT MAH",
       "BABADERESİ MAH",
@@ -28139,9 +28139,9 @@
       "YARMAK MAH",
       "YAVİ MAH",
       "YAYLASUYU MAH",
-      "YUKARIÇAT MAH"
+      "YUKARIÇAT MAH",
     ],
-    "HINIS": [
+    HINIS: [
       "ACARKÖY MAH",
       "AKBAYIR MAH",
       "AKÇAMELİK MAH",
@@ -28239,9 +28239,9 @@
       "YEŞİLBAHÇE MAH",
       "YEŞİLYAZI MAH",
       "YOLÜSTÜ MAH",
-      "YUKARIKAYABAŞI MAH"
+      "YUKARIKAYABAŞI MAH",
     ],
-    "HORASAN": [
+    HORASAN: [
       "ADNAN MENDERES MAH",
       "AĞILLI MAH",
       "AKÇATAŞ MAH",
@@ -28328,9 +28328,9 @@
       "YUKARIHORUM MAH",
       "YUKARITAHİRHOCA MAH",
       "YÜRÜKATLI MAH",
-      "YÜZÖREN MAH"
+      "YÜZÖREN MAH",
     ],
-    "İSPİR": [
+    İSPİR: [
       "AHLATLI MAH",
       "AKGÜNEY MAH",
       "AKPINAR MAH",
@@ -28430,9 +28430,9 @@
       "YUKARI MAH",
       "YUKARI ÖZBAĞ MAH",
       "YUNUSKÖY MAH",
-      "ZEYREK MAH"
+      "ZEYREK MAH",
     ],
-    "KARAÇOBAN": [
+    KARAÇOBAN: [
       "AKKAVAK MAH",
       "BAĞLAR MAH",
       "BAHÇELİ MAH",
@@ -28459,9 +28459,9 @@
       "MOLLADAVUT MAH",
       "OVAYONCALI MAH",
       "SARIVELİ MAH",
-      "SEYHAN MAH"
+      "SEYHAN MAH",
     ],
-    "KARAYAZI": [
+    KARAYAZI: [
       "ABDURRAHMANKÖY MAH",
       "AĞAÇLI MAH",
       "AKARSU MAH",
@@ -28536,9 +28536,9 @@
       "YUKARICİHANBEY MAH",
       "YUKARIÇIĞILGAN MAH",
       "YUKARISÖYLEMEZ MAH",
-      "YÜCELİK MAH"
+      "YÜCELİK MAH",
     ],
-    "KÖPRÜKÖY": [
+    KÖPRÜKÖY: [
       "AĞCAŞAR MAH",
       "AKÇAM MAH",
       "ALACA MAH",
@@ -28580,9 +28580,9 @@
       "YUKARIKIZILCA MAH",
       "YUKARIKIZILKALE MAH",
       "YUKARISÖĞÜTLÜ MAH",
-      "ZİYARET MAH"
+      "ZİYARET MAH",
     ],
-    "NARMAN": [
+    NARMAN: [
       "ALABALIK MAH",
       "ALACAYAR MAH",
       "ARAKÖY MAH",
@@ -28628,9 +28628,9 @@
       "TUZLA MAH",
       "YANIKTAŞ MAH",
       "YOLDERE MAH",
-      "YUKARIYAYLA MAH"
+      "YUKARIYAYLA MAH",
     ],
-    "OLTU": [
+    OLTU: [
       "ALATARLA MAH",
       "ARITAŞ MAH",
       "ASLANPAŞA MAH",
@@ -28702,9 +28702,9 @@
       "YOLBOYU MAH",
       "YUKARIÇAMLI MAH",
       "YUKARIKUMLU MAH",
-      "YUSUF ZİYABEY MAH"
+      "YUSUF ZİYABEY MAH",
     ],
-    "OLUR": [
+    OLUR: [
       "AKBAYIR MAH",
       "AKTEPE MAH",
       "ALTUNKAYA MAH",
@@ -28747,9 +28747,9 @@
       "YILDIZKAYA MAH",
       "YOLGÖZLER MAH",
       "YUKARIÇAYIRLI MAH",
-      "YUKARIKARACASU MAH"
+      "YUKARIKARACASU MAH",
     ],
-    "PALANDÖKEN": [
+    PALANDÖKEN: [
       "ABDURRAHMAN GAZİ MAH",
       "ADNAN MENDERES MAH",
       "ALİ BEZİRGAN MAH",
@@ -28775,9 +28775,9 @@
       "TAŞLIGÜNEY MAH",
       "TEPEKÖY MAH",
       "TOPARLAK MAH",
-      "YAĞMURCUK MAH"
+      "YAĞMURCUK MAH",
     ],
-    "PASİNLER": [
+    PASİNLER: [
       "ACI MAH",
       "AĞAÇMİNARE MAH",
       "AĞCALAR MAH",
@@ -28849,9 +28849,9 @@
       "YİĞİTPINARI MAH",
       "YİĞİTTAŞI MAH",
       "YUKARIÇAKMAK MAH",
-      "YUKARIDANİŞMENT MAH"
+      "YUKARIDANİŞMENT MAH",
     ],
-    "PAZARYOLU": [
+    PAZARYOLU: [
       "21 HAZİRAN MAH",
       "AKBULUT MAH",
       "ALIÇLI MAH",
@@ -28895,9 +28895,9 @@
       "YAYLALI MAH",
       "YAYLAÖZÜ MAH",
       "YENİ MAH",
-      "YİĞİTBAŞI MAH"
+      "YİĞİTBAŞI MAH",
     ],
-    "ŞENKAYA": [
+    ŞENKAYA: [
       "AKŞAR MAH",
       "AKTAŞ MAH",
       "ALICIK MAH",
@@ -28968,9 +28968,9 @@
       "YUKARIBAKRAÇLI MAH",
       "YÜNÖREN MAH",
       "YÜREKLİ MAH",
-      "ZÜMRÜT MAH"
+      "ZÜMRÜT MAH",
     ],
-    "TEKMAN": [
+    TEKMAN: [
       "AĞCAKOCA MAH",
       "AKDAĞ MAH",
       "AKDAMAR MAH",
@@ -29041,9 +29041,9 @@
       "YUKARIHANBEYİ MAH",
       "YUKARITEPECİK MAH",
       "YUVAKLI MAH",
-      "YÜCEPINAR MAH"
+      "YÜCEPINAR MAH",
     ],
-    "TORTUM": [
+    TORTUM: [
       "AKBABA MAH",
       "AKSU MAH",
       "AKTAŞ MAH",
@@ -29101,9 +29101,9 @@
       "YELLİTEPE MAH",
       "YUKARISİVRİ MAH",
       "YUMAKLI MAH",
-      "ZİYARETLİ MAH"
+      "ZİYARETLİ MAH",
     ],
-    "UZUNDERE": [
+    UZUNDERE: [
       "ALTINÇANAK MAH",
       "BALIKLI MAH",
       "CEVİZLİ MAH",
@@ -29121,9 +29121,9 @@
       "SEYİTEFENDİ MAH",
       "ULUBAĞ MAH",
       "UZUNDERE MAH",
-      "YAYLA MAH"
+      "YAYLA MAH",
     ],
-    "YAKUTİYE": [
+    YAKUTİYE: [
       "ŞÜKRÜPAŞA MAH",
       "AKTOPRAK MAH",
       "ALTINBULAK MAH",
@@ -29167,11 +29167,11 @@
       "YAZI PINARI MAH",
       "YERLİ SU MAH",
       "YEŞİLDERE MAH",
-      "YEŞİLOVA MAH"
-    ]
+      "YEŞİLOVA MAH",
+    ],
   },
-  "ESKİŞEHİR": {
-    "ALPU": [
+  ESKİŞEHİR: {
+    ALPU: [
       "AĞAÇHİSAR MAH",
       "AKTEPE MAH",
       "ALAPINAR MAH",
@@ -29204,9 +29204,9 @@
       "SÖĞÜTÇÜK MAH",
       "UYUZHAMAMKÖYÜ MAH",
       "YEŞİLDON MAH",
-      "YUNUSEMRE MAH"
+      "YUNUSEMRE MAH",
     ],
-    "BEYLİKOVA": [
+    BEYLİKOVA: [
       "AKKÖPRÜ MAH",
       "AŞAĞIDUDAŞ MAH",
       "AŞAĞIİĞDEAĞACI MAH",
@@ -29232,9 +29232,9 @@
       "YENİYURT MAH",
       "YUKARIDUDAŞ MAH",
       "YUKARIİĞDEAĞACI MAH",
-      "YUNUS EMRE MAH"
+      "YUNUS EMRE MAH",
     ],
-    "ÇİFTELER": [
+    ÇİFTELER: [
       "ABBASHALİMPAŞA MAH",
       "ADALAR MAH",
       "ALİKAN MAH",
@@ -29262,9 +29262,9 @@
       "YENİ MAH",
       "YENİDOĞAN MAH",
       "YILDIZÖREN MAH",
-      "ZAFERHAMİT MAH"
+      "ZAFERHAMİT MAH",
     ],
-    "GÜNYÜZÜ": [
+    GÜNYÜZÜ: [
       "ATLAS MAH",
       "AYVALI MAH",
       "BEDİL MAH",
@@ -29286,9 +29286,9 @@
       "YAĞRI MAH",
       "YAZIR MAH",
       "YENİKENT MAH",
-      "YEŞİLYAKA MAH"
+      "YEŞİLYAKA MAH",
     ],
-    "HAN": [
+    HAN: [
       "AĞLARCA MAH",
       "AKDERE MAH",
       "AKHİSAR MAH",
@@ -29303,9 +29303,9 @@
       "KAYI MAH",
       "PEÇENE MAH",
       "TEPEKÖY MAH",
-      "YAZILI MAH"
+      "YAZILI MAH",
     ],
-    "İNÖNÜ": [
+    İNÖNÜ: [
       "AŞAĞIKUZFINDIK MAH",
       "ÇARŞI MAH",
       "DEREYALAK MAH",
@@ -29321,9 +29321,9 @@
       "SEYİTALİKÖYÜ MAH",
       "YENİCE MAH",
       "YUKARIKUZFINDIK MAH",
-      "YÜRÜKYAYLA MAH"
+      "YÜRÜKYAYLA MAH",
     ],
-    "MAHMUDİYE": [
+    MAHMUDİYE: [
       "AKYURT MAH",
       "BALÇIKHİSAR MAH",
       "ÇAL MAH",
@@ -29342,9 +29342,9 @@
       "TÜRKMENMECİDİYE MAH",
       "YENİ MAH",
       "YENİKÖY MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "MİHALGAZİ": [
+    MİHALGAZİ: [
       "ALPAGUT MAH",
       "BOZANİÇ MAH",
       "CUMHURİYET MAH",
@@ -29353,9 +29353,9 @@
       "HÜRRİYET MAH",
       "İSTİKLAL MAH",
       "KARAOĞLAN MAH",
-      "SAKARIILICA MAH"
+      "SAKARIILICA MAH",
     ],
-    "MİHALIÇÇIK": [
+    MİHALIÇÇIK: [
       "ADAHİSAR MAH",
       "AHUR MAH",
       "AHURÖZÜ MAH",
@@ -29408,9 +29408,9 @@
       "YALIMKAYA MAH",
       "YAYLA MAH",
       "YEŞİLYURT MAH",
-      "YUNUSEMRE MAH"
+      "YUNUSEMRE MAH",
     ],
-    "ODUNPAZARI": [
+    ODUNPAZARI: [
       "AKÇAĞLAN MAH",
       "ALANÖNÜ MAH",
       "CUNUDİYE MAH",
@@ -29496,9 +29496,9 @@
       "AKARBAŞI MAH",
       "KIRMIZITOPRAK MAH",
       "VİŞNELİK MAH",
-      "YENİKENT MAH"
+      "YENİKENT MAH",
     ],
-    "SARICAKAYA": [
+    SARICAKAYA: [
       "BEYKÖY MAH",
       "BEYYAYLA MAH",
       "BİLAL HABEŞİ MAH",
@@ -29512,9 +29512,9 @@
       "LAÇİN MAH",
       "MAYISLAR MAH",
       "SARIKAYA MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "SEYİTGAZİ": [
+    SEYİTGAZİ: [
       "AKİN MAH",
       "AKSAKLI MAH",
       "ASLANBEYLİ MAH",
@@ -29565,9 +29565,9 @@
       "YENİKENT MAH",
       "YEŞİLTEPE MAH",
       "YUKARISÖĞÜT MAH",
-      "YUNUS MAH"
+      "YUNUS MAH",
     ],
-    "SİVRİHİSAR": [
+    SİVRİHİSAR: [
       "AHİLER MAH",
       "AKTAŞ MAH",
       "AŞAĞIKEPEN MAH",
@@ -29645,9 +29645,9 @@
       "YEŞİLKÖY MAH",
       "YUKARIKEPEN MAH",
       "YUNUSEMRE MAH",
-      "ZEYKÖYÜ MAH"
+      "ZEYKÖYÜ MAH",
     ],
-    "TEPEBAŞI": [
+    TEPEBAŞI: [
       "BAHÇELİEVLER MAH",
       "ESKİBAĞLAR MAH",
       "GÜLLÜK MAH",
@@ -29738,11 +29738,11 @@
       "SÜTLÜCE MAH",
       "ŞİRİNTEPE MAH",
       "YEŞİLTEPE MAH",
-      "ZİNCİRLİKUYU MAH"
-    ]
+      "ZİNCİRLİKUYU MAH",
+    ],
   },
-  "GAZİANTEP": {
-    "ARABAN": [
+  GAZİANTEP: {
+    ARABAN: [
       "AKBUDAK MAH",
       "AKKOÇ MAH",
       "ALTINPINAR MAH",
@@ -29791,9 +29791,9 @@
       "YOLVEREN MAH",
       "YUKARIKARAVAİZ MAH",
       "YUKARIYUFKALI MAH",
-      "ZİYARET MAH"
+      "ZİYARET MAH",
     ],
-    "İSLAHİYE": [
+    İSLAHİYE: [
       "AĞABEY MAH",
       "AĞALAROBASI MAH",
       "AKINYOLU MAH",
@@ -29864,9 +29864,9 @@
       "YEŞİLYURT MAH",
       "YOLBAŞI MAH",
       "YUKARIBİLENLER MAH",
-      "ZİNCİRLİ MAH"
+      "ZİNCİRLİ MAH",
     ],
-    "KARKAMIŞ": [
+    KARKAMIŞ: [
       "AKÇAKÖY MAH",
       "ALAÇALI MAH",
       "ALAGÖZ MAH",
@@ -29905,9 +29905,9 @@
       "YEŞERTİ MAH",
       "YOLAĞZI MAH",
       "YURTBAĞI MAH",
-      "ZÜHRECİK MAH"
+      "ZÜHRECİK MAH",
     ],
-    "NİZİP": [
+    NİZİP: [
       "ADAKLI MAH",
       "AKÇAKENT MAH",
       "AKKUYU MAH",
@@ -30018,9 +30018,9 @@
       "YUKARIBAYINDIR MAH",
       "YUKARIÇARDAK MAH",
       "YUNUS EMRE MAH",
-      "ZEYTİNLİK MAH"
+      "ZEYTİNLİK MAH",
     ],
-    "NURDAĞI": [
+    NURDAĞI: [
       "ALPASLAN TÜRKEŞ MAH",
       "ALTINOVA MAH",
       "ASLANLI MAH",
@@ -30068,9 +30068,9 @@
       "TÜLLÜCE MAH",
       "YAVUZSELİM MAH",
       "YAYLACIK MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "OĞUZELİ": [
+    OĞUZELİ: [
       "ACER MAH",
       "AKÇAMEZRA MAH",
       "ALTINYURT MAH",
@@ -30162,9 +30162,9 @@
       "YEŞİLDERE MAH",
       "YEŞİLTEPE MAH",
       "YUKARIGÜNEYSE MAH",
-      "GÜRSU MAH"
+      "GÜRSU MAH",
     ],
-    "ŞAHİNBEY": [
+    ŞAHİNBEY: [
       "AKYOL MAH",
       "ALAYBEY MAH",
       "ALLEBEN MAH",
@@ -30345,9 +30345,9 @@
       "ŞEKEROĞLU MAH",
       "TIŞLAKİ MAH",
       "TÜRKTEPE MAH",
-      "YAZICIK MAH"
+      "YAZICIK MAH",
     ],
-    "ŞEHİTKAMİL": [
+    ŞEHİTKAMİL: [
       "29 EKİM MAH",
       "ÇAKMAK MAH",
       "ÇIKSORUT MAH",
@@ -30496,9 +30496,9 @@
       "YEŞİLCE MAH",
       "YIĞINLI MAH",
       "YUKARI ARIL MAH",
-      "ZÜLFİKAR MAH"
+      "ZÜLFİKAR MAH",
     ],
-    "YAVUZELİ": [
+    YAVUZELİ: [
       "AKBAYIR MAH",
       "AŞAĞIHÖÇÜKLÜ MAH",
       "AŞAĞIKAYABAŞI MAH",
@@ -30542,11 +30542,11 @@
       "YENİYURT MAH",
       "YÖRELİ MAH",
       "YUKARIKEKLİKTEPE MAH",
-      "YUKARIYENİKÖY MAH"
-    ]
+      "YUKARIYENİKÖY MAH",
+    ],
   },
-  "GİRESUN": {
-    "ALUCRA": [
+  GİRESUN: {
+    ALUCRA: [
       "MESUDİYE MAH",
       "YUNUS EMRE MAH",
       "AHMETLİ MAH (HACIHASAN KÖYÜ)",
@@ -30651,9 +30651,9 @@
       "YENİ MAH (AKTEPE KÖYÜ)",
       "YENİKÖY MAH (ÇAKRAK KÖYÜ)",
       "YEŞİLYURT KÖYÜ",
-      "YOĞURDUGARA MAH (HACIHASAN KÖYÜ)"
+      "YOĞURDUGARA MAH (HACIHASAN KÖYÜ)",
     ],
-    "BULANCAK": [
+    BULANCAK: [
       "ACISU MAH",
       "BAHÇELİEVLER MAH",
       "BALLICA MAH",
@@ -30914,9 +30914,9 @@
       "YEŞİLKÖY KÖYÜ",
       "YILANDİLOĞLU MAH (YUNUSLU KÖYÜ)",
       "YILDIZ KÖYÜ",
-      "YUKARI DİKMEN MAH (BURUNUCU KÖYÜ)"
+      "YUKARI DİKMEN MAH (BURUNUCU KÖYÜ)",
     ],
-    "ÇAMOLUK": [
+    ÇAMOLUK: [
       "KARŞIYAKA MAH",
       "KURTULUŞ MAH",
       "AKYAPI KÖYÜ",
@@ -30957,9 +30957,9 @@
       "YAZILAR MAH",
       "YENİKÖY KÖYÜ",
       "YUSUFELİ KÖYÜ",
-      "YUVACIK MAH"
+      "YUVACIK MAH",
     ],
-    "ÇANAKÇI": [
+    ÇANAKÇI: [
       "ARMUTDÜZÜ MAH (DÜZKÖY KÖYÜ)",
       "AŞAĞI MAH (AKKÖY KÖYÜ)",
       "AŞAĞI MAH (BAKIMLI KÖYÜ)",
@@ -31023,9 +31023,9 @@
       "YAZLIK MAH (DEREGÖZÜ KÖYÜ)",
       "YENİŞADI KÖYÜ",
       "YUKARI MAH (AKKÖY KÖYÜ)",
-      "YUKARI MAH (DOĞANKÖY KÖYÜ)"
+      "YUKARI MAH (DOĞANKÖY KÖYÜ)",
     ],
-    "DERELİ": [
+    DERELİ: [
       "BAHÇELİ MAH",
       "DERELİ MAH",
       "FATİH MAH",
@@ -31288,9 +31288,9 @@
       "YUKARI MAH (TAŞLICA KÖYÜ)",
       "YUKARI MAH (UZUNDERE KÖYÜ)",
       "YUVA MAH (YAVUZKEMAL KÖYÜ)",
-      "ZİYARET OBASI MAH (AKKAYA KÖYÜ)"
+      "ZİYARET OBASI MAH (AKKAYA KÖYÜ)",
     ],
-    "DOĞANKENT": [
+    DOĞANKENT: [
       "MERKEZ MAH",
       "SADAKLI MAH",
       "SÜTTAŞI MAH",
@@ -31338,9 +31338,9 @@
       "YANAĞZI MAH (SÖĞÜTAĞZI KÖYÜ)",
       "YANLIZCA MAH (GÜVENLİK KÖYÜ)",
       "YAZLIK MAH (ÇATAK KÖYÜ)",
-      "YERLİCE MAH (YENİKÖY KÖYÜ)"
+      "YERLİCE MAH (YENİKÖY KÖYÜ)",
     ],
-    "ESPİYE": [
+    ESPİYE: [
       "ADABÜK MAH",
       "ÇAM MAH",
       "ESENTEPE MAH",
@@ -31514,9 +31514,9 @@
       "YIRTAKLI MAH (HACIKÖY KÖYÜ)",
       "YUKARI MAH (BAYRAMBEY KÖYÜ)",
       "YUSUFEV YANI MAH (YEŞİLYURT KÖYÜ)",
-      "YUSUFLU MAH (KURUGERİŞ KÖYÜ)"
+      "YUSUFLU MAH (KURUGERİŞ KÖYÜ)",
     ],
-    "EYNESİL": [
+    EYNESİL: [
       "ALTINLI MAH",
       "BOZTEPE MAH",
       "DEREBAŞI MAH",
@@ -31561,9 +31561,9 @@
       "ÜST MAH (YARIMCA KÖYÜ)",
       "YAKUPLU MAH (ÇORAPÇILAR KÖYÜ)",
       "YAKUPLU MAH (ÖREN KÖYÜ)",
-      "YEŞİLTEPE MAH (KEMERLİ KÖYÜ)"
+      "YEŞİLTEPE MAH (KEMERLİ KÖYÜ)",
     ],
-    "GÖRELE": [
+    GÖRELE: [
       "AYDINLIKEVLER MAH",
       "BAHÇELİEVLER MAH",
       "BOZCAALİ MAH",
@@ -31810,9 +31810,9 @@
       "YUKARI MAH (MENTEŞE KÖYÜ)",
       "YUKARI MAH (SOĞUKPINAR KÖYÜ)",
       "YUKARI MAH (ŞAHİNYUVA KÖYÜ)",
-      "ZIVA MAH (TÜRKELLİ KÖYÜ)"
+      "ZIVA MAH (TÜRKELLİ KÖYÜ)",
     ],
-    "GÜCE": [
+    GÜCE: [
       "GÜCE MAH",
       "ABDUGİL MAH (KULUNCAK KÖYÜ)",
       "ABSAK MAH (GÜRAĞAÇ KÖYÜ)",
@@ -31892,9 +31892,9 @@
       "YAZLIK MAH (TEKKEKÖY KÖYÜ)",
       "YENİ MAH (SARIYAR KÖYÜ)",
       "YUKARI MAH (DAYICIK KÖYÜ)",
-      "YUKARI MAH (GÜRAĞAÇ KÖYÜ)"
+      "YUKARI MAH (GÜRAĞAÇ KÖYÜ)",
     ],
-    "KEŞAP": [
+    KEŞAP: [
       "BOZKURT MAH",
       "FINDIKLI MAH",
       "ABDULLAH BAHÇE MAH (KARADERE KÖYÜ)",
@@ -32160,9 +32160,9 @@
       "YOLİÇİ MAH",
       "YUKARI  MAH (KAYA ARDI MAH) (KARADERE KÖYÜ)",
       "YUKARI MAH (TEPEKÖY KÖYÜ)",
-      "ZIBIÇ MAH (SANCAKLITEPE KÖYÜ)"
+      "ZIBIÇ MAH (SANCAKLITEPE KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AKSU MAH",
       "AYDINLAR MAH",
       "ÇAYKARA MAH",
@@ -32503,9 +32503,9 @@
       "YUKARI ÇAVUŞOĞLU MAH (ÇAVUŞOĞLU KÖYÜ)",
       "YUMRUTAŞ MAH (DARIKÖY KÖYÜ)",
       "ZEHİROĞLU MAH (GÜNEY KÖYÜ)",
-      "ZUVALI MAH (ERGENCE KÖYÜ)"
+      "ZUVALI MAH (ERGENCE KÖYÜ)",
     ],
-    "PİRAZİZ": [
+    PİRAZİZ: [
       "AKÇAY KÖYÜ",
       "AKELMA MAH (GÖKÇEALİ KÖYÜ)",
       "AKTAŞ MAH (MEDRESE KÖYÜ)",
@@ -32563,9 +32563,9 @@
       "MADEN MAH",
       "ŞEYHLİ MAH",
       "ŞIHKIRAN MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "ŞEBİNKARAHİSAR": [
+    ŞEBİNKARAHİSAR: [
       "AĞCAİMAM MAH (KARAAĞAÇ KÖYÜ)",
       "AKVİRAN KÖYÜ",
       "ALUÇ MAH (EVCİLİ KÖYÜ)",
@@ -32700,9 +32700,9 @@
       "MÜFTÜ MAH",
       "TAMZARA MAH",
       "TAŞ MAH",
-      "YAVUZ SELİM MAH"
+      "YAVUZ SELİM MAH",
     ],
-    "TİREBOLU": [
+    TİREBOLU: [
       "ABDULLU MAH (KUSKUNLU KÖYÜ)",
       "ABDULLU PATTELLASİ MAH (KUSKUNLU KÖYÜ)",
       "ABDULLU YAYCA MAH (KUSKUNLU KÖYÜ)",
@@ -33019,9 +33019,9 @@
       "HAMAM MAH",
       "İSTİKLAL MAH",
       "KÖRLİMAN MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "YAĞLIDERE": [
+    YAĞLIDERE: [
       "AĞCALI OBASI MAH (AKPINAR KÖYÜ)",
       "AHALLI MAH",
       "AKDARI MAH",
@@ -33213,11 +33213,11 @@
       "BÜK MAH",
       "MERKEZ MAH",
       "ÖMERLİ MAH",
-      "PALAKLI MAH"
-    ]
+      "PALAKLI MAH",
+    ],
   },
-  "GÜMÜŞHANE": {
-    "KELKİT": [
+  GÜMÜŞHANE: {
+    KELKİT: [
       "ATATÜRK MAH",
       "BAHÇELİEVLER MAH",
       "BÜYÜKCAMİ MAH",
@@ -33328,9 +33328,9 @@
       "YEŞİLYURT KÖYÜ",
       "YOLÇATI KÖYÜ",
       "YUKARIÖZLÜCE KÖYÜ",
-      "YUNUS EMRE MAH"
+      "YUNUS EMRE MAH",
     ],
-    "KÖSE": [
+    KÖSE: [
       "BAHÇELİEVLER MAH",
       "CUMHURİYET MAH",
       "FATİH MAH",
@@ -33350,9 +33350,9 @@
       "ÖZBEYLİ MAH (ÖZBEYLİ KÖYÜ)",
       "SUBAŞI MAH (SUBAŞI KÖYÜ)",
       "YAYLIM MAH (YAYLIM KÖYÜ)",
-      "YUVACIK MAH (YUVACIK KÖYÜ)"
+      "YUVACIK MAH (YUVACIK KÖYÜ)",
     ],
-    "KÜRTÜN": [
+    KÜRTÜN: [
       "AŞAĞI ULUKÖY MAH",
       "CAMİ YANI MAH",
       "KÖYİÇİ MAH",
@@ -33603,9 +33603,9 @@
       "YONCALIK MAH (KIZILCATAM KÖYÜ)",
       "YUKARI ALAN MAH (KIZILOT KÖYÜ)",
       "YUKARI-ORTA-KARŞI MAH (AŞAĞIKARADERE KÖYÜ)",
-      "YÜRÜMEZ MAH (YAYLALI KÖYÜ)"
+      "YÜRÜMEZ MAH (YAYLALI KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "BAĞLARBAŞI MAH",
       "CANCA MAH",
       "ÇAMLICA MAH",
@@ -33998,9 +33998,9 @@
       "YUKARI ZUVAS MAH (ARSLANCA KÖYÜ)",
       "ZEYNEPLİ MAH (YEŞİLDERE KÖYÜ)",
       "ZIRGANLI HANLARI MAH (DUMANLI KÖYÜ)",
-      "ZURNACİLİ MAH (DUMANLI KÖYÜ)"
+      "ZURNACİLİ MAH (DUMANLI KÖYÜ)",
     ],
-    "ŞİRAN": [
+    ŞİRAN: [
       "AKBULAK YAYLASI MAH (AKBULAK KÖYÜ)",
       "AKSARAY KÖYÜ",
       "AKYAYLA MAH (YEŞİLBÜK KÖYÜ)",
@@ -34103,9 +34103,9 @@
       "KARACA MAH",
       "MERTEKLİ MAH",
       "ŞEHİT HAKAN MAH",
-      "TEKKE MAH"
+      "TEKKE MAH",
     ],
-    "TORUL": [
+    TORUL: [
       "ACEKİSE MH. (İLECİK KÖYÜ)",
       "ACENKİSE MAH (İLECİK KÖYÜ)",
       "ADİSA YAYLASI MAH (YILDIZ KÖYÜ)",
@@ -34369,11 +34369,11 @@
       "MERKEZ MAH",
       "SOĞUKSU MAH",
       "TUFANİYE MAH",
-      "TUĞRULBEY MAH"
-    ]
+      "TUĞRULBEY MAH",
+    ],
   },
-  "HAKKARİ": {
-    "ÇUKURCA": [
+  HAKKARİ: {
+    ÇUKURCA: [
       "AŞAĞI AKKAYA KÖYÜ",
       "ÇIĞLI KÖYÜ",
       "SARİYER MAH (AKKAYA KÖYÜ)",
@@ -34393,9 +34393,9 @@
       "MEŞELİ MAH (KAYALIK KÖYÜ)",
       "NARLI KÖYÜ",
       "ORMANLI MAH (GÜNDEŞ KÖYÜ)",
-      "ÜZÜMLÜ KÖYÜ"
+      "ÜZÜMLÜ KÖYÜ",
     ],
-    "DERECİK": [
+    DERECİK: [
       "BALKAYA MAH",
       "GERDİ MAH",
       "GÜNEY MAH",
@@ -34423,9 +34423,9 @@
       "TOKLU MAH (GELİŞEN KÖYÜ)",
       "ULAŞAN MAH (USLU KÖYÜ)",
       "USLU KÖYÜ",
-      "YEŞİLOVA MAH (ANADAĞ KÖYÜ)"
+      "YEŞİLOVA MAH (ANADAĞ KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "BAĞLAR MAH",
       "BERÇELAN MAH",
       "BİÇER MAH",
@@ -34559,9 +34559,9 @@
       "YUKARI OTLUCA MAH (OTLUCA KÖYÜ)",
       "YUMRUKAYA MAH (AKBULUT KÖYÜ)",
       "ZAVİTE MAH (KONAK KÖYÜ)",
-      "ZAVİTE MEZRASI MAH (KONAK KÖYÜ)"
+      "ZAVİTE MEZRASI MAH (KONAK KÖYÜ)",
     ],
-    "ŞEMDİNLİ": [
+    ŞEMDİNLİ: [
       "AKBAL MAH (KORGAN KÖYÜ)",
       "AKKAVAK MAH (KORGAN KÖYÜ)",
       "AKTÜTÜN MAH (KONUR KÖYÜ)",
@@ -34650,9 +34650,9 @@
       "KARŞIYAKA MAH",
       "MODA MAH",
       "YAYLA MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "YÜKSEKOVA": [
+    YÜKSEKOVA: [
       "AKPINAR KÖYÜ",
       "ALTINBAŞAK MAH (AKPINAR KÖYÜ)",
       "BEŞEVLER MAH (AKPINAR KÖYÜ)",
@@ -34817,11 +34817,11 @@
       "İPEK MAH",
       "MEZARLIK MAH",
       "YENİ MAH",
-      "YEŞİLDERE MAH"
-    ]
+      "YEŞİLDERE MAH",
+    ],
   },
-  "HATAY": {
-    "ALTINÖZÜ": [
+  HATAY: {
+    ALTINÖZÜ: [
       "AKAMBER MAH",
       "AKDARI MAH",
       "ALAKENT MAH",
@@ -34869,9 +34869,9 @@
       "YENİŞEHİR MAH",
       "YOLAĞZI MAH",
       "YUNUSHANI MAH",
-      "ZİYARET MAH"
+      "ZİYARET MAH",
     ],
-    "ANTAKYA": [
+    ANTAKYA: [
       "ALTINÇAY MAH",
       "CUMHURİYET MAH",
       "EMEK MAH",
@@ -34966,9 +34966,9 @@
       "HAVUZLAR MAH",
       "KIŞLA SARAY MAH",
       "KUYULU MAH",
-      "ZENGİNLER MAH"
+      "ZENGİNLER MAH",
     ],
-    "ARSUZ": [
+    ARSUZ: [
       "AKÇALI MAH",
       "ARPAÇİFTLİK MAH",
       "ARPAGEDİK MAH",
@@ -35006,9 +35006,9 @@
       "KIŞLA MAH",
       "KOZAKLI MAH",
       "NARDÜZÜ MAH",
-      "NERGİZLİK MAH"
+      "NERGİZLİK MAH",
     ],
-    "BELEN": [
+    BELEN: [
       "ATİK MAH",
       "BAKRAS MAH",
       "BENLİDERE MAH",
@@ -35027,9 +35027,9 @@
       "SARIMAZI MAH",
       "SOĞUKOLUK MAH",
       "ŞEKERE MAH",
-      "ŞENBÜK MAH"
+      "ŞENBÜK MAH",
     ],
-    "DEFNE": [
+    DEFNE: [
       "AKDENİZ MAH",
       "AKNEHİR MAH",
       "ARMUTLU MAH",
@@ -35066,9 +35066,9 @@
       "TURUNÇLU MAH",
       "ÜZENGİLİ MAH",
       "YENİÇAĞ MAH",
-      "YEŞİLPINAR MAH"
+      "YEŞİLPINAR MAH",
     ],
-    "DÖRTYOL": [
+    DÖRTYOL: [
       "ALTINÇAĞ MAH",
       "ÇATKÖY MAH",
       "ÇAYLI MAH",
@@ -35083,9 +35083,9 @@
       "SANAYİ MAH",
       "YENİYURT MAH",
       "YEŞİL MAH",
-      "YEŞİLKÖY MAH"
+      "YEŞİLKÖY MAH",
     ],
-    "ERZİN": [
+    ERZİN: [
       "AŞAĞIBURNAZ MAH",
       "BAHÇELİEVLER MAH",
       "BAŞLAMIŞ MAH",
@@ -35105,9 +35105,9 @@
       "YENİ MAH",
       "YEŞİLTEPE MAH",
       "YONCADÜZÜ MAH",
-      "YUKARIBURNAZ MAH"
+      "YUKARIBURNAZ MAH",
     ],
-    "HASSA": [
+    HASSA: [
       "15 KASIM MAH",
       "AKBEZ MAH",
       "AKKÜLEK MAH",
@@ -35146,9 +35146,9 @@
       "YUKARIBUCAK MAH",
       "YUKARIKARAFAKILI MAH",
       "YUVALI MAH",
-      "ZEYTİNOBA MAH"
+      "ZEYTİNOBA MAH",
     ],
-    "İSKENDERUN": [
+    İSKENDERUN: [
       "AKARCA MAH",
       "AKÇAY MAH",
       "AŞKARBEYLİ MAH",
@@ -35194,9 +35194,9 @@
       "ESENTEPE MAH",
       "GÜLTEPE MAH",
       "KOCATEPE MAH",
-      "YILDIRIMTEPE MAH"
+      "YILDIRIMTEPE MAH",
     ],
-    "KIRIKHAN": [
+    KIRIKHAN: [
       "408 EVLER MAH",
       "ABALAKLI MAH",
       "ADALAR MAH",
@@ -35269,9 +35269,9 @@
       "TORUN MAH",
       "YALANGOZ MAH",
       "YENİ MAH",
-      "YILANLI MAH"
+      "YILANLI MAH",
     ],
-    "KUMLU": [
+    KUMLU: [
       "AKKERPİÇ MAH",
       "AKKUYU MAH",
       "AKPINAR MAH",
@@ -35287,9 +35287,9 @@
       "KALETEPE MAH",
       "KELİ MAH",
       "KIRCAOĞLU MAH",
-      "MUHARREM MAH"
+      "MUHARREM MAH",
     ],
-    "PAYAS": [
+    PAYAS: [
       "CUMHURİYET MAH",
       "ÇAĞLALIK MAH",
       "FATİH MAH",
@@ -35302,9 +35302,9 @@
       "KÜRTÜL MAH",
       "SİNCAN MAH",
       "YENİŞEHİR MAH",
-      "YILDIRIM BEYAZIT MAH"
+      "YILDIRIM BEYAZIT MAH",
     ],
-    "REYHANLI": [
+    REYHANLI: [
       "ADABUCAK MAH",
       "AHMETBEYLİ MAH",
       "AKYAYLA MAH",
@@ -35351,9 +35351,9 @@
       "VARIŞLI MAH",
       "YENİ MAH",
       "YENİŞEHİR MAH",
-      "YEŞİLOVA MAH"
+      "YEŞİLOVA MAH",
     ],
-    "SAMANDAĞ": [
+    SAMANDAĞ: [
       "ATAKÖY MAH",
       "ATATÜRK MAH",
       "AVCILAR MAH",
@@ -35395,9 +35395,9 @@
       "YEŞİLADA MAH",
       "YEŞİLKÖY MAH",
       "YEŞİLYAZI MAH",
-      "YOĞUNOLUK MAH"
+      "YOĞUNOLUK MAH",
     ],
-    "YAYLADAĞI": [
+    YAYLADAĞI: [
       "ARSLANYAZI MAH",
       "AŞAĞIPULLUYAZI MAH",
       "AYDINBAHÇE MAH",
@@ -35444,11 +35444,11 @@
       "YEŞİLTEPE MAH",
       "YONCAKAYA MAH",
       "YUKARIOKÇULAR MAH",
-      "YUKARIPULLUYAZI MAH"
-    ]
+      "YUKARIPULLUYAZI MAH",
+    ],
   },
-  "IĞDIR": {
-    "ARALIK": [
+  IĞDIR: {
+    ARALIK: [
       "ARAS MAH",
       "KARASU MAH",
       "KARŞIYAKA MAH",
@@ -35479,9 +35479,9 @@
       "YUKARIARATAN KÖYÜ",
       "YUKARIÇAMURLU KÖYÜ",
       "YUKARIÇİFTLİK KÖYÜ",
-      "YUKARITOPRAKLI KÖYÜ"
+      "YUKARITOPRAKLI KÖYÜ",
     ],
-    "KARAKOYUNLU": [
+    KARAKOYUNLU: [
       "ERGENEKON MAH",
       "FATİH MAH",
       "AKTAŞ KÖYÜ",
@@ -35503,9 +35503,9 @@
       "ŞIRACI KÖYÜ",
       "YAZLIK KÖYÜ",
       "YUKARIALİCAN KÖYÜ",
-      "ZÜLFİKARKÖY KÖYÜ"
+      "ZÜLFİKARKÖY KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "14 KASIM MAH",
       "ALİ KAMERLİ MAH",
       "ATATÜRK MAH",
@@ -35585,9 +35585,9 @@
       "YUKARIERHACI MAH (AŞAĞIERHACI KÖYÜ)",
       "YUNUS EMRE MAH (HALFELİ KÖYÜ)",
       "YÜZBAŞILAR KÖYÜ",
-      "ZOR KÖYÜ"
+      "ZOR KÖYÜ",
     ],
-    "TUZLUCA": [
+    TUZLUCA: [
       "ABBASGÖL KÖYÜ",
       "ADALET MAH (CANDERVİŞ KÖYÜ)",
       "AFET KONUTLARI MAH (KULA KÖYÜ)",
@@ -35697,11 +35697,11 @@
       "CUMHURİYET MAH",
       "ORTA MAH",
       "YENİ MAH",
-      "YUKARI MAH"
-    ]
+      "YUKARI MAH",
+    ],
   },
-  "ISPARTA": {
-    "AKSU": [
+  ISPARTA: {
+    AKSU: [
       "AKÇAŞAR MAH",
       "BAHÇELİ MAH",
       "ÇAY MAH",
@@ -35725,9 +35725,9 @@
       "YAKA KÖYÜ",
       "YILANLI KÖYÜ",
       "YUKARI MAH (YAKAAFŞAR KÖYÜ)",
-      "YUKARIYAYLABEL KÖYÜ"
+      "YUKARIYAYLABEL KÖYÜ",
     ],
-    "ATABEY": [
+    ATABEY: [
       "ALTUNBA MAH",
       "ÇEŞME MAH",
       "GEZİRLER MAH",
@@ -35744,9 +35744,9 @@
       "MÜFTÜ MAH (İSLAMKÖY KÖYÜ)",
       "ORTA MAH (İSLAMKÖY KÖYÜ)",
       "PEMBELİ KÖYÜ",
-      "YENİ MAH (İSLAMKÖY KÖYÜ)"
+      "YENİ MAH (İSLAMKÖY KÖYÜ)",
     ],
-    "EĞİRDİR": [
+    EĞİRDİR: [
       "AĞA MAH",
       "ALTINKUM MAH",
       "BAĞBUYAN MAH",
@@ -35827,9 +35827,9 @@
       "YUKARI GÖKDERE KÖYÜ",
       "YUKARI MAH (PAZARKÖY KÖYÜ)",
       "YUVALI KÖYÜ",
-      "ZAFER MAH (GÖKÇEHÖYÜK KÖYÜ)"
+      "ZAFER MAH (GÖKÇEHÖYÜK KÖYÜ)",
     ],
-    "GELENDOST": [
+    GELENDOST: [
       "17 EYLÜL MAH",
       "AŞAĞI MAH",
       "BAHÇELİEVLER MAH",
@@ -35865,9 +35865,9 @@
       "YEŞİLKÖY KÖYÜ",
       "YUKARI MAH (BAĞILLI KÖYÜ)",
       "YUKARI MAH (YAKA KÖYÜ)",
-      "YUKARI MAH (YENİCE KÖYÜ)"
+      "YUKARI MAH (YENİCE KÖYÜ)",
     ],
-    "GÖNEN": [
+    GÖNEN: [
       "ALACA MESCİT MAH",
       "CAMİ MAH",
       "GÖLETEVLERİ MAH",
@@ -35882,9 +35882,9 @@
       "ORTA MAH (GÜNEYKENT KÖYÜ)",
       "SENİRCE MAH (SENİRCE KÖYÜ)",
       "TEKKE MAH (GÜNEYKENT KÖYÜ)",
-      "YENİCE MAH (GÜNEYKENT KÖYÜ)"
+      "YENİCE MAH (GÜNEYKENT KÖYÜ)",
     ],
-    "KEÇİBORLU": [
+    KEÇİBORLU: [
       "AŞAĞI MAH",
       "CUMHURİYET MAH",
       "HACI KÖYÜ MAH",
@@ -35920,9 +35920,9 @@
       "TOKİ MAH",
       "YENİ MAH (SENİR KÖYÜ)",
       "YENİTEPE KÖYÜ",
-      "YEŞİLYURT KÖYÜ"
+      "YEŞİLYURT KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AYAZMANA MAH",
       "ÇELEBİLER MAH",
       "DERE MAH",
@@ -36018,9 +36018,9 @@
       "MUZAFFER TÜRKEŞ MAH",
       "SANAYİ MAH",
       "YEDİŞEHİTLER MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "SENİRKENT": [
+    SENİRKENT: [
       "AŞAĞI MAH (GENÇALİ KÖYÜ)",
       "AŞAĞI MAH (YASSIÖREN KÖYÜ)",
       "BAŞKÖY KÖYÜ",
@@ -36053,9 +36053,9 @@
       "SÜLEYMAN DEMİREL MAH",
       "ŞEHLER MAH",
       "TAŞMESCİT MAH",
-      "TURGUTLAR MAH"
+      "TURGUTLAR MAH",
     ],
-    "SÜTÇÜLER": [
+    SÜTÇÜLER: [
       "AŞAĞIYAYLABEL KÖYÜ",
       "AYVAPINARI MAH (AYVALIPINAR KÖYÜ)",
       "BEKİRAĞALAR KÖYÜ",
@@ -36101,9 +36101,9 @@
       "CAMİ MAH",
       "ERENLER MAH",
       "YEŞİLDERE MAH",
-      "YUKARI MAH"
+      "YUKARI MAH",
     ],
-    "ŞARKİKARAAĞAÇ": [
+    ŞARKİKARAAĞAÇ: [
       "ARAK KÖYÜ",
       "ARMUTLU KÖYÜ",
       "ASLANDOĞMUŞ KÖYÜ",
@@ -36147,9 +36147,9 @@
       "FATİH MAH",
       "KERKÜK MAH",
       "ORTA MAH",
-      "ULVİKALE MAH"
+      "ULVİKALE MAH",
     ],
-    "ULUBORLU": [
+    ULUBORLU: [
       "DERE KÖYÜ",
       "İLEYDAĞI KÖYÜ",
       "İNHİSAR KÖYÜ",
@@ -36164,9 +36164,9 @@
       "SERENLER MAH",
       "TAŞKÖPRÜ MAH",
       "TOPRAKLIK MAH",
-      "ZİNCİRLİ MAH"
+      "ZİNCİRLİ MAH",
     ],
-    "YALVAÇ": [
+    YALVAÇ: [
       "AKÇAŞAR KÖYÜ",
       "ALTIKAPI KÖYÜ",
       "ARDIÇLI MAH (KOZLUÇAY KÖYÜ)",
@@ -36293,25 +36293,25 @@
       "SANAYİ MAH",
       "SARAY MAH",
       "SOFULAR MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "YENİŞARBADEMLİ": [
+    YENİŞARBADEMLİ: [
       "GÖLKONAK KÖYÜ",
       "GÜNDOĞDU MAH",
       "PINARBAŞI MAH",
       "YENİCAMİ MAH",
-      "YENİCE MAH"
-    ]
+      "YENİCE MAH",
+    ],
   },
-  "İSTANBUL": {
-    "ADALAR": [
+  İSTANBUL: {
+    ADALAR: [
       "BURGAZADA MAH",
       "MADEN MAH",
       "NİZAM MAH",
       "HEYBELİADA MAH",
-      "KINALIADA MAH"
+      "KINALIADA MAH",
     ],
-    "ARNAVUTKÖY": [
+    ARNAVUTKÖY: [
       "ANADOLU MAH",
       "ARNAVUTKÖY MERKEZ MAH",
       "İMRAHOR MAH",
@@ -36349,9 +36349,9 @@
       "KARLIBAYIR MAH",
       "MAREŞAL FEVZİ ÇAKMAK MAH",
       "MEHMET AKİF ERSOY MAH",
-      "TAŞOLUK MAH"
+      "TAŞOLUK MAH",
     ],
-    "ATAŞEHİR": [
+    ATAŞEHİR: [
       "ATATÜRK MAH",
       "FERHATPAŞA MAH",
       "İÇERENKÖY MAH",
@@ -36368,9 +36368,9 @@
       "YENİ ÇAMLICA MAH",
       "YENİŞEHİR MAH",
       "BARBAROS MAH",
-      "YENİSAHRA MAH"
+      "YENİSAHRA MAH",
     ],
-    "AVCILAR": [
+    AVCILAR: [
       "AMBARLI MAH",
       "DENİZKÖŞKLER MAH",
       "CİHANGİR MAH",
@@ -36380,9 +36380,9 @@
       "GÜMÜŞPALA MAH",
       "MUSTAFA KEMALPAŞA MAH",
       "TAHTAKALE MAH",
-      "ÜNİVERSİTE MAH"
+      "ÜNİVERSİTE MAH",
     ],
-    "BAĞCILAR": [
+    BAĞCILAR: [
       "BARBAROS MAH",
       "ÇINAR MAH",
       "FEVZİ ÇAKMAK MAH",
@@ -36404,9 +36404,9 @@
       "FATİH MAH",
       "GÖZTEPE MAH",
       "KEMALPAŞA MAH",
-      "MAHMUTBEY MAH"
+      "MAHMUTBEY MAH",
     ],
-    "BAHÇELİEVLER": [
+    BAHÇELİEVLER: [
       "BAHÇELİEVLER MAH",
       "CUMHURİYET MAH",
       "SİYAVUŞPAŞA MAH",
@@ -36417,9 +36417,9 @@
       "ÇOBANÇEŞME MAH",
       "FEVZİ ÇAKMAK MAH",
       "YENİBOSNA MERKEZ MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "BAKIRKÖY": [
+    BAKIRKÖY: [
       "ATAKÖY 1. KISIM MAH",
       "ATAKÖY 2-5-6. KISIM MAH",
       "ATAKÖY 3-4-11. KISIM MAH",
@@ -36435,9 +36435,9 @@
       "YEŞİLKÖY SB MAH",
       "YEŞİLYURT MAH",
       "ZEYTİNLİK MAH",
-      "ZUHURATBABA MAH"
+      "ZUHURATBABA MAH",
     ],
-    "BAŞAKŞEHİR": [
+    BAŞAKŞEHİR: [
       "ALTINŞEHİR MAH",
       "GÜVERCİNTEPE MAH",
       "KAYABAŞI MAH",
@@ -36448,9 +36448,9 @@
       "BAŞAKŞEHİR MAH",
       "İKİTELLİ OSB MAH",
       "ZİYA GÖKALP MAH",
-      "ŞAMLAR MAH"
+      "ŞAMLAR MAH",
     ],
-    "BAYRAMPAŞA": [
+    BAYRAMPAŞA: [
       "ALTINTEPSİ MAH",
       "TERAZİDERE MAH",
       "VATAN MAH",
@@ -36461,9 +36461,9 @@
       "YENİDOĞAN MAH",
       "CEVATPAŞA MAH",
       "KOCATEPE MAH",
-      "YILDIRIM MAH"
+      "YILDIRIM MAH",
     ],
-    "BEŞİKTAŞ": [
+    BEŞİKTAŞ: [
       "ABBASAĞA MAH",
       "CİHANNÜMA MAH",
       "SİNANPAŞA MAH",
@@ -36486,9 +36486,9 @@
       "ORTAKÖY MAH",
       "MURADİYE MAH",
       "TÜRKALİ MAH",
-      "VİŞNEZADE MAH"
+      "VİŞNEZADE MAH",
     ],
-    "BEYKOZ": [
+    BEYKOZ: [
       "ANADOLU HİSARI MAH",
       "KANLICA MAH",
       "KAVACIK MAH",
@@ -36533,9 +36533,9 @@
       "GÖRELE MAH",
       "ORTAÇEŞME MAH",
       "ÖRNEKKÖY MAH",
-      "TOKATKÖY MAH"
+      "TOKATKÖY MAH",
     ],
-    "BEYLİKDÜZÜ": [
+    BEYLİKDÜZÜ: [
       "BARIŞ MAH",
       "BÜYÜKŞEHİR MAH",
       "CUMHURİYET MAH",
@@ -36546,9 +36546,9 @@
       "BEYLİKDÜZÜOSB MAH",
       "MARMARA MAH",
       "SAHİL MAH",
-      "YAKUPLU MAH"
+      "YAKUPLU MAH",
     ],
-    "BEYOĞLU": [
+    BEYOĞLU: [
       "ARAP CAMİ MAH",
       "BEREKETZADE MAH",
       "EMEKYEMEZ MAH",
@@ -36593,9 +36593,9 @@
       "KAMER HATUN MAH",
       "SURURİ MEHMET EFENDİ MAH",
       "ŞEHİT MUHTAR MAH",
-      "YENİŞEHİR MAH"
+      "YENİŞEHİR MAH",
     ],
-    "BÜYÜKÇEKMECE": [
+    BÜYÜKÇEKMECE: [
       "19 MAYIS MAH",
       "ALKENT 2000 MAH",
       "ATATÜRK MAH",
@@ -36619,9 +36619,9 @@
       "AHMEDİYE MAH",
       "HÜRRİYET MAH",
       "TÜRKOBA MAH",
-      "ULUS MAH"
+      "ULUS MAH",
     ],
-    "ÇATALCA": [
+    ÇATALCA: [
       "AKALAN MAH",
       "ATATÜRK MAH",
       "AYDINLAR MAH",
@@ -36661,9 +36661,9 @@
       "SUBAŞI MAH",
       "YALIKÖY MAH",
       "YAYLACIK MAH",
-      "YAZLIK MAH"
+      "YAZLIK MAH",
     ],
-    "ÇEKMEKÖY": [
+    ÇEKMEKÖY: [
       "ALEMDAĞ MAH",
       "ÇATALMEŞE MAH",
       "EKŞİOĞLU MAH",
@@ -36684,9 +36684,9 @@
       "KİRAZLIDERE MAH",
       "SOĞUKPINAR MAH",
       "SULTANÇİFTLİĞİ MAH",
-      "TAŞDELEN MAH"
+      "TAŞDELEN MAH",
     ],
-    "ESENLER": [
+    ESENLER: [
       "15 TEMMUZ MAH",
       "BİRLİK MAH",
       "HAVAALANI MAH",
@@ -36703,9 +36703,9 @@
       "MENDERES MAH",
       "TUNA MAH",
       "ORUÇREİS MAH",
-      "TURGUT REİS MAH"
+      "TURGUT REİS MAH",
     ],
-    "ESENYURT": [
+    ESENYURT: [
       "BAĞLARÇEŞME MAH",
       "ÇINAR MAH",
       "ÖRNEK MAH",
@@ -36748,9 +36748,9 @@
       "ÜÇEVLER MAH",
       "ZAFER MAH",
       "KOZA MAH",
-      "ORHAN GAZİ MAH"
+      "ORHAN GAZİ MAH",
     ],
-    "EYÜPSULTAN": [
+    EYÜPSULTAN: [
       "ALİBEYKÖY MAH",
       "EMNİYETTEPE MAH",
       "GÜZELTEPE MAH",
@@ -36778,9 +36778,9 @@
       "TOPÇULAR MAH",
       "ESENTEPE MAH",
       "KARADOLAP MAH",
-      "YEŞİLPINAR MAH"
+      "YEŞİLPINAR MAH",
     ],
-    "FATİH": [
+    FATİH: [
       "AKSARAY MAH",
       "HASEKİ SULTAN MAH",
       "ATİKALİ MAH",
@@ -36837,9 +36837,9 @@
       "ALİ KUŞÇU MAH",
       "CİBALİ MAH",
       "YAVUZ SULTAN SELİM MAH",
-      "ZEYREK MAH"
+      "ZEYREK MAH",
     ],
-    "GAZİOSMANPAŞA": [
+    GAZİOSMANPAŞA: [
       "BAĞLARBAŞI MAH",
       "MERKEZ MAH",
       "SARIGÖL MAH",
@@ -36855,9 +36855,9 @@
       "KARLITEPE MAH",
       "PAZARİÇİ MAH",
       "YENİDOĞAN MAH",
-      "YILDIZTABYA MAH"
+      "YILDIZTABYA MAH",
     ],
-    "GÜNGÖREN": [
+    GÜNGÖREN: [
       "AKINCILAR MAH",
       "GÜVEN MAH",
       "HAZNEDAR MAH",
@@ -36868,9 +36868,9 @@
       "SANAYİ MAH",
       "ABDURRAHMAN NAFİZ GÜRMAN MAH",
       "MEHMET NESİH ÖZMEN MAH",
-      "TOZKOPARAN MAH"
+      "TOZKOPARAN MAH",
     ],
-    "KADIKÖY": [
+    KADIKÖY: [
       "BOSTANCI MAH",
       "CADDEBOSTAN MAH",
       "CAFERAĞA MAH",
@@ -36891,9 +36891,9 @@
       "OSMANAĞA MAH",
       "RASİMPAŞA MAH",
       "SAHRAYICEDİT MAH",
-      "SUADİYE MAH"
+      "SUADİYE MAH",
     ],
-    "KAĞITHANE": [
+    KAĞITHANE: [
       "ÇAĞLAYAN MAH",
       "HÜRRİYET MAH",
       "ÇELİKTEPE MAH",
@@ -36912,9 +36912,9 @@
       "YEŞİLCE MAH",
       "EMNİYET EVLERİ MAH",
       "SULTAN SELİM MAH",
-      "ŞİRİNTEPE MAH"
+      "ŞİRİNTEPE MAH",
     ],
-    "KARTAL": [
+    KARTAL: [
       "ATALAR MAH",
       "PETROL İŞ MAH",
       "ESENTEPE MAH",
@@ -36934,9 +36934,9 @@
       "YAKACIK YENİ MAH",
       "CUMHURİYET MAH",
       "HÜRRİYET MAH",
-      "YAKACIK ÇARŞI MAH"
+      "YAKACIK ÇARŞI MAH",
     ],
-    "KÜÇÜKÇEKMECE": [
+    KÜÇÜKÇEKMECE: [
       "ATAKENT MAH",
       "ATATÜRK MAH",
       "KÜÇÜKÇEKMECE İKİTELLİOSB MAH",
@@ -36958,9 +36958,9 @@
       "SÖĞÜTLÜ ÇEŞME MAH",
       "SULTAN MURAT MAH",
       "TEVFİKBEY MAH",
-      "YEŞİLOVA MAH"
+      "YEŞİLOVA MAH",
     ],
-    "MALTEPE": [
+    MALTEPE: [
       "AYDINEVLER MAH",
       "BAŞIBÜYÜK MAH",
       "FINDIKLI MAH",
@@ -36978,9 +36978,9 @@
       "BAĞLARBAŞI MAH",
       "YALI MAH",
       "GİRNE MAH",
-      "ZÜMRÜTEVLER MAH"
+      "ZÜMRÜTEVLER MAH",
     ],
-    "PENDİK": [
+    PENDİK: [
       "BAHÇELİEVLER MAH",
       "SAPAN BAĞLARI MAH",
       "YENİ MAH",
@@ -37016,9 +37016,9 @@
       "ÇAMLIK MAH",
       "HARMANDERE MAH",
       "KURTKÖY MAH",
-      "YENİŞEHİR MAH"
+      "YENİŞEHİR MAH",
     ],
-    "SANCAKTEPE": [
+    SANCAKTEPE: [
       "AKPINAR MAH",
       "EYÜP SULTAN MAH",
       "FATİH MAH",
@@ -37037,9 +37037,9 @@
       "PAŞAKÖY MAH",
       "SAFA MAH",
       "YENİDOĞAN MAH",
-      "YUNUS EMRE MAH"
+      "YUNUS EMRE MAH",
     ],
-    "SARIYER": [
+    SARIYER: [
       "BAHÇEKÖY KEMER MAH",
       "BAHÇEKÖY MERKEZ MAH",
       "BAHÇEKÖY YENİ MAH",
@@ -37077,9 +37077,9 @@
       "FERAHEVLER MAH",
       "KİREÇBURNU MAH",
       "TARABYA MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "SİLİVRİ": [
+    SİLİVRİ: [
       "BEYCİLER MAH",
       "BÜYÜK ÇAVUŞLU MAH",
       "BÜYÜK SİNEKLİ MAH",
@@ -37114,9 +37114,9 @@
       "MİMAR SİNAN MAH",
       "PİRİ MEHMET PAŞA MAH",
       "SEMİZKUMLAR MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "SULTANBEYLİ": [
+    SULTANBEYLİ: [
       "ABDURRAHMANGAZİ MAH",
       "FATİH MAH",
       "HASANPAŞA MAH",
@@ -37131,9 +37131,9 @@
       "YAVUZ SELİM MAH",
       "AHMET YESEVİ MAH",
       "MECİDİYE MAH",
-      "TURGUT REİS MAH"
+      "TURGUT REİS MAH",
     ],
-    "SULTANGAZİ": [
+    SULTANGAZİ: [
       "50. YIL MAH",
       "CUMHURİYET MAH",
       "ESENTEPE MAH",
@@ -37148,9 +37148,9 @@
       "75. YIL MAH",
       "GAZİ MAH",
       "YUNUS EMRE MAH",
-      "ZÜBEYDE HANIM MAH"
+      "ZÜBEYDE HANIM MAH",
     ],
-    "ŞİLE": [
+    ŞİLE: [
       "AĞVA MERKEZ MAH",
       "BUCAKLI MAH",
       "ÇATAKLI MAH",
@@ -37212,9 +37212,9 @@
       "BALİBEY MAH",
       "ÇAVUŞ MAH",
       "HACI KASIM MAH",
-      "KUMBABA MAH"
+      "KUMBABA MAH",
     ],
-    "ŞİŞLİ": [
+    ŞİŞLİ: [
       "BOZKURT MAH",
       "ESKİŞEHİR MAH",
       "CUMHURİYET MAH",
@@ -37239,9 +37239,9 @@
       "MERKEZ MAH",
       "ERGENEKON MAH",
       "İNÖNÜ MAH",
-      "TEŞVİKİYE MAH"
+      "TEŞVİKİYE MAH",
     ],
-    "TUZLA": [
+    TUZLA: [
       "AKFIRAT MAH",
       "TEPEOREN İTOSB MAH",
       "TEPEÖREN MAH",
@@ -37264,9 +37264,9 @@
       "ORHANLI MAH",
       "ORTA MAH",
       "EVLİYA ÇELEBİ MAH",
-      "YAYLA MAH"
+      "YAYLA MAH",
     ],
-    "ÜMRANİYE": [
+    ÜMRANİYE: [
       "ADEM YAVUZ MAH",
       "AŞAĞI DUDULLU MAH",
       "HUZUR MAH",
@@ -37304,9 +37304,9 @@
       "ALTINŞEHİR MAH",
       "DUDULLU OSB MAH",
       "ŞERİFALİ MAH",
-      "YUKARI DUDULLU MAH"
+      "YUKARI DUDULLU MAH",
     ],
-    "ÜSKÜDAR": [
+    ÜSKÜDAR: [
       "ACIBADEM MAH",
       "ALTUNİZADE MAH",
       "BARBAROS MAH",
@@ -37339,9 +37339,9 @@
       "SELİMİYE MAH",
       "ZEYNEP KAMİL MAH",
       "ÜNALAN MAH",
-      "YAVUZTÜRK MAH"
+      "YAVUZTÜRK MAH",
     ],
-    "ZEYTİNBURNU": [
+    ZEYTİNBURNU: [
       "ÇIRPICI MAH",
       "NURİPAŞA MAH",
       "SÜMER MAH",
@@ -37354,11 +37354,11 @@
       "KAZLIÇEŞME MAH",
       "TELSİZ MAH",
       "YENİDOĞAN MAH",
-      "MALTEPE MAH"
-    ]
+      "MALTEPE MAH",
+    ],
   },
-  "İZMİR": {
-    "ALİAĞA": [
+  İZMİR: {
+    ALİAĞA: [
       "AŞAĞIŞAKRAN MAH",
       "ATATÜRK MAH",
       "B.HAYRETTİN PAŞA MAH",
@@ -37388,9 +37388,9 @@
       "YENİŞAKRAN MAH",
       "YUKARI ŞEHİTKEMAL MAH",
       "YÜKSEKKÖY MAH",
-      "FATİH MAH"
+      "FATİH MAH",
     ],
-    "BALÇOVA": [
+    BALÇOVA: [
       "BAHÇELERARASI MAH",
       "ÇETİN EMEÇ MAH",
       "EĞİTİM MAH",
@@ -37398,9 +37398,9 @@
       "İNCİRALTI MAH",
       "KORUTÜRK MAH",
       "ONUR MAH",
-      "TELEFERİK MAH"
+      "TELEFERİK MAH",
     ],
-    "BAYINDIR": [
+    BAYINDIR: [
       "ALANKIYI MAH",
       "ALANKÖY MAH",
       "ARIKBAŞI MAH",
@@ -37459,9 +37459,9 @@
       "HASKÖY MAH",
       "İBRAHİMÇAVUŞ MAH",
       "MEKTEP MAH",
-      "NECATİ UZA MAH"
+      "NECATİ UZA MAH",
     ],
-    "BAYRAKLI": [
+    BAYRAKLI: [
       "75. YIL MAH",
       "ALPASLAN MAH",
       "CENGİZHAN MAH",
@@ -37485,9 +37485,9 @@
       "KÖRFEZ MAH",
       "ONUR MAH",
       "POSTACILAR MAH",
-      "SOĞUKKUYU MAH"
+      "SOĞUKKUYU MAH",
     ],
-    "BERGAMA": [
+    BERGAMA: [
       "AHMETBEYLER MAH",
       "AKÇENGER MAH",
       "ALACALAR MAH",
@@ -37625,9 +37625,9 @@
       "YUKARIKIRIKLAR MAH",
       "ZAFER MAH",
       "ZAĞNOZ MAH",
-      "ZEYTİNDAĞ MAH"
+      "ZEYTİNDAĞ MAH",
     ],
-    "BEYDAĞ": [
+    BEYDAĞ: [
       "ADAKÜRE MAH",
       "AKTEPE MAH",
       "ALAKEÇİLİ MAH",
@@ -37652,9 +37652,9 @@
       "YENİYURT MAH",
       "YEŞİLTEPE MAH",
       "YUKARIAKTEPE MAH",
-      "YUKARITOSUNLAR MAH"
+      "YUKARITOSUNLAR MAH",
     ],
-    "BORNOVA": [
+    BORNOVA: [
       "BİRLİK MAH",
       "ÇAMKULE MAH",
       "KOŞUKAVAK MAH",
@@ -37699,9 +37699,9 @@
       "GÜRPINAR MAH",
       "KEMALPAŞA MAH",
       "ÜMİT MAH",
-      "YUNUS EMRE MAH"
+      "YUNUS EMRE MAH",
     ],
-    "BUCA": [
+    BUCA: [
       "ATATÜRK MAH",
       "BELENBAŞI MAH",
       "BUCA KOOP MAH",
@@ -37749,9 +37749,9 @@
       "MUSTAFA KEMAL MAH",
       "SEYHAN MAH",
       "VALİ RAHMİ BEY MAH",
-      "YEŞİLBAĞLAR MAH"
+      "YEŞİLBAĞLAR MAH",
     ],
-    "ÇEŞME": [
+    ÇEŞME: [
       "ALAÇATI MAH",
       "16 EYLÜL MAH",
       "ALTINKUM MAH",
@@ -37776,9 +37776,9 @@
       "YALI MAH",
       "CUMHURİYET MAH",
       "DALYAN MAH",
-      "ÜNİVERSİTE MAH"
+      "ÜNİVERSİTE MAH",
     ],
-    "ÇİĞLİ": [
+    ÇİĞLİ: [
       "AHMET TANER KIŞLALI MAH",
       "AYDINLIKEVLER MAH",
       "EVKA-2 MAH",
@@ -37805,9 +37805,9 @@
       "CUMHURİYET MAH",
       "HARMANDALI GAZİ MUSTAFA KEMAL ATATÜRK MAH",
       "İNÖNÜ MAH",
-      "UĞUR MUMCU MAH"
+      "UĞUR MUMCU MAH",
     ],
-    "DİKİLİ": [
+    DİKİLİ: [
       "BADEMLİ MAH",
       "BAHÇELİ MAH",
       "CUMHURİYET MAH",
@@ -37837,9 +37837,9 @@
       "UZUNBURUN MAH",
       "YAHŞİBEY MAH",
       "YAYLAYURT MAH",
-      "YENİCE MAH"
+      "YENİCE MAH",
     ],
-    "FOÇA": [
+    FOÇA: [
       "HACIVELİ MAH",
       "KAZIM DİRİK MAH",
       "ATATÜRK MAH",
@@ -37855,9 +37855,9 @@
       "YENİKÖY MAH",
       "CUMHURİYET MAH",
       "FATİH MAH",
-      "FEVZİ ÇAKMAK MAH"
+      "FEVZİ ÇAKMAK MAH",
     ],
-    "GAZİEMİR": [
+    GAZİEMİR: [
       "AKTEPE MAH",
       "ATATÜRK MAH",
       "ATIFBEY MAH",
@@ -37874,9 +37874,9 @@
       "SEVGİ MAH",
       "YEŞİL MAH",
       "ZAFER MAH",
-      "ZAFER SB MAH"
+      "ZAFER SB MAH",
     ],
-    "GÜZELBAHÇE": [
+    GÜZELBAHÇE: [
       "ATATÜRK MAH",
       "ÇAMLI MAH",
       "ÇELEBİ MAH",
@@ -37888,9 +37888,9 @@
       "SİTELER MAH",
       "YAKA MAH",
       "YALI MAH",
-      "YELKİ MAH"
+      "YELKİ MAH",
     ],
-    "KARABAĞLAR": [
+    KARABAĞLAR: [
       "ADNAN SÜVARİ MAH",
       "ESENTEPE MAH",
       "ESENYALI MAH",
@@ -37948,9 +37948,9 @@
       "KARABAĞLAR MAH",
       "OSMAN AKSÜNER MAH",
       "SARIYER MAH",
-      "UĞUR MUMCU MAH"
+      "UĞUR MUMCU MAH",
     ],
-    "KARABURUN": [
+    KARABURUN: [
       "ANBARSEKİ MAH",
       "BOZKÖY MAH",
       "EĞLENHOCA MAH",
@@ -37966,9 +37966,9 @@
       "SARPINCIK MAH",
       "TEPEBOZ MAH",
       "YAYLA MAH",
-      "MORDOĞAN MAH"
+      "MORDOĞAN MAH",
     ],
-    "KARŞIYAKA": [
+    KARŞIYAKA: [
       "ALAYBEY MAH",
       "BAHARİYE MAH",
       "BAHÇELİEVLER MAH",
@@ -37995,9 +37995,9 @@
       "GONCALAR MAH",
       "NERGİZ MAH",
       "ŞEMİKLER MAH",
-      "YALI MAH"
+      "YALI MAH",
     ],
-    "KEMALPAŞA": [
+    KEMALPAŞA: [
       "85.YIL CUMHURİYET MAH",
       "HÜRRİYET MAH",
       "29 EKİM MAH",
@@ -38048,9 +38048,9 @@
       "EGEMEN MAH",
       "CUMHURİYET MAH",
       "İSTİKLAL MAH",
-      "MUSTAFA KEMAL ATATÜRK MAH"
+      "MUSTAFA KEMAL ATATÜRK MAH",
     ],
-    "KINIK": [
+    KINIK: [
       "ARPADERE MAH",
       "ARPASEKİ MAH",
       "AŞAĞI MAH",
@@ -38088,9 +38088,9 @@
       "YAYAKENT MAH",
       "YAYLAKÖY MAH",
       "YENİ MAH",
-      "YUKARI MAH"
+      "YUKARI MAH",
     ],
-    "KİRAZ": [
+    KİRAZ: [
       "AHMETLER MAH",
       "AKPINAR MAH",
       "ALTINOLUK MAH",
@@ -38146,9 +38146,9 @@
       "YENİ MAH",
       "YENİKÖY MAH",
       "YENİŞEHİR MAH",
-      "YEŞİLDERE MAH"
+      "YEŞİLDERE MAH",
     ],
-    "KONAK": [
+    KONAK: [
       "ALSANCAK MAH",
       "KÜLTÜR MAH",
       "MİMAR SİNAN MAH",
@@ -38261,9 +38261,9 @@
       "HALKAPINAR MAH",
       "HİLAL MAH",
       "MERSİNLİ MAH",
-      "YENİŞEHİR MAH"
+      "YENİŞEHİR MAH",
     ],
-    "MENDERES": [
+    MENDERES: [
       "ATAKÖY MAH",
       "DEĞİRMENDERE MAH",
       "DEVELİ MAH",
@@ -38308,9 +38308,9 @@
       "ORTA MAH",
       "ÖZDERE CUMHURİYET MAH",
       "TEKELİ ATATÜRK MAH",
-      "TEKELİ FEVZİ ÇAKMAK MAH"
+      "TEKELİ FEVZİ ÇAKMAK MAH",
     ],
-    "MENEMEN": [
+    MENEMEN: [
       "29 EKİM MAH",
       "30 AĞUSTOS MAH",
       "75.YIL CUMHURİYET MAH",
@@ -38377,9 +38377,9 @@
       "YEŞİL PINAR MAH",
       "YILDIRIM MAH",
       "ZAFER MAH",
-      "ZEYTİNLİK MAH"
+      "ZEYTİNLİK MAH",
     ],
-    "NARLIDERE": [
+    NARLIDERE: [
       "2. İNÖNÜ MAH",
       "ALTIEVLER MAH",
       "ATATÜRK MAH",
@@ -38390,9 +38390,9 @@
       "LİMANREİS MAH",
       "NARLI MAH",
       "SAHİLEVLERİ MAH",
-      "YENİKALE MAH"
+      "YENİKALE MAH",
     ],
-    "ÖDEMİŞ": [
+    ÖDEMİŞ: [
       "AKINCILAR MAH",
       "ALAŞARLI MAH",
       "ANAFARTALAR MAH",
@@ -38491,9 +38491,9 @@
       "YILANLI MAH",
       "YOLÜSTÜ MAH",
       "YUSUFDERE MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "SEFERİHİSAR": [
+    SEFERİHİSAR: [
       "ATATÜRK MAH",
       "CUMHURİYET MAH",
       "PAYAMLI MAH",
@@ -38514,9 +38514,9 @@
       "TURGUT MAH",
       "ULAMIŞ MAH",
       "BENGİLER MAH",
-      "MERSİN ALANI MAH"
+      "MERSİN ALANI MAH",
     ],
-    "SELÇUK": [
+    SELÇUK: [
       "14 MAYIS MAH",
       "ACARLAR MAH",
       "ATATÜRK MAH",
@@ -38530,9 +38530,9 @@
       "SULTANİYE MAH",
       "ŞİRİNCE MAH",
       "ZAFER MAH",
-      "ZEYTİNKÖY MAH"
+      "ZEYTİNKÖY MAH",
     ],
-    "TİRE": [
+    TİRE: [
       "4 EYLÜL MAH",
       "ADNAN MENDERES MAH",
       "AKÇAŞEHİR MAH",
@@ -38621,9 +38621,9 @@
       "YENİ MAH",
       "YENİÇİFTLİK MAH",
       "YENİOBA MAH",
-      "YENİŞEHİR MAH"
+      "YENİŞEHİR MAH",
     ],
-    "TORBALI": [
+    TORBALI: [
       "AYRANCILAR MAH",
       "FEVZİ ÇAKMAK MAH",
       "İNÖNÜ MAH",
@@ -38685,9 +38685,9 @@
       "BAHÇELİEVLER MAH",
       "İSTİKLAL MAH",
       "YAZIBAŞI MAH",
-      "YENİKÖY OSB MAH"
+      "YENİKÖY OSB MAH",
     ],
-    "URLA": [
+    URLA: [
       "BADEMLER MAH",
       "BALIKLIOVA MAH",
       "DENİZLİ MAH",
@@ -38724,11 +38724,11 @@
       "ÇAMLIÇAY MAH",
       "M.FEVZİ ÇAKMAK MAH",
       "ŞİRİNKENT MAH",
-      "ZEYTİNALANI MAH"
-    ]
+      "ZEYTİNALANI MAH",
+    ],
   },
-  "KAHRAMANMARAŞ": {
-    "AFŞİN": [
+  KAHRAMANMARAŞ: {
+    AFŞİN: [
       "AFŞİNBEY MAH",
       "AĞCAŞAR MAH",
       "ALEMDAR MAH",
@@ -38794,9 +38794,9 @@
       "TÜRKSEVİN MAH",
       "YAZIDERE MAH",
       "YAZIKÖY MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "ANDIRIN": [
+    ANDIRIN: [
       "AKÇAKOYUNLU MAH",
       "AKGÜMÜŞ MAH",
       "AKİFİYE MAH",
@@ -38853,9 +38853,9 @@
       "ORHANİYE MAH",
       "OSMANCIK MAH",
       "RİFATİYE MAH",
-      "YEŞİLTEPE MAH"
+      "YEŞİLTEPE MAH",
     ],
-    "ÇAĞLAYANCERİT": [
+    ÇAĞLAYANCERİT: [
       "AKDERE MAH",
       "AKSU MAH",
       "BAYIRLI MAH",
@@ -38872,9 +38872,9 @@
       "KÜÇÜKÜNGÜT MAH",
       "ORUÇPINAR MAH",
       "SOĞUKPINAR MAH",
-      "ZEYNEPUŞAĞI MAH"
+      "ZEYNEPUŞAĞI MAH",
     ],
-    "DULKADİROĞLU": [
+    DULKADİROĞLU: [
       "DİVANLI MAH",
       "EKMEKÇİ MAH",
       "İSA DİVANLI MAH",
@@ -38977,9 +38977,9 @@
       "SENEM AYŞE MAH",
       "SÜTÇÜ İMAM MAH",
       "YAHYA KEMAL MAH",
-      "YEŞİLTEPE MAH"
+      "YEŞİLTEPE MAH",
     ],
-    "EKİNÖZÜ": [
+    EKİNÖZÜ: [
       "AKPINAR MAH",
       "ALİŞAR MAH",
       "ALTUNYAPRAK MAH",
@@ -39000,9 +39000,9 @@
       "SOYSALLI MAH",
       "TÜRKELİ MAH",
       "TÜRKMENLER MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "ELBİSTAN": [
+    ELBİSTAN: [
       "AĞLICA MAH",
       "AKARCA MAH",
       "AKBAYIR MAH",
@@ -39096,9 +39096,9 @@
       "YAPRAKLI MAH",
       "YEŞİLYURT MAH",
       "YOĞUNSÖĞÜT MAH",
-      "YUNUS EMRE MAH"
+      "YUNUS EMRE MAH",
     ],
-    "GÖKSUN": [
+    GÖKSUN: [
       "ACIELMA MAH",
       "AHMETCİK MAH",
       "ALIÇLIBUCAK MAH",
@@ -39170,9 +39170,9 @@
       "YENİYAPAN MAH",
       "YEŞİLKÖY MAH",
       "YİRİCEK MAH",
-      "YOĞUNOLUK MAH"
+      "YOĞUNOLUK MAH",
     ],
-    "NURHAK": [
+    NURHAK: [
       "AĞCAŞAR MAH",
       "ALÇİÇEK DEĞİRMENKAYA MAH",
       "BARIŞ MAH",
@@ -39188,9 +39188,9 @@
       "SEYİTALİLER MAH",
       "TATLAR MAH",
       "UMUTLU MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "ONİKİŞUBAT": [
+    ONİKİŞUBAT: [
       "5 NİSAN MAH",
       "ABDÜLHAMİD HAN MAH",
       "AĞCALI MAH",
@@ -39328,9 +39328,9 @@
       "YENİYAPAN MAH",
       "YEŞİLYURT MAH",
       "YOLYANI MAH",
-      "ZEYTİNDERE MAH"
+      "ZEYTİNDERE MAH",
     ],
-    "PAZARCIK": [
+    PAZARCIK: [
       "15 TEMMUZ MAH",
       "AHMET BOZDAĞ MAH",
       "AKCAKOYUNLU MAH",
@@ -39414,9 +39414,9 @@
       "YUKARIHÖCÜKLÜ MAH",
       "YUKARIMÜLK MAH",
       "YUMAKLICERİT BAĞLAR MAH",
-      "YUMAKLICERİT CUMHURİYET MAH"
+      "YUMAKLICERİT CUMHURİYET MAH",
     ],
-    "TÜRKOĞLU": [
+    TÜRKOĞLU: [
       "AKÇALI MAH",
       "AVŞARLI MAH",
       "AYDINKAVAK MAH",
@@ -39461,11 +39461,11 @@
       "YENİPINAR MAH",
       "YEŞİLYÖRE MAH",
       "YEŞİLYURT MAH",
-      "YOLDERESİ MAH"
-    ]
+      "YOLDERESİ MAH",
+    ],
   },
-  "KARABÜK": {
-    "EFLANİ": [
+  KARABÜK: {
+    EFLANİ: [
       "CANDAROĞULLARI MAH",
       "ÇALIŞLAR MAH",
       "ÇELEBİLER MAH",
@@ -39701,9 +39701,9 @@
       "YENİ MAH (OSMANLAR KÖYÜ)",
       "YENİKÖPRÜ MAH (OSMANLAR KÖYÜ)",
       "YUKARI KARLI MAH (KARLI KÖYÜ)",
-      "YUKARI MAH (YAĞLICA KÖYÜ)"
+      "YUKARI MAH (YAĞLICA KÖYÜ)",
     ],
-    "ESKİPAZAR": [
+    ESKİPAZAR: [
       "BAHÇEPINAR MAH",
       "İSTASYON MAH",
       "KIRANKÖY MAH",
@@ -39885,9 +39885,9 @@
       "YUKARI KAZLAR MAH (HASLI KÖYÜ)",
       "YUKARI KEÇELER MAH (YAZIKAVAK KÖYÜ)",
       "YUKARI SARAY MAH (KARAHASANLAR KÖYÜ)",
-      "YUNİSLER MAH (DOĞLACIK KÖYÜ)"
+      "YUNİSLER MAH (DOĞLACIK KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "100.YIL MAH",
       "KILAVUZLAR MAH",
       "ÜNİVERSİTE MAH",
@@ -40058,9 +40058,9 @@
       "KURTULUŞ MAH",
       "ŞİRİNEVLER MAH",
       "YENİŞEHİR MAH",
-      "YEŞİL MAH"
+      "YEŞİL MAH",
     ],
-    "OVACIK": [
+    OVACIK: [
       "AKBIYIK MAH (GÖKÇEDÜZ KÖYÜ)",
       "AKCAPINAR MAH (ABDULLAR KÖYÜ)",
       "AKHİSAR MAH (TAŞOĞLU KÖYÜ)",
@@ -40200,9 +40200,9 @@
       "YUNUSLAR MAH (SARILAR KÖYÜ)",
       "YUVALAR MAH (DUDAŞ KÖYÜ)",
       "YÜREKÖREN KÖYÜ",
-      "MERKEZ MAH"
+      "MERKEZ MAH",
     ],
-    "SAFRANBOLU": [
+    SAFRANBOLU: [
       "ABDİOĞLU MAH (İNCEÇAY KÖYÜ)",
       "ADALAR MAH (BOSTANBÜKÜ KÖYÜ)",
       "AĞABEY MAH (KEHLER KÖYÜ)",
@@ -40405,9 +40405,9 @@
       "KARAALİ MAH",
       "KİRKİLLE MAH",
       "MUSALLA MAH",
-      "YENİMAHALLE MAH"
+      "YENİMAHALLE MAH",
     ],
-    "YENİCE": [
+    YENİCE: [
       "ADA MAH (KAYADİBİ KÖYÜ)",
       "AHATLAR DÜZÜ MAH (KADIKÖY KÖYÜ)",
       "AHATLAR MAH (KADIKÖY KÖYÜ)",
@@ -40591,11 +40591,11 @@
       "MENDERES MAH",
       "MERKEZ MAH",
       "ÖZAL MAH",
-      "YİRMİBEŞLER MAH"
-    ]
+      "YİRMİBEŞLER MAH",
+    ],
   },
-  "KARAMAN": {
-    "AYRANCI": [
+  KARAMAN: {
+    AYRANCI: [
       "DEDE MAH",
       "MUSA MAH",
       "ULU MAH",
@@ -40631,9 +40631,9 @@
       "SARAYKÖY KÖYÜ",
       "SARIKAYA MAH (BERENDİ KÖYÜ)",
       "SAVRAN MAH (BÖĞECİK KÖYÜ)",
-      "YARIKKUYU KÖYÜ"
+      "YARIKKUYU KÖYÜ",
     ],
-    "BAŞYAYLA": [
+    BAŞYAYLA: [
       "BAŞKÖY MAH",
       "GÖZTEPE MAH",
       "KİRAZLIYAYLA MAH",
@@ -40644,9 +40644,9 @@
       "KIŞLAKÖY KÖYÜ",
       "SÖĞÜTLÜ MAH (ÜZÜMLÜ KÖYÜ)",
       "ÜZÜMLÜ KÖYÜ",
-      "YENİCE MAH (KIŞLAKÖY KÖYÜ)"
+      "YENİCE MAH (KIŞLAKÖY KÖYÜ)",
     ],
-    "ERMENEK": [
+    ERMENEK: [
       "AKCAMESCİT MAH",
       "BAŞPINAR MAH",
       "ÇINARLISU MAH",
@@ -40729,9 +40729,9 @@
       "YENİMAHALLE MAH (GÜNEYYURT KÖYÜ)",
       "YERBAĞ KÖYÜ",
       "YOLÇATI MAH (ELMAYURDU KÖYÜ)",
-      "YUKARIÇAĞLAR KÖYÜ"
+      "YUKARIÇAĞLAR KÖYÜ",
     ],
-    "KAZIMKARABEKİR": [
+    KAZIMKARABEKİR: [
       "BOYACI MAH",
       "EMİNETTİN MAH",
       "EMSALHAYAT MAH",
@@ -40745,9 +40745,9 @@
       "KIZILKUYU KÖYÜ",
       "MECİDİYE KÖYÜ",
       "ÖZYURT KÖYÜ",
-      "SİNCİ KÖYÜ"
+      "SİNCİ KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ATATÜRK MAH",
       "FATİH MAH",
       "HÜRRİYET MAH",
@@ -40980,9 +40980,9 @@
       "ÜNİVERSİTE MAH",
       "VALİDE SULTAN MAH",
       "YENİMAHALLE MAH",
-      "YENİŞEHİR MAH"
+      "YENİŞEHİR MAH",
     ],
-    "SARIVELİLER": [
+    SARIVELİLER: [
       "BOYUNAĞIL MAH (UĞURLU KÖYÜ)",
       "CUMHURİYET MAH (GÖKTEPE KÖYÜ)",
       "ÇETİNCE ÖNÜ MAH (UĞURLU KÖYÜ)",
@@ -41024,11 +41024,11 @@
       "ORTAKÖY MAH",
       "TURCALAR MAH",
       "ULUCAMİ MAH",
-      "YEŞİLYURT MAH"
-    ]
+      "YEŞİLYURT MAH",
+    ],
   },
-  "KARS": {
-    "AKYAKA": [
+  KARS: {
+    AKYAKA: [
       "İSTASYON MAH",
       "TEPE MAH",
       "TOPKAYA MAH",
@@ -41060,9 +41060,9 @@
       "ÜÇPINAR KÖYÜ",
       "YERLİKAVAK KÖYÜ",
       "yok MAH (KÜÇÜKDURDURAN KÖYÜ)",
-      "YUKARI MAH (KALKANKALE KÖYÜ)"
+      "YUKARI MAH (KALKANKALE KÖYÜ)",
     ],
-    "ARPAÇAY": [
+    ARPAÇAY: [
       "BAHÇELER MAH",
       "ORTA MAH",
       "YALINÇAYIR MAH",
@@ -41117,9 +41117,9 @@
       "TELEK KÖYÜ",
       "TEPECİK KÖYÜ",
       "TEPEKÖY KÖYÜ",
-      "TOMARLI KÖYÜ"
+      "TOMARLI KÖYÜ",
     ],
-    "DİGOR": [
+    DİGOR: [
       "MERKEZ MAH",
       "AFETEVLER MAH (VARLI KÖYÜ)",
       "ALEM KÖYÜ",
@@ -41162,9 +41162,9 @@
       "YAĞLICA KÖYÜ",
       "YAYLACIK KÖYÜ",
       "YEMENÇAYIR KÖYÜ",
-      "YENİKÖY KÖYÜ"
+      "YENİKÖY KÖYÜ",
     ],
-    "KAĞIZMAN": [
+    KAĞIZMAN: [
       "AŞAĞI KÜMBET MAH",
       "AŞAĞIDERE MAH",
       "BAYAM MAH",
@@ -41268,9 +41268,9 @@
       "YOLKORUR KÖYÜ",
       "YUKARI DONANDI MAH (DONANDI KÖYÜ)",
       "YUKARIGÜNEY KARA MAH (YUKARIKARAGÜNEY KÖYÜ)",
-      "YUKARIKARAGÜNEY KÖYÜ"
+      "YUKARIKARAGÜNEY KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "30 EKİM MAH",
       "ALPASLAN MAH",
       "ATATÜRK MAH",
@@ -41373,9 +41373,9 @@
       "YALINKAYA KÖYÜ",
       "YILANLI KÖYÜ",
       "YUKARI MAH (ARSLANİZİ KÖYÜ)",
-      "YÜCELEN KÖYÜ"
+      "YÜCELEN KÖYÜ",
     ],
-    "SARIKAMIŞ": [
+    SARIKAMIŞ: [
       "AKKOZ KÖYÜ",
       "AKKOZ YAYLA EVLERİ MAH (AKKOZ KÖYÜ)",
       "AKÖREN KÖYÜ",
@@ -41451,9 +41451,9 @@
       "KAZIMKARABEKİR MAH",
       "ŞEHİTLER MAH",
       "TEPE MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "SELİM": [
+    SELİM: [
       "AKÇAKALE KÖYÜ",
       "AKPINAR KÖYÜ",
       "ALİSOFU KÖYÜ",
@@ -41521,9 +41521,9 @@
       "YUKARIKOTANLI KÖYÜ",
       "CUMHURİYET MAH",
       "ÇARŞI MAH",
-      "KÖPRÜBAŞI MAH"
+      "KÖPRÜBAŞI MAH",
     ],
-    "SUSUZ": [
+    SUSUZ: [
       "AFET EVLERİ MAH (BÜYÜKÇATAK KÖYÜ)",
       "AFETEVLERİ MAH (KIRKPINAR KÖYÜ)",
       "AKSU KÖYÜ",
@@ -41560,11 +41560,11 @@
       "CUMHURİYET MAH",
       "İNKILAP MAH",
       "İNÖNÜ MAH",
-      "KAZIM KARABEKİR MAH"
-    ]
+      "KAZIM KARABEKİR MAH",
+    ],
   },
-  "KASTAMONU": {
-    "ABANA": [
+  KASTAMONU: {
+    ABANA: [
       "BAĞLIK MAH",
       "ÇAYIRCIK MAH",
       "HACIVELİ MAH",
@@ -41614,9 +41614,9 @@
       "YEMENİ MAH (YEMENİ KÖYÜ)",
       "YEŞİLYUVA MAH (YEŞİLYUVA KÖYÜ)",
       "ZİRAATLIK MAH (AKÇAM KÖYÜ)",
-      "ZİYRATLIK MAH (ELMAÇUKURU KÖYÜ)"
+      "ZİYRATLIK MAH (ELMAÇUKURU KÖYÜ)",
     ],
-    "AĞLI": [
+    AĞLI: [
       "ALINCA MAH",
       "DANACI MAH",
       "DİKMEN MAH",
@@ -41689,9 +41689,9 @@
       "TEPE MAH (GÖLCÜĞEZ KÖYÜ)",
       "TEPE MAH (OLUKÖZÜ KÖYÜ)",
       "YAYLA MAH (FIRINCIK KÖYÜ)",
-      "YUKARI TURNACIK MAH (TURNACIK KÖYÜ)"
+      "YUKARI TURNACIK MAH (TURNACIK KÖYÜ)",
     ],
-    "ARAÇ": [
+    ARAÇ: [
       "ÇAY MAH",
       "İNÖNÜ MAH",
       "MESUDİYE MAH",
@@ -42080,9 +42080,9 @@
       "YUKARIÖREN MAH (AVLAĞIÇAYIRI KÖYÜ)",
       "YUSUFAKLAR MAH (MURATLI KÖYÜ)",
       "YUVALCA MAH (DEREÇATI KÖYÜ)",
-      "ZAİM MAH (ÇUKURPELİT KÖYÜ)"
+      "ZAİM MAH (ÇUKURPELİT KÖYÜ)",
     ],
-    "AZDAVAY": [
+    AZDAVAY: [
       "BAHÇELİEVLER MAH",
       "KARŞIYAKA MAH",
       "MERKEZ MAH",
@@ -42401,9 +42401,9 @@
       "YUKARIKÖY MAH (ALI KÖYÜ)",
       "ZAHNA MAH (MADEN KÖYÜ)",
       "ZEYFE MAH (ALACIK KÖYÜ)",
-      "ZURNACI MAH (ÜYÜK KÖYÜ)"
+      "ZURNACI MAH (ÜYÜK KÖYÜ)",
     ],
-    "BOZKURT": [
+    BOZKURT: [
       "HAMZA MAH",
       "MERKEZ MAH",
       "ŞEN MAH",
@@ -42595,9 +42595,9 @@
       "YUKARIKARŞI MAH (MAMATLAR KÖYÜ)",
       "YUKARIKÖY-YAMAK-KESEÇUKUR MAH (İLİŞİ KÖYÜ)",
       "YUNDOLUĞU MAH (MAMATLAR KÖYÜ)",
-      "ZONYA MAH (AMBARCILAR KÖYÜ)"
+      "ZONYA MAH (AMBARCILAR KÖYÜ)",
     ],
-    "CİDE": [
+    CİDE: [
       "BAĞYURDU MAH",
       "CUMHURİYET MAH",
       "ECE MAH",
@@ -42866,9 +42866,9 @@
       "YUKARI MAH (NANEPINARI KÖYÜ)",
       "YUKARI MAH (SIRAKAYA KÖYÜ)",
       "YUKARIYAYLA MAH (YAYLAKÖY KÖYÜ)",
-      "YURTBAŞI MAH (YURTBAŞI KÖYÜ)"
+      "YURTBAŞI MAH (YURTBAŞI KÖYÜ)",
     ],
-    "ÇATALZEYTİN": [
+    ÇATALZEYTİN: [
       "ÇELEBİLER MAH",
       "MERKEZ MAH",
       "ABDULLAH MAH (ARICA KÖYÜ)",
@@ -43086,9 +43086,9 @@
       "YUKARIGÜNEYSÖKÜ MAH (YENİBEYLER KÖYÜ)",
       "YUMRU MAH (KÖKLÜCE KÖYÜ)",
       "YUSUF MAH (KARACAKAYA KÖYÜ)",
-      "YUVACIK MAH (YUNUSLAR KÖYÜ)"
+      "YUVACIK MAH (YUNUSLAR KÖYÜ)",
     ],
-    "DADAY": [
+    DADAY: [
       "BEY MAH",
       "KALEM MAH",
       "KELEBEK MAH",
@@ -43359,9 +43359,9 @@
       "YUKARI MAH (KOÇCUĞAZ KÖYÜ)",
       "YUKARIÖDEN MAH (KARAAĞAÇ KÖYÜ)",
       "YUMURTACI MAH (GÖRÜK KÖYÜ)",
-      "ZAROĞLU MAH (HASANŞEYH KÖYÜ)"
+      "ZAROĞLU MAH (HASANŞEYH KÖYÜ)",
     ],
-    "DEVREKANİ": [
+    DEVREKANİ: [
       "AHİÇELEBİ MAH",
       "ÇAYIRCIK MAH",
       "ETÇİLER MAH",
@@ -43601,9 +43601,9 @@
       "YUKARI KINIK MAH (KINIK KÖYÜ)",
       "YUKARI KUZ MAH (KUZ KÖYÜ)",
       "YUKARI KÜPLER MAH (SARIYONCA KÖYÜ)",
-      "YUKARI MAH (KIZACIK KÖYÜ)"
+      "YUKARI MAH (KIZACIK KÖYÜ)",
     ],
-    "DOĞANYURT": [
+    DOĞANYURT: [
       "HOCAKÖYÜ MAH",
       "MERKEZ MAH",
       "AKPINAR MAH (AKÇABEL KÖYÜ)",
@@ -43690,9 +43690,9 @@
       "YUKARI ORTABURUN MAH (ORTABURUN KÖYÜ)",
       "YUKARITORAZYA MAH (DENİZGÖRÜLEN KÖYÜ)",
       "YÜKSEK MAH (ÇAKIRLI KÖYÜ)",
-      "ZEYTİNÇUKURU MAH (TAŞLIPINAR KÖYÜ)"
+      "ZEYTİNÇUKURU MAH (TAŞLIPINAR KÖYÜ)",
     ],
-    "HANÖNÜ": [
+    HANÖNÜ: [
       "GELİNBÜKÜ MAH",
       "HANÖNÜ MAH",
       "VAKIF GEYMENE MAH",
@@ -43826,9 +43826,9 @@
       "YUKARI SÖKÜ MAH (GÖKBELEN KÖYÜ)",
       "YUMACIK MAH (GÖKÇEAĞAÇ KÖYÜ)",
       "YÜRÜKÖREN MAH (YENİKÖY KÖYÜ)",
-      "ZEYBEKOĞLU MAH (BÖLÜKYAZI KÖYÜ)"
+      "ZEYBEKOĞLU MAH (BÖLÜKYAZI KÖYÜ)",
     ],
-    "İHSANGAZİ": [
+    İHSANGAZİ: [
       "AFŞAR MAH",
       "ÇAY MAH",
       "ELÇELEBİ MAH",
@@ -43957,9 +43957,9 @@
       "YUKARI SÜNLÜK MAH (SÜNLÜK KÖYÜ)",
       "YUKARISİVAL MAH (BOZARMUT KÖYÜ)",
       "YUSUFOĞLU MAH (KAYAPINAR KÖYÜ)",
-      "ZEYBEK MAH (GÖRPE KÖYÜ)"
+      "ZEYBEK MAH (GÖRPE KÖYÜ)",
     ],
-    "İNEBOLU": [
+    İNEBOLU: [
       "AŞAĞIHATİPBAĞI MAH",
       "AVARA MAH",
       "BOYRAN MAH",
@@ -44188,9 +44188,9 @@
       "YUKARIÇAYLI KÖYÜ",
       "YUNUSKÖY MAH (YUNUSKÖY KÖYÜ)",
       "ZAMBAK MAH (KUZLUK KÖYÜ)",
-      "ZEHİ MAH (YAZTEPE KÖYÜ)"
+      "ZEHİ MAH (YAZTEPE KÖYÜ)",
     ],
-    "KÜRE": [
+    KÜRE: [
       "CAMİEVSAT MAH",
       "CAMİKEBİR MAH",
       "MÜDERRİS MAH",
@@ -44358,9 +44358,9 @@
       "YUKARI KIŞLA MAH (BEŞÖREN KÖYÜ)",
       "YUKARI MAH (KAYADİBİ KÖYÜ)",
       "YUSUF MAH (ALACIK KÖYÜ)",
-      "ZEYBEK MAH (ALACIK KÖYÜ)"
+      "ZEYBEK MAH (ALACIK KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AKMESCİT MAH",
       "ATABEYGAZİ MAH",
       "HEPKEBİRLER MAH",
@@ -44986,9 +44986,9 @@
       "YUKURIELYAKUT MAH (YUKARIELYAKUT KÖYÜ)",
       "ZALİOĞLU MAH (DARIBÜKÜ KÖYÜ)",
       "ZONGALAR MAH (HACIMUHARREM KÖYÜ)",
-      "ZÜLEN MAH (SEREMİTTİN KÖYÜ)"
+      "ZÜLEN MAH (SEREMİTTİN KÖYÜ)",
     ],
-    "PINARBAŞI": [
+    PINARBAŞI: [
       "ABUT MAH (URVA KÖYÜ)",
       "AFETEVLERİ MAH (YAMANLAR KÖYÜ)",
       "AHMAT AGASI MAH (DEMİRTAŞ KÖYÜ)",
@@ -45164,9 +45164,9 @@
       "ÇALKAYA MAH",
       "ÇAMKIŞLA MAH",
       "FATİH MAH",
-      "UZUNÇAM MAH"
+      "UZUNÇAM MAH",
     ],
-    "SEYDİLER": [
+    SEYDİLER: [
       "ALİ AĞA MAH (KEPEZ KÖYÜ)",
       "AŞAĞI ŞALGAM MAH (ŞALGAM KÖYÜ)",
       "AYRANCI MAH (YOLYAKA KÖYÜ)",
@@ -45246,9 +45246,9 @@
       "MERKEZ OSB MAH",
       "YAĞLAR MAH",
       "YAYLA MAH",
-      "YUKARIARSLANLI MAH"
+      "YUKARIARSLANLI MAH",
     ],
-    "ŞENPAZAR": [
+    ŞENPAZAR: [
       "ABİDİNOĞLU MAH (SALMAN KÖYÜ)",
       "AHMET BEY MAH (GÜRPELİT KÖYÜ)",
       "AKCA KESE MAH (HARMANGERİŞ KÖYÜ)",
@@ -45323,9 +45323,9 @@
       "KARAMAN MAH",
       "KORUCAK MAH",
       "KUZTEKKE MAH",
-      "MERKEZ MAH"
+      "MERKEZ MAH",
     ],
-    "TAŞKÖPRÜ": [
+    TAŞKÖPRÜ: [
       "AĞNAK MAH (BEY KÖYÜ)",
       "AHCIBAŞI MAH (TAŞÇILAR KÖYÜ)",
       "AHLATCI MAH (ABAY KÖYÜ)",
@@ -45771,9 +45771,9 @@
       "SÜMER MAH",
       "TABAKHANE MAH",
       "TEKKE MAH",
-      "ÜSTATLAR MAH"
+      "ÜSTATLAR MAH",
     ],
-    "TOSYA": [
+    TOSYA: [
       "AKDUTDİBİ MAH (KIZILCA KÖYÜ)",
       "ALAMADAN MAH (GÖKOMUZ KÖYÜ)",
       "ALİ EFENDİ MAH (KEÇELİ KÖYÜ)",
@@ -45940,11 +45940,11 @@
       "ŞEH MAH",
       "ŞEHREKÜSTÜ MAH",
       "YAVUZ SELİM MAH",
-      "YUNUS EMRE MAH"
-    ]
+      "YUNUS EMRE MAH",
+    ],
   },
-  "KAYSERİ": {
-    "AKKIŞLA": [
+  KAYSERİ: {
+    AKKIŞLA: [
       "AKİN MAH",
       "ALEVKIŞLA MAH",
       "GANİŞEYH MAH",
@@ -45959,9 +45959,9 @@
       "UĞURLU MAH",
       "YENİ MAH",
       "YEŞİL MAH",
-      "YUKARI MAH"
+      "YUKARI MAH",
     ],
-    "BÜNYAN": [
+    BÜNYAN: [
       "AĞCALI MAH",
       "AKÇATI MAH",
       "AKMESCİT MAH",
@@ -46007,9 +46007,9 @@
       "YAVUZ SELİM MAH",
       "YENİ SÜKSÜN MAH",
       "YENİCE MAH",
-      "YÜNÖREN MAH"
+      "YÜNÖREN MAH",
     ],
-    "DEVELİ": [
+    DEVELİ: [
       "ABDULBAKİ MAH",
       "ALPASLAN MAH",
       "AŞAĞIEVEREK MAH",
@@ -46086,9 +46086,9 @@
       "YENİKÖY MAH",
       "YEŞİLYURT MAH",
       "YÜZEVLER MAH",
-      "ZİLE MAH"
+      "ZİLE MAH",
     ],
-    "FELAHİYE": [
+    FELAHİYE: [
       "ACIRLI MAH",
       "ALPARSLAN MAH",
       "BEYLER MAH",
@@ -46105,9 +46105,9 @@
       "KURUHÜYÜK MAH",
       "MENTEŞE MAH",
       "SİLAHTAR MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "HACILAR": [
+    HACILAR: [
       "AKDAM MAH",
       "AKYAZI MAH",
       "AŞAĞI MAH",
@@ -46119,9 +46119,9 @@
       "YUKARI MAH",
       "HÜRMETCİ MAH",
       "KARPUZSEKİSİ MAH",
-      "SAKARÇİFTLİĞİ MAH"
+      "SAKARÇİFTLİĞİ MAH",
     ],
-    "İNCESU": [
+    İNCESU: [
       "BAHÇELİEVLER MAH",
       "BAHÇESARAY MAH",
       "BULGURCU MAH",
@@ -46152,9 +46152,9 @@
       "ÜÇKUYU MAH",
       "VALİ İHSAN ARAS MAH",
       "YARIM MAH",
-      "YENİ CAMİİ MAH"
+      "YENİ CAMİİ MAH",
     ],
-    "KOCASİNAN": [
+    KOCASİNAN: [
       "BAYRAMHACI MAH",
       "BEYDEĞİRMENİ MAH",
       "BOĞAZKÖPRÜ MAH",
@@ -46247,9 +46247,9 @@
       "YENİDOĞAN MAH",
       "YENİŞEHİR MAH",
       "YUNUS EMRE MAH",
-      "ZİYAGÖKALP MAH"
+      "ZİYAGÖKALP MAH",
     ],
-    "MELİKGAZİ": [
+    MELİKGAZİ: [
       "BATTALGAZİ MAH",
       "BECEN MAH",
       "DANİŞMENTGAZİ MAH",
@@ -46310,9 +46310,9 @@
       "MİMARSİNAN MAH",
       "MİMARSİNAN OSB MAH",
       "ŞİRİNTEPE MAH",
-      "TAVLUSUN MAH"
+      "TAVLUSUN MAH",
     ],
-    "ÖZVATAN": [
+    ÖZVATAN: [
       "ALPARSLAN MAH",
       "AŞAĞI BOĞAZİÇİ MAH",
       "BAHÇELİ EVLER MAH",
@@ -46325,9 +46325,9 @@
       "TAŞLIK MAH",
       "TUĞLAŞAH MAH",
       "YENİ MAH",
-      "YUKARI BOĞAZİÇİ MAH"
+      "YUKARI BOĞAZİÇİ MAH",
     ],
-    "PINARBAŞI": [
+    PINARBAŞI: [
       "AKÖREN MAH",
       "AKPINAR MAH",
       "ALAGAZİLİ MAH",
@@ -46449,9 +46449,9 @@
       "YUKARIBORANDERE MAH",
       "YUKARIKARAGÖZ MAH",
       "YUKARIKIZILÇEVLİK MAH",
-      "YUSUFLAR MAH"
+      "YUSUFLAR MAH",
     ],
-    "SARIOĞLAN": [
+    SARIOĞLAN: [
       "ALAMETTİN MAH",
       "BAKARCAK MAH",
       "BURUNÖREN MAH",
@@ -46478,9 +46478,9 @@
       "ÜZERLİK MAH",
       "YAHYALI MAH",
       "YERLİKUYU MAH",
-      "YILDIRIM MAH"
+      "YILDIRIM MAH",
     ],
-    "SARIZ": [
+    SARIZ: [
       "AKOLUK MAH",
       "ALTISÖĞÜT MAH",
       "AVŞAROBASI MAH",
@@ -46524,9 +46524,9 @@
       "YAYLACI MAH",
       "YEDİOLUK MAH",
       "YENİ MAH",
-      "YEŞİLKENT MAH"
+      "YEŞİLKENT MAH",
     ],
-    "TALAS": [
+    TALAS: [
       "BAHÇELİEVLER MAH",
       "HAN MAH",
       "HARMAN MAH",
@@ -46556,9 +46556,9 @@
       "SÜLEYMANLI MAH",
       "YAMAÇLI MAH",
       "YAZYURDU MAH",
-      "ZİNCİDERE MAH"
+      "ZİNCİDERE MAH",
     ],
-    "TOMARZA": [
+    TOMARZA: [
       "AKDERE MAH",
       "AKMEZAR MAH",
       "ARSLANTAŞ MAH",
@@ -46612,9 +46612,9 @@
       "ÜÇKONAK MAH",
       "YAVUZSELİM MAH",
       "YENİ MAH",
-      "YEŞİLBAĞ MAH"
+      "YEŞİLBAĞ MAH",
     ],
-    "YAHYALI": [
+    YAHYALI: [
       "100.YIL MAH",
       "75.YIL MAH",
       "AĞCAŞAR MAH",
@@ -46655,9 +46655,9 @@
       "YENİCE MAH",
       "YERKÖY MAH",
       "YEŞİLKÖY MAH",
-      "YULARI MAH"
+      "YULARI MAH",
     ],
-    "YEŞİLHİSAR": [
+    YEŞİLHİSAR: [
       "AKKÖY MAH",
       "ARAPLI MAH",
       "BAŞKÖY MAH",
@@ -46692,11 +46692,11 @@
       "SOĞANLI MAH",
       "YAVUZ SELİM MAH",
       "YENİŞEHİR MAH",
-      "YEŞİLOVA MAH"
-    ]
+      "YEŞİLOVA MAH",
+    ],
   },
-  "KIRIKKALE": {
-    "BAHŞILI": [
+  KIRIKKALE: {
+    BAHŞILI: [
       "ATADÖNMEZ MAH",
       "BAHÇELİ MAH",
       "DOĞANAY MAH",
@@ -46713,9 +46713,9 @@
       "SARIKAYALAR KÖYÜ",
       "YAYLA EVLERİ MAH (KÜREBOĞAZI KÖYÜ)",
       "YAYLAEVİ MAH (ÇAMLICA KÖYÜ)",
-      "YEŞİL KONAK MAH (KARAAHMETLİ KÖYÜ)"
+      "YEŞİL KONAK MAH (KARAAHMETLİ KÖYÜ)",
     ],
-    "BALIŞEYH": [
+    BALIŞEYH: [
       "BALLI MAH",
       "OBA MAH",
       "TOKİ MAH",
@@ -46759,9 +46759,9 @@
       "YASSIBAĞ MAH (KENANOBA KÖYÜ)",
       "YENİCE KÖYÜ",
       "YENİLLİ KÖYÜ",
-      "YUKARIKARAKISIK KÖYÜ"
+      "YUKARIKARAKISIK KÖYÜ",
     ],
-    "ÇELEBİ": [
+    ÇELEBİ: [
       "BARBAROS MAH",
       "FATİH MAH",
       "GÜLVEREN MAH",
@@ -46778,9 +46778,9 @@
       "KARAYAKUP KÖYÜ",
       "KEPİRLİ KÖYÜ",
       "TİLKİLİ KÖYÜ",
-      "YUKARIŞIH KÖYÜ"
+      "YUKARIŞIH KÖYÜ",
     ],
-    "DELİCE": [
+    DELİCE: [
       "AKTEPE MAH",
       "CUMHURİYET MAH",
       "FATİH MAH",
@@ -46841,9 +46841,9 @@
       "YENİ MAH (ÇERİKLİ KÖYÜ)",
       "YENİYAPAN KÖYÜ",
       "YERLİKENT MAH (ÇERİKLİ KÖYÜ)",
-      "YILDIZ MAH (BÜYÜKYAĞLI KÖYÜ)"
+      "YILDIZ MAH (BÜYÜKYAĞLI KÖYÜ)",
     ],
-    "KARAKEÇİLİ": [
+    KARAKEÇİLİ: [
       "FATİH SULTAN MEHMET MAH",
       "HOCA AHMET YESEVİ MAH",
       "KARŞIYAKA MAH",
@@ -46853,9 +46853,9 @@
       "YEŞİLEVLER MAH",
       "ZAFER MAH",
       "AKKOŞAN KÖYÜ",
-      "SULUBÜK KÖYÜ"
+      "SULUBÜK KÖYÜ",
     ],
-    "KESKİN": [
+    KESKİN: [
       "ALTUNTAŞ MAH",
       "BOZKURT MAH",
       "GÜNDOĞDU MAH",
@@ -46935,9 +46935,9 @@
       "YENİMERDEN MAH (CERİTOBASI KÖYÜ)",
       "YENİYAPAN KÖYÜ",
       "YEŞİLTAŞ MAH (KONUR KÖYÜ)",
-      "YONCALI KÖYÜ"
+      "YONCALI KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AŞAĞIMAHMUTLAR MAH",
       "ÇALILIÖZ MAH",
       "ÇULLU MAH",
@@ -46982,9 +46982,9 @@
       "KIZILIRMAK MAH",
       "KİMESKİ MAH",
       "SELİM ÖZER MAH",
-      "YUVA MAH"
+      "YUVA MAH",
     ],
-    "SULAKYURT": [
+    SULAKYURT: [
       "AĞAYLI KÖYÜ",
       "AKKUYU KÖYÜ",
       "ALİŞEYHLİ KÖYÜ",
@@ -47023,9 +47023,9 @@
       "YENİHAYAT MAH",
       "YEŞİLYURT MAH",
       "YILDIZ MAH",
-      "YÜKSELEN MAH"
+      "YÜKSELEN MAH",
     ],
-    "YAHŞİHAN": [
+    YAHŞİHAN: [
       "AKTAŞLAR YAYLASI MAH (MAHMUTLAR KÖYÜ)",
       "ARAPLI MEVKİİ MAH (MAHMUTLAR KÖYÜ)",
       "BAHÇELİEVLER MAH (KILIÇLAR KÖYÜ)",
@@ -47062,11 +47062,11 @@
       "ERENLER MAH",
       "KADIOĞLU MAH",
       "YENİŞEHİR MAH",
-      "YEŞİL VADİ MAH"
-    ]
+      "YEŞİL VADİ MAH",
+    ],
   },
-  "KIRKLARELİ": {
-    "BABAESKİ": [
+  KIRKLARELİ: {
+    BABAESKİ: [
       "GÜLBAHÇE MAH (ALPULLU KÖYÜ)",
       "ŞEKER MAH (ALPULLU KÖYÜ)",
       "YENİ MAH (ALPULLU KÖYÜ)",
@@ -47119,9 +47119,9 @@
       "TAŞKÖPRÜ KÖYÜ",
       "TERZİLİ KÖYÜ",
       "YENİKÖY KÖYÜ",
-      "YENİMAHALLE KÖYÜ"
+      "YENİMAHALLE KÖYÜ",
     ],
-    "DEMİRKÖY": [
+    DEMİRKÖY: [
       "HAMDİBEY MAH",
       "ORHANİYE MAH",
       "YENİ MAH",
@@ -47145,9 +47145,9 @@
       "SARPDERE KÖYÜ",
       "SİVRİLER KÖYÜ",
       "YEŞİLCE KÖYÜ",
-      "YİĞİTBAŞI KÖYÜ"
+      "YİĞİTBAŞI KÖYÜ",
     ],
-    "KOFÇAZ": [
+    KOFÇAZ: [
       "YENİ MAH",
       "YEŞİLLİK MAH",
       "AHLATLI KÖYÜ",
@@ -47165,9 +47165,9 @@
       "TATLIPINAR KÖYÜ",
       "TERZİDERE KÖYÜ",
       "TOPÇULAR KÖYÜ",
-      "YUKARIKANARA KÖYÜ"
+      "YUKARIKANARA KÖYÜ",
     ],
-    "LÜLEBURGAZ": [
+    LÜLEBURGAZ: [
       "DERE MAH (AHMETBEY KÖYÜ)",
       "GÜNDOĞU MAH (AHMETBEY KÖYÜ)",
       "KARŞIYAKA MAH (AHMETBEY KÖYÜ)",
@@ -47234,9 +47234,9 @@
       "TURGUTBEY KÖYÜ",
       "UMURCA KÖYÜ",
       "YENİBEDİR KÖYÜ",
-      "YENİTAŞLI KÖYÜ"
+      "YENİTAŞLI KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ARMAĞAN KÖYÜ",
       "ÇAĞALAYIK KÖYÜ",
       "DEREKÖY  BUCAK MERKEZİ KÖYÜ",
@@ -47302,9 +47302,9 @@
       "KEMAL PAŞA MAH (ÜSKÜP KÖYÜ)",
       "MEHMET ÇAVUŞ MAH (ÜSKÜP KÖYÜ)",
       "ÜSKÜPDERE KÖYÜ",
-      "YÜNDALAN KÖYÜ"
+      "YÜNDALAN KÖYÜ",
     ],
-    "PEHLİVANKÖY": [
+    PEHLİVANKÖY: [
       "AKARCA KÖYÜ",
       "DOĞANCA KÖYÜ",
       "HIDIRCA KÖYÜ",
@@ -47315,9 +47315,9 @@
       "YEŞİLPINAR KÖYÜ",
       "ERGENE MAH",
       "KAZIMDİRİK MAH",
-      "KURTULUŞ MAH"
+      "KURTULUŞ MAH",
     ],
-    "PINARHİSAR": [
+    PINARHİSAR: [
       "AKARLAR MAH (KAYNARCA KÖYÜ)",
       "AKÖREN KÖYÜ",
       "ATAKÖY KÖYÜ",
@@ -47339,9 +47339,9 @@
       "BEYLİK MAH",
       "CAMİİKEBİR MAH",
       "DERE MAH",
-      "ORTA MAH"
+      "ORTA MAH",
     ],
-    "VİZE": [
+    VİZE: [
       "AKINCILAR KÖYÜ",
       "AKPINAR KÖYÜ",
       "AKSİCİM KÖYÜ",
@@ -47380,11 +47380,11 @@
       "GAZİ MAH",
       "KALE MAH",
       "MEHMET AKİF MAH",
-      "NAMIK KEMAL MAH"
-    ]
+      "NAMIK KEMAL MAH",
+    ],
   },
-  "KIRŞEHİR": {
-    "AKÇAKENT": [
+  KIRŞEHİR: {
+    AKÇAKENT: [
       "ŞEHRİCEDİD MAH",
       "YENİKENT MAH",
       "YENİYAPAN MAH",
@@ -47414,9 +47414,9 @@
       "KÜÇÜKABDİUŞAĞI KÖYÜ",
       "ÖDEMİŞLİ KÖYÜ",
       "ÖMERUŞAĞI KÖYÜ",
-      "SOLAKUŞAĞI KÖYÜ"
+      "SOLAKUŞAĞI KÖYÜ",
     ],
-    "AKPINAR": [
+    AKPINAR: [
       "ALİPAŞA MAH",
       "CUMHURİYET MAH",
       "HACI HÜSEYİN EFENDİ MAH",
@@ -47459,9 +47459,9 @@
       "ULUKIŞLA MAH (AŞAĞIHOMURLU KÖYÜ)",
       "YAYLA MAZRASI MAH (ALİŞAR KÖYÜ)",
       "YENİ MAH (KÖŞKER KÖYÜ)",
-      "YÜZBAŞIOĞLU MAH (KÖŞKER KÖYÜ)"
+      "YÜZBAŞIOĞLU MAH (KÖŞKER KÖYÜ)",
     ],
-    "BOZTEPE": [
+    BOZTEPE: [
       "BAĞBAŞI MAH",
       "ORTA MAH",
       "YENİ MAH",
@@ -47483,9 +47483,9 @@
       "UZUNPINAR KÖYÜ",
       "ÜÇKUYU KÖYÜ",
       "YENİ DOĞANLI MAH (YENİDOĞANLI KÖYÜ)",
-      "YEŞİLYURT MAH (KARACAÖREN KÖYÜ)"
+      "YEŞİLYURT MAH (KARACAÖREN KÖYÜ)",
     ],
-    "ÇİÇEKDAĞI": [
+    ÇİÇEKDAĞI: [
       "BAĞLARBAŞI MAH",
       "BOYALIK MAH",
       "FATİH MAH",
@@ -47562,9 +47562,9 @@
       "TOPALALİ KÖYÜ",
       "YALNIZAĞAÇ KÖYÜ",
       "YENİ MAH (BOĞAZEVCİ KÖYÜ)",
-      "YUKARIHACIAHMETLİ KÖYÜ"
+      "YUKARIHACIAHMETLİ KÖYÜ",
     ],
-    "KAMAN": [
+    KAMAN: [
       "BAHÇELİEVLER MAH",
       "BAHÇELİEVLER MAH (ÇAĞIRKAN KÖYÜ)",
       "BAHÇELİEVLER MAH (KURANCILI KÖYÜ)",
@@ -47653,9 +47653,9 @@
       "YENİKÖY KÖYÜ",
       "YENİYAPAN KÖYÜ",
       "YUKARI ÇİFTLİK KÖYÜ",
-      "YUNUS EMRE MAH (DEMİRLİ KÖYÜ)"
+      "YUNUS EMRE MAH (DEMİRLİ KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AHİEVRAN MAH",
       "AŞIKPAŞA MAH",
       "BAĞBAŞI MAH",
@@ -47752,9 +47752,9 @@
       "YEŞİLLİ KÖYÜ",
       "YEŞİLOBA KÖYÜ",
       "YUKARI HOMURLU KÖYÜ",
-      "YUNUS EMRE MAH (ULUPINAR KÖYÜ)"
+      "YUNUS EMRE MAH (ULUPINAR KÖYÜ)",
     ],
-    "MUCUR": [
+    MUCUR: [
       "AKSAKLI KÖYÜ",
       "ALTINYAZI KÖYÜ",
       "ASMA MAH (ASMAKARADAM KÖYÜ)",
@@ -47818,11 +47818,11 @@
       "OSMANGAZİ MAH",
       "SOLAKLI MAH",
       "ŞATIROĞLU MAH",
-      "YENİCE MAH"
-    ]
+      "YENİCE MAH",
+    ],
   },
-  "KİLİS": {
-    "ELBEYLİ": [
+  KİLİS: {
+    ELBEYLİ: [
       "AĞYÜZ MAH",
       "HÜRRİYET MAH",
       "İNÖNÜ MAH",
@@ -47873,9 +47873,9 @@
       "YAZILIBAHAR MAH (HAVUZLUÇAM KÖYÜ)",
       "YENİDEĞİRMEN KÖYÜ",
       "YEŞİLYURT MAH (AKÇAĞIL KÖYÜ)",
-      "YILANLI MAH (KALBURSAİT KÖYÜ)"
+      "YILANLI MAH (KALBURSAİT KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ABDİOYMAĞI MAH",
       "AKPINAR MAH",
       "ALBAY İBRAHİM KARAOĞLANOĞLU MAH",
@@ -48030,9 +48030,9 @@
       "UZUNLU KÖYÜ",
       "YAMAÇ BEŞENLİ MAH (BEŞENLİ KÖYÜ)",
       "YAVUZ MAH (YAVUZLU KÖYÜ)",
-      "YUKARI BEŞENLİ MAH (BEŞENLİ KÖYÜ)"
+      "YUKARI BEŞENLİ MAH (BEŞENLİ KÖYÜ)",
     ],
-    "MUSABEYLİ": [
+    MUSABEYLİ: [
       "AĞCAKENT KÖYÜ",
       "AŞAĞIBADEMLİ KÖYÜ",
       "AŞAĞIKALECİK KÖYÜ",
@@ -48093,9 +48093,9 @@
       "ZEYTİNBAĞI KÖYÜ",
       "CUMHURİYET MAH",
       "MURATHÜYÜĞÜ MAH",
-      "PINAR MAH"
+      "PINAR MAH",
     ],
-    "POLATELİ": [
+    POLATELİ: [
       "BAĞARASI KÖYÜ",
       "BEKTAŞOĞLU KÖYÜ",
       "BELENÖZÜ KÖYÜ",
@@ -48127,11 +48127,11 @@
       "EKREM ÇETİN MAH",
       "KAYMAKAM KÜRŞAT AĞCA MAH",
       "SOSYAL KONUTLAR MAH",
-      "ŞEHİT ALİ MAH"
-    ]
+      "ŞEHİT ALİ MAH",
+    ],
   },
-  "KOCAELİ": {
-    "BAŞİSKELE": [
+  KOCAELİ: {
+    BAŞİSKELE: [
       "HAVUZLUBAHÇE MAH",
       "KILIÇARSLAN MAH",
       "ŞEHİTEKREM MAH",
@@ -48169,9 +48169,9 @@
       "PAŞADAĞ MAH",
       "SERDAR MAH",
       "YEŞİLYURT MAH",
-      "YUVACIK YAKACIK MAH"
+      "YUVACIK YAKACIK MAH",
     ],
-    "ÇAYIROVA": [
+    ÇAYIROVA: [
       "AKSE MAH",
       "ATATÜRK MAH",
       "CUMHURİYET MAH",
@@ -48182,9 +48182,9 @@
       "ÖZGÜRLÜK MAH",
       "ŞEKERPINAR MAH",
       "TOSB OTOMOTİV  MAH (OSB MAH)",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "DARICA": [
+    DARICA: [
       "ABDİ İPEKÇİ MAH",
       "BAĞLARBAŞI MAH",
       "BAYRAMOĞLU MAH",
@@ -48198,9 +48198,9 @@
       "SIRASÖĞÜTLER MAH",
       "YALI MAH",
       "YENİ MAH",
-      "ZİNCİRLİKUYU MAH"
+      "ZİNCİRLİKUYU MAH",
     ],
-    "DERİNCE": [
+    DERİNCE: [
       "ÇAVUŞLU MAH",
       "ÇENEDAĞ MAH",
       "ÇINARLI MAH",
@@ -48217,9 +48217,9 @@
       "TERZİLER MAH",
       "TOYLAR MAH",
       "YAVUZ SULTAN MAH",
-      "YENİKENT MAH"
+      "YENİKENT MAH",
     ],
-    "DİLOVASI": [
+    DİLOVASI: [
       "CUMHURİYET MAH",
       "ÇERKEŞLİ MAH",
       "ÇERKEŞLİOSB MAH",
@@ -48236,9 +48236,9 @@
       "ORHANGAZİ MAH",
       "TAVŞANCIL MAH",
       "TEPECİK MAH",
-      "TURGUT ÖZAL MAH"
+      "TURGUT ÖZAL MAH",
     ],
-    "GEBZE": [
+    GEBZE: [
       "ADEM YAVUZ MAH",
       "AHATLI MAH",
       "ARAPÇEŞME MAH",
@@ -48283,9 +48283,9 @@
       "ULUS MAH",
       "YAĞCILAR MAH",
       "YAVUZ SELİM MAH",
-      "YENİKENT MAH"
+      "YENİKENT MAH",
     ],
-    "GÖLCÜK": [
+    GÖLCÜK: [
       "ATATÜRK MAH",
       "CUMHURİYET MAH",
       "DEĞİRMENDERE MERKEZ MAH",
@@ -48335,9 +48335,9 @@
       "YAZLIK MERKEZ MAH",
       "YAZLIK YENİ MAH",
       "YENİ MAH",
-      "YUNUS EMRE MAH"
+      "YUNUS EMRE MAH",
     ],
-    "İZMİT": [
+    İZMİT: [
       "AKARCA MAH",
       "AKMEŞE ATATÜRK MAH",
       "AKMEŞE CUMHURİYET MAH",
@@ -48441,9 +48441,9 @@
       "KADIKÖY MAH",
       "M.ALİPAŞA MAH",
       "YAHYAKAPTAN MAH",
-      "YENİŞEHİR MAH"
+      "YENİŞEHİR MAH",
     ],
-    "KANDIRA": [
+    KANDIRA: [
       "AĞAÇAĞIL MAH",
       "AHMETHACILAR MAH",
       "AKBAL MAH",
@@ -48539,9 +48539,9 @@
       "TOPLUCA MAH",
       "ÜĞÜMCE MAH",
       "YAĞCILAR MAH",
-      "YUSUFÇA MAH"
+      "YUSUFÇA MAH",
     ],
-    "KARAMÜRSEL": [
+    KARAMÜRSEL: [
       "4 TEMMUZ MAH",
       "AKÇAT MAH",
       "AKPINAR MAH",
@@ -48568,9 +48568,9 @@
       "SULUDERE MAH",
       "TAHTALI MAH",
       "TEPEKÖY MAH",
-      "YALAKDERE MAH"
+      "YALAKDERE MAH",
     ],
-    "KARTEPE": [
+    KARTEPE: [
       "ARSLANBEY MAH",
       "ARSLANBEY OSB MAH",
       "ATAŞEHİR MAH",
@@ -48603,9 +48603,9 @@
       "UZUNÇİFTLİK MAH",
       "EŞME MAH",
       "İBRİKDERE MAH",
-      "UZUNTARLA MAH"
+      "UZUNTARLA MAH",
     ],
-    "KÖRFEZ": [
+    KÖRFEZ: [
       "17 AĞUSTOS MAH",
       "AGAH ATEŞ MAH",
       "CUMHURİYET MAH",
@@ -48641,11 +48641,11 @@
       "SİPAHİLER MAH",
       "ŞEMSETTİN MAH",
       "YAVUZ SULTAN SELİM MAH",
-      "YENİYALI MAH"
-    ]
+      "YENİYALI MAH",
+    ],
   },
-  "KONYA": {
-    "AHIRLI": [
+  KONYA: {
+    AHIRLI: [
       "ALİÇERÇİ MAH",
       "BADEMLİ MAH",
       "BALIKLAVA MAH",
@@ -48660,9 +48660,9 @@
       "KURUÇAY MAH",
       "KÜÇÜKÖZ MAH",
       "MERKEZ MAH",
-      "AKKİSE MAH"
+      "AKKİSE MAH",
     ],
-    "AKÖREN": [
+    AKÖREN: [
       "AĞALAR MAH",
       "AHMEDİYE MAH",
       "ALANKÖY MAH",
@@ -48676,9 +48676,9 @@
       "ORHANİYE MAH",
       "SÜLEYMANİYE MAH",
       "TÜLCE MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "AKŞEHİR": [
+    AKŞEHİR: [
       "ALANYURT MAH",
       "ALTUNTAŞ MAH",
       "BOZLAĞAN MAH",
@@ -48733,9 +48733,9 @@
       "TİPİ MAH",
       "YARENLER MAH",
       "YENİ MAH",
-      "YILDIRIM MAH"
+      "YILDIRIM MAH",
     ],
-    "ALTINEKİN": [
+    ALTINEKİN: [
       "AKÇAŞAR MAH",
       "AKINCILAR MAH",
       "AKKÖY MAH",
@@ -48755,9 +48755,9 @@
       "YENİ ÖLMEZ MAH",
       "YENİCE MAH",
       "YENİKUYU MAH",
-      "YENİYAYLA MAH"
+      "YENİYAYLA MAH",
     ],
-    "BEYŞEHİR": [
+    BEYŞEHİR: [
       "ADAKÖY MAH",
       "AĞILÖNÜ MAH",
       "AKBURUN MAH",
@@ -48824,9 +48824,9 @@
       "HAMİDİYE MAH",
       "İÇERİŞEHİR MAH",
       "MÜFTÜ MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "BOZKIR": [
+    BOZKIR: [
       "AKÇAPINAR MAH",
       "ARMUTLU MAH",
       "ARSLANTAŞ MAH",
@@ -48878,9 +48878,9 @@
       "YELBEĞİ MAH",
       "YENİKÖY MAH",
       "YOLÖREN MAH",
-      "YUKARI MAH"
+      "YUKARI MAH",
     ],
-    "CİHANBEYLİ": [
+    CİHANBEYLİ: [
       "AĞABEYLİ MAH",
       "AHİRİGÜZEL MAH",
       "BEYLİOVA MAH",
@@ -48927,9 +48927,9 @@
       "KARŞIYAKA MAH",
       "KÖPRÜBAŞI MAH",
       "YEŞİLÖZ MAH",
-      "YENİCEOBA MAH"
+      "YENİCEOBA MAH",
     ],
-    "ÇELTİK": [
+    ÇELTİK: [
       "ADAKASIM MAH",
       "BAHÇE SARAY MAH",
       "BAHÇELİEVLER MAH",
@@ -48943,9 +48943,9 @@
       "KÜÇÜKHASAN MAH",
       "SELÇUK MAH",
       "TORUNLAR MAH",
-      "YUKARIALİÇOMAK MAH"
+      "YUKARIALİÇOMAK MAH",
     ],
-    "ÇUMRA": [
+    ÇUMRA: [
       "BAĞLAR MAH",
       "BAKKALBAŞI MAH",
       "BARAJ MAH",
@@ -48999,9 +48999,9 @@
       "ÜRÜNLÜ MAH",
       "YENİSU MAH",
       "YÖRÜKCAMİLİ MAH",
-      "İÇERİÇUMRA MAH"
+      "İÇERİÇUMRA MAH",
     ],
-    "DERBENT": [
+    DERBENT: [
       "ARAPÖZÜ MAH",
       "CAMİİKEBİR MAH",
       "ÇİFTLİKÖZÜ MAH",
@@ -49014,9 +49014,9 @@
       "MÜLAYİM MAH",
       "SARAYPINAR MAH",
       "SÜLEYMAN MAH",
-      "YUKARI MAH"
+      "YUKARI MAH",
     ],
-    "DEREBUCAK": [
+    DEREBUCAK: [
       "ÇAMLIK MAH",
       "DURAK MAH",
       "GENCEK MAH",
@@ -49028,9 +49028,9 @@
       "TAŞLIPINAR MAH",
       "TEPEARASI MAH",
       "UĞURLU MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "DOĞANHİSAR": [
+    DOĞANHİSAR: [
       "BAŞKÖY MAH",
       "AĞA MAH",
       "AYASLAR MAH",
@@ -49054,9 +49054,9 @@
       "YAZLICA MAH",
       "YEĞİN MAH",
       "YENİCE MAH",
-      "KARAAĞA MAH"
+      "KARAAĞA MAH",
     ],
-    "EMİRGAZİ": [
+    EMİRGAZİ: [
       "AKMESCİT MAH",
       "BESCİ MAH",
       "CAMİKEBİR MAH",
@@ -49072,9 +49072,9 @@
       "ÖBEKTAŞ MAH",
       "TÜRBE MAH",
       "YAMAÇ MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "EREĞLİ": [
+    EREĞLİ: [
       "ACIKUYU MAH",
       "ACIPINAR MAH",
       "ADABAĞ MAH",
@@ -49161,9 +49161,9 @@
       "SÜMER MAH",
       "TALATPAŞA MAH",
       "YUNUSLU MAH",
-      "ZİYA GÖKALP MAH"
+      "ZİYA GÖKALP MAH",
     ],
-    "GÜNEYSINIR": [
+    GÜNEYSINIR: [
       "AVCITEPE MAH",
       "AYDOĞMUŞ MAH",
       "BARDAS MAH",
@@ -49181,9 +49181,9 @@
       "MEVLANA MAH",
       "ÖMEROĞLU MAH",
       "ÖRENBOYALI MAH",
-      "SARIHACI MAH"
+      "SARIHACI MAH",
     ],
-    "HADİM": [
+    HADİM: [
       "ARMAĞANLAR MAH",
       "AŞAĞI HADİM MAH",
       "AŞAĞI MERNEK MAH",
@@ -49215,9 +49215,9 @@
       "YAĞCI MAH",
       "YELMEZ MAH",
       "YENİKONAK MAH",
-      "YUKARIEŞENLER MAH"
+      "YUKARIEŞENLER MAH",
     ],
-    "HALKAPINAR": [
+    HALKAPINAR: [
       "BAHÇELİEVLER MAH",
       "BÜYÜKDOĞAN MAH",
       "CUMHURİYET MAH",
@@ -49234,9 +49234,9 @@
       "OSMANKÖSELİ MAH",
       "SEYDİFAKILI MAH",
       "YASSIKAYA MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "HÜYÜK": [
+    HÜYÜK: [
       "AKDAĞ MAH",
       "BAHÇELİ EVLER MAH",
       "BAŞLAMIŞ MAH",
@@ -49259,9 +49259,9 @@
       "ULUPINAR MAH",
       "YENİCE MAH",
       "İMRENLER MAH",
-      "KIRELİ MAH"
+      "KIRELİ MAH",
     ],
-    "ILGIN": [
+    ILGIN: [
       "ARGITHANI MAH",
       "AYVATDEDE MAH",
       "BEHLÜLBEY MAH",
@@ -49317,9 +49317,9 @@
       "TEKELER MAH",
       "YORAZLAR MAH",
       "YUKARIÇİĞİL MAH",
-      "ZAFERİYE MAH"
+      "ZAFERİYE MAH",
     ],
-    "KADINHANI": [
+    KADINHANI: [
       "AFŞARLI MAH",
       "ALABAĞ MAH",
       "ATLANTI MAH",
@@ -49372,9 +49372,9 @@
       "YAĞLICA MAH",
       "YAYLAYAKA MAH",
       "YENİ MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "KARAPINAR": [
+    KARAPINAR: [
       "ADALET MAH",
       "AKÇAYAZI MAH",
       "AKÖREN MAH",
@@ -49417,9 +49417,9 @@
       "YENİKUYU MAH",
       "YEŞİLYURT MAH",
       "YUNUS EMRE MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "KARATAY": [
+    KARATAY: [
       "AKİFPAŞA MAH",
       "BÜYÜK SİNAN MAH",
       "ERENLER MAH",
@@ -49500,9 +49500,9 @@
       "ORHANGAZİ MAH",
       "SARAÇOĞLU MAH",
       "SARIYAKUP MAH",
-      "SELİMSULTAN MAH"
+      "SELİMSULTAN MAH",
     ],
-    "KULU": [
+    KULU: [
       "ALPARSLAN MAH",
       "CAMİKEBİR MAH",
       "CUMHURİYET MAH",
@@ -49548,9 +49548,9 @@
       "YEŞİLTEPE MAH",
       "YEŞİLYURT MAH",
       "ZİNCİRLİKUYU MAH",
-      "ÖMERANLI MAH"
+      "ÖMERANLI MAH",
     ],
-    "MERAM": [
+    MERAM: [
       "AYDOĞDU MAH",
       "ÇAYBAŞI MAH",
       "KONEVİ MAH",
@@ -49619,9 +49619,9 @@
       "DERE MAH",
       "KÖYCEĞİZ MAH",
       "MELİKŞAH MAH",
-      "YAKA MAH"
+      "YAKA MAH",
     ],
-    "SARAYÖNÜ": [
+    SARAYÖNÜ: [
       "BATI İSTASYON MAH",
       "DOĞU İSTASYON MAH",
       "FATİH MAH",
@@ -49647,9 +49647,9 @@
       "KUYULUSEBİL MAH",
       "LADİK MAH",
       "ÖZKENT MAH",
-      "YENİCEKAYA MAH"
+      "YENİCEKAYA MAH",
     ],
-    "SELÇUKLU": [
+    SELÇUKLU: [
       "AKINCILAR MAH",
       "AYDINLIKEVLER MAH",
       "BEDİR MAH",
@@ -49724,9 +49724,9 @@
       "BEYHEKİM MAH",
       "PARSANA MAH",
       "SELAHADDİNİ EYYUBİ MAH",
-      "YAZIR MAH"
+      "YAZIR MAH",
     ],
-    "SEYDİŞEHİR": [
+    SEYDİŞEHİR: [
       "AKTAŞ MAH",
       "ALAYLAR BİR MAH",
       "ALAYLAR İKİ MAH",
@@ -49782,9 +49782,9 @@
       "SOFUHANE MAH",
       "STAT MAH",
       "ULUKAPI MAH",
-      "YENİCAMİ MAH"
+      "YENİCAMİ MAH",
     ],
-    "TAŞKENT": [
+    TAŞKENT: [
       "AFŞAR TEPECİK MAH",
       "AFŞAR YUKARI MAH",
       "BALCILAR ORTA MAH",
@@ -49799,9 +49799,9 @@
       "KECİMEN MAH",
       "KONGUL MAH",
       "SAZAK MAH",
-      "ŞIHLAR MAH"
+      "ŞIHLAR MAH",
     ],
-    "TUZLUKÇU": [
+    TUZLUKÇU: [
       "AŞAĞI MAH",
       "ÇÖĞÜRLÜ MAH",
       "ERDOĞDU MAH",
@@ -49816,10 +49816,10 @@
       "PAZARKAYA MAH",
       "SUBATAN MAH",
       "TURSUNLU MAH",
-      "YUKARI MAH"
+      "YUKARI MAH",
     ],
-    "YALIHÜYÜK": ["ARASÖĞÜT MAH", "AŞAĞI MAH", "SARAYKÖY MAH", "YUKARI MAH"],
-    "YUNAK": [
+    YALIHÜYÜK: ["ARASÖĞÜT MAH", "AŞAĞI MAH", "SARAYKÖY MAH", "YUKARI MAH"],
+    YUNAK: [
       "ALTINÖZ MAH",
       "AYRITEPE MAH",
       "BEŞIŞIKLI MAH",
@@ -49861,11 +49861,11 @@
       "YENİ MAH",
       "YEŞİLOBA MAH",
       "YEŞİLYAYLA MAH",
-      "YIĞAR MAH"
-    ]
+      "YIĞAR MAH",
+    ],
   },
-  "KÜTAHYA": {
-    "ALTINTAŞ": [
+  KÜTAHYA: {
+    ALTINTAŞ: [
       "BOZBAY MAH",
       "CUMHURİYET MAH",
       "CUMHURİYET MAH (ZAFERTEPEÇALKÖY KÖYÜ)",
@@ -49909,9 +49909,9 @@
       "YENİKARAAĞAÇ KÖYÜ",
       "YEŞİLYURT KÖYÜ",
       "YOLÇATI KÖYÜ",
-      "YUKARI MAH (GÖKÇELER KÖYÜ)"
+      "YUKARI MAH (GÖKÇELER KÖYÜ)",
     ],
-    "ASLANAPA": [
+    ASLANAPA: [
       "CUMHURİYET MAH",
       "HÜRRİYET MAH",
       "PINARBAŞI MAH",
@@ -49954,9 +49954,9 @@
       "TERZİLER KÖYÜ",
       "TOKUL KÖYÜ",
       "YAĞCILAR KÖYÜ",
-      "YUNUS EMRE MAH (NUHÖREN KÖYÜ)"
+      "YUNUS EMRE MAH (NUHÖREN KÖYÜ)",
     ],
-    "ÇAVDARHİSAR": [
+    ÇAVDARHİSAR: [
       "CERELLER MAH",
       "KEMALLER MAH",
       "MEYDAN MAH",
@@ -49984,9 +49984,9 @@
       "YAĞDIĞIN KÖYÜ",
       "YENİCEARMUTCUK KÖYÜ",
       "YEŞİLDERE KÖYÜ",
-      "ZOBU KÖYÜ"
+      "ZOBU KÖYÜ",
     ],
-    "DOMANİÇ": [
+    DOMANİÇ: [
       "CUMHURİYET MAH",
       "HASANTEPE MAH",
       "HİSAR MAH",
@@ -50031,9 +50031,9 @@
       "SOĞUCAK KÖYÜ",
       "TIRAZ KÖYÜ",
       "ÜSTÜBEŞ MAH (MURATLI KÖYÜ)",
-      "YEŞİLKÖY KÖYÜ"
+      "YEŞİLKÖY KÖYÜ",
     ],
-    "DUMLUPINAR": [
+    DUMLUPINAR: [
       "CAFERGAZİ MAH",
       "CUMHURİYET MAH",
       "TURGUT ÖZAL MAH",
@@ -50047,9 +50047,9 @@
       "KIZILCA KÖYÜ",
       "KÜÇÜKASLIHANLAR KÖYÜ",
       "SELKİSARAY KÖYÜ",
-      "YÜYLÜK KÖYÜ"
+      "YÜYLÜK KÖYÜ",
     ],
-    "EMET": [
+    EMET: [
       "AKPINAR MAH",
       "CUMHURİYET MAH",
       "DERE MAH",
@@ -50105,9 +50105,9 @@
       "YENİ MAH (ÖRENCİK KÖYÜ)",
       "YENİ MAH (YENİCE KÖYÜ)",
       "YENİKÖY KÖYÜ",
-      "YILDIRIM MAH (ÇERTE KÖYÜ)"
+      "YILDIRIM MAH (ÇERTE KÖYÜ)",
     ],
-    "GEDİZ": [
+    GEDİZ: [
       "DAYINLAR MAH",
       "ERGENEKON MAH",
       "GAZİKEMAL MAH",
@@ -50217,9 +50217,9 @@
       "YUKARIARICA MAH (ARICA KÖYÜ)",
       "YUKARISUSUZ KÖYÜ",
       "YUMRUTAŞ KÖYÜ",
-      "YUNUSEMRE MAH (YUNUSLAR KÖYÜ)"
+      "YUNUSEMRE MAH (YUNUSLAR KÖYÜ)",
     ],
-    "HİSARCIK": [
+    HİSARCIK: [
       "82.YIL MAH",
       "CUMHURİYET MAH",
       "CUMHURİYET MAH (KARBASAN KÖYÜ)",
@@ -50259,9 +50259,9 @@
       "ULAŞLAR KÖYÜ",
       "YENİPINAR KÖYÜ",
       "YUKARIYONCAAĞAÇ KÖYÜ",
-      "YUNUSEMRE MAH (DEREKÖY KÖYÜ)"
+      "YUNUSEMRE MAH (DEREKÖY KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ALİPAŞA MAH",
       "CUMHURİYET MAH",
       "DUMLUPINAR MAH",
@@ -50459,9 +50459,9 @@
       "YEŞİLBAYIR KÖYÜ",
       "YEŞİLYAYLA MAH (PULLAR KÖYÜ)",
       "YUMAKLI KÖYÜ",
-      "GÜLTEPE MAH"
+      "GÜLTEPE MAH",
     ],
-    "PAZARLAR": [
+    PAZARLAR: [
       "AKŞİNİK KÖYÜ",
       "ATATÜRK MAH (SOFULAR KÖYÜ)",
       "KEPEZ MAH (SOFULAR KÖYÜ)",
@@ -50479,9 +50479,9 @@
       "HOCAAHMETYESEVİ MAH",
       "TURGUT ÖZAL MAH",
       "YAKUPLAR ATATÜRK MAH",
-      "YAKUPLAR FATİH MAH"
+      "YAKUPLAR FATİH MAH",
     ],
-    "SİMAV": [
+    SİMAV: [
       "AHLATLIÇEŞME KÖYÜ",
       "AHMETLİ KÖYÜ",
       "AKPINAR KÖYÜ",
@@ -50635,9 +50635,9 @@
       "SIRAPAYAM MAH",
       "TABAKHANE MAH",
       "TEPECİK MAH",
-      "YEŞİLOVA MAH"
+      "YEŞİLOVA MAH",
     ],
-    "ŞAPHANE": [
+    ŞAPHANE: [
       "ASMALI MAH (KIZILKOLTUK KÖYÜ)",
       "ATATÜRK MAH (ÜÇBAŞ KÖYÜ)",
       "AYVACIK KÖYÜ",
@@ -50664,9 +50664,9 @@
       "KARACADERBENT MAH",
       "PAZAR MAH",
       "SUBAŞI MAH",
-      "TÜREGÜN MAH"
+      "TÜREGÜN MAH",
     ],
-    "TAVŞANLI": [
+    TAVŞANLI: [
       "1 MAH (ÇOBANLAR KÖYÜ)",
       "2 MAH (ÇALTILI KÖYÜ)",
       "3 MAH (ÇALTILI KÖYÜ)",
@@ -50830,11 +50830,11 @@
       "SUBAŞI MAH",
       "ULUCAMİ MAH",
       "YENİ MAH",
-      "YILDIRIM BEYAZIT MAH"
-    ]
+      "YILDIRIM BEYAZIT MAH",
+    ],
   },
-  "MALATYA": {
-    "AKÇADAĞ": [
+  MALATYA: {
+    AKÇADAĞ: [
       "AKSARAY MAH",
       "AKSÜT MAH",
       "AKTEPE MAH",
@@ -50911,9 +50911,9 @@
       "YALINBUDAK MAH",
       "YALINKAYA MAH",
       "YAYLIMLI MAH",
-      "YUKARIÖRÜKÇÜ MAH"
+      "YUKARIÖRÜKÇÜ MAH",
     ],
-    "ARAPGİR": [
+    ARAPGİR: [
       "AKTAŞ MAH",
       "ALIÇLI MAH",
       "AŞAĞIÇÖRENGE MAH",
@@ -50976,9 +50976,9 @@
       "YUKARIULUPINAR MAH",
       "YUKARIYABANLI MAH",
       "YUKARIYENİCE MAH",
-      "ZÖHRAP MAH"
+      "ZÖHRAP MAH",
     ],
-    "ARGUVAN": [
+    ARGUVAN: [
       "AKÖREN MAH",
       "ALHASUŞAĞI MAH",
       "ARMUTLU MAH",
@@ -51027,9 +51027,9 @@
       "YENİKÖY MAH",
       "YONCALI MAH",
       "YUKARISÜLMENLİ MAH",
-      "YÜREKTAŞI MAH"
+      "YÜREKTAŞI MAH",
     ],
-    "BATTALGAZİ": [
+    BATTALGAZİ: [
       "ADAGÖREN MAH",
       "AĞILYAZI MAH",
       "ALACAKAPI MAH",
@@ -51132,9 +51132,9 @@
       "HİDAYET MAH",
       "İSKENDER MAH",
       "SARICIOĞLU MAH",
-      "TAŞTEPE MAH"
+      "TAŞTEPE MAH",
     ],
-    "DARENDE": [
+    DARENDE: [
       "AĞILBAŞI MAH",
       "AĞILYAZI MAH",
       "AKBABA MAH",
@@ -51202,9 +51202,9 @@
       "YENİPINAR MAH",
       "YEŞİLTAŞ MAH",
       "YUKARIULUPINAR MAH",
-      "ZAVİYE MAH"
+      "ZAVİYE MAH",
     ],
-    "DOĞANŞEHİR": [
+    DOĞANŞEHİR: [
       "ALTINTOP MAH",
       "BEĞRE MAH",
       "BIÇAKÇI MAH",
@@ -51243,9 +51243,9 @@
       "TOPRAKTEPE MAH",
       "YENİ MAH",
       "YOLKORU MAH",
-      "YUVALI MAH"
+      "YUVALI MAH",
     ],
-    "DOĞANYOL": [
+    DOĞANYOL: [
       "AKKENT MAH",
       "BEHRAMLI MAH",
       "BURÇKÖY MAH",
@@ -51261,9 +51261,9 @@
       "POYRAZ MAH",
       "ULUTAŞ MAH",
       "YALINCA MAH",
-      "YEŞİLKÖY MAH"
+      "YEŞİLKÖY MAH",
     ],
-    "HEKİMHAN": [
+    HEKİMHAN: [
       "AKMAĞARA MAH",
       "AKSÜTLÜ MAH",
       "AŞAĞISAZLICA MAH",
@@ -51328,9 +51328,9 @@
       "YEŞİLKALE MAH",
       "YEŞİLKÖY MAH",
       "YEŞİLPINAR MAH",
-      "YUKARISELİMLİ MAH"
+      "YUKARISELİMLİ MAH",
     ],
-    "KALE": [
+    KALE: [
       "ABUŞOĞLU MAH",
       "AKÇA MAH",
       "AKUŞAĞI MAH",
@@ -51358,9 +51358,9 @@
       "UYANIK MAH",
       "UZUNHÜSEYİN MAH",
       "ÜÇDEĞİRMEN MAH",
-      "YENİDAMLAR MAH"
+      "YENİDAMLAR MAH",
     ],
-    "KULUNCAK": [
+    KULUNCAK: [
       "ALVAR MAH",
       "AŞAĞISELİMLİ MAH",
       "BAHÇELİEVLER MAH",
@@ -51388,9 +51388,9 @@
       "SOFULAR MAH",
       "SULTANLI MAH",
       "TEMÜKLÜ MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "PÜTÜRGE": [
+    PÜTÜRGE: [
       "AĞALAR MAH",
       "AKTARLA MAH",
       "ALİÇERİ MAH",
@@ -51458,9 +51458,9 @@
       "YANDERE MAH",
       "YAZICA MAH",
       "YEDİYOL MAH",
-      "YEŞİLDERE MAH"
+      "YEŞİLDERE MAH",
     ],
-    "YAZIHAN": [
+    YAZIHAN: [
       "AKYAZI MAH",
       "ALİCAN MAH",
       "AMBARCIK MAH",
@@ -51493,9 +51493,9 @@
       "SÜRÜR MAH",
       "TAHTALI MAH",
       "TECİRLİ MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "YEŞİLYURT": [
+    YEŞİLYURT: [
       "BOSTANBAŞI MAH",
       "ÇARMUZU MAH",
       "ÇAVUŞOĞLU MAH",
@@ -51579,11 +51579,11 @@
       "YALINKAYA MAH",
       "YAVUZ SELİM MAH",
       "YENİ MAH",
-      "ZAVİYE MAH"
-    ]
+      "ZAVİYE MAH",
+    ],
   },
-  "MANİSA": {
-    "AHMETLİ": [
+  MANİSA: {
+    AHMETLİ: [
       "ALAHIDIR MAH",
       "ALTIEYLÜL MAH",
       "ATAKÖY MAH",
@@ -51606,9 +51606,9 @@
       "ULU CAMİ MAH",
       "YARAŞLI MAH",
       "ZAFER MAH",
-      "GÖKKAYA MAH"
+      "GÖKKAYA MAH",
     ],
-    "AKHİSAR": [
+    AKHİSAR: [
       "AKÇAALAN MAH",
       "AKÇEŞME MAH",
       "AKKOCALI MAH",
@@ -51718,9 +51718,9 @@
       "YENİCE MAH",
       "YENİDOĞAN MAH",
       "ZEYTİNLİBAĞ MAH",
-      "ZEYTİNLİOVA MAH"
+      "ZEYTİNLİOVA MAH",
     ],
-    "ALAŞEHİR": [
+    ALAŞEHİR: [
       "AKKEÇİLİ MAH",
       "ALHAN MAH",
       "AYDOĞDU MAH",
@@ -51807,9 +51807,9 @@
       "KİLLİK MAH",
       "PİYADELER MAH",
       "ULUDERBENT MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "DEMİRCİ": [
+    DEMİRCİ: [
       "AHATLAR MAH",
       "AHMETLER MAH",
       "AKDERE MAH",
@@ -51910,9 +51910,9 @@
       "YİĞENLER MAH",
       "YİĞİTLER MAH",
       "DURHASAN MAH",
-      "MAHMUTLAR MAH"
+      "MAHMUTLAR MAH",
     ],
-    "GÖLMARMARA": [
+    GÖLMARMARA: [
       "ATATÜRK MAH",
       "AYANLAR MAH",
       "BEYLER MAH",
@@ -51933,9 +51933,9 @@
       "TİYENLİ MAH",
       "YENİ CAMİİ MAH",
       "YENİKÖY MAH",
-      "YUNUSLAR MAH"
+      "YUNUSLAR MAH",
     ],
-    "GÖRDES": [
+    GÖRDES: [
       "ÇİÇEKLİ MAH",
       "ADNAN MENDERES MAH",
       "AKPINAR MAH",
@@ -51999,9 +51999,9 @@
       "YEŞİLYURT MAH",
       "EVCİLER MAH",
       "GÜNEŞLİ MAH",
-      "KAYACIK MAH"
+      "KAYACIK MAH",
     ],
-    "KIRKAĞAÇ": [
+    KIRKAĞAÇ: [
       "BAKIR MAH",
       "GELENBE MAH",
       "İLYASLAR MAH",
@@ -52048,9 +52048,9 @@
       "TEVFİKİYE MAH",
       "YAĞMURLU MAH",
       "YENİ MAH",
-      "ZORAĞA MAH"
+      "ZORAĞA MAH",
     ],
-    "KÖPRÜBAŞI": [
+    KÖPRÜBAŞI: [
       "AKÇAALAN MAH",
       "ALANYOLU MAH",
       "ARMAĞAN MAH",
@@ -52096,9 +52096,9 @@
       "YARDERE MAH",
       "YENİCE MAH",
       "YEŞİLKÖY MAH",
-      "YUMUKLAR MAH"
+      "YUMUKLAR MAH",
     ],
-    "KULA": [
+    KULA: [
       "4 EYLÜL MAH",
       "AHMETLİ MAH",
       "AKGÜN MAH",
@@ -52158,9 +52158,9 @@
       "YENİKÖY MAH",
       "YEŞİLYAYLA MAH",
       "YURTBAŞI MAH",
-      "ZAFERİYE MAH"
+      "ZAFERİYE MAH",
     ],
-    "SALİHLİ": [
+    SALİHLİ: [
       "ADALA MAH",
       "DURASILLI MAH",
       "AKÇAKÖY MAH",
@@ -52264,9 +52264,9 @@
       "YILMAZ MAH",
       "YÖRÜK MAH",
       "ZAFER MAH",
-      "SART MAH"
+      "SART MAH",
     ],
-    "SARIGÖL": [
+    SARIGÖL: [
       "AFŞAR MAH",
       "AHMETAĞA MAH",
       "ALEMŞAHLI MAH",
@@ -52301,9 +52301,9 @@
       "YENİKÖY MAH",
       "YEŞİLTEPE MAH",
       "YUKARIKOÇAKLAR MAH",
-      "ZİYANLAR MAH"
+      "ZİYANLAR MAH",
     ],
-    "SARUHANLI": [
+    SARUHANLI: [
       "ALİBEYLİ MAH",
       "BÜYÜKBELEN MAH",
       "DİLEK MAH",
@@ -52353,9 +52353,9 @@
       "ŞEHİTLER MAH",
       "TAŞDİBİ MAH",
       "TİRKEŞ MAH",
-      "YILMAZ MAH"
+      "YILMAZ MAH",
     ],
-    "SELENDİ": [
+    SELENDİ: [
       "AKÇAKERTİL MAH",
       "ALTINKÖY MAH",
       "AŞAĞITEFEN MAH",
@@ -52412,9 +52412,9 @@
       "YILDIZ MAH",
       "YUKARITEFEN MAH",
       "ZAFER MAH",
-      "ZIRAMANLAR MAH"
+      "ZIRAMANLAR MAH",
     ],
-    "SOMA": [
+    SOMA: [
       "AVDAN MAH",
       "CENKYERİ MAH",
       "ADİL MAH",
@@ -52485,9 +52485,9 @@
       "YIRCA MAH",
       "ZAFER MAH",
       "TURGUTALP MAH",
-      "YAĞCILI MAH"
+      "YAĞCILI MAH",
     ],
-    "ŞEHZADELER": [
+    ŞEHZADELER: [
       "AŞAĞIÇOBANİSA MAH",
       "1.ANAFARTALAR MAH",
       "2.ANAFARTALAR MAH",
@@ -52552,9 +52552,9 @@
       "YENİHARMANDALI MAH",
       "YENİKÖY MAH",
       "YEŞİLKÖY MAH",
-      "YUKARIÇOBANİSA MAH"
+      "YUKARIÇOBANİSA MAH",
     ],
-    "TURGUTLU": [
+    TURGUTLU: [
       "DERBENT MAH",
       "ACARLAR MAH",
       "AKÇAPINAR MAH",
@@ -52616,9 +52616,9 @@
       "YILMAZLAR MAH",
       "YİĞİTLER MAH",
       "YUNUSDERE MAH",
-      "URGANLI MAH"
+      "URGANLI MAH",
     ],
-    "YUNUSEMRE": [
+    YUNUSEMRE: [
       "50.YIL MAH",
       "ATATÜRK MAH",
       "BARBAROS MAH",
@@ -52708,11 +52708,11 @@
       "YAĞCILAR MAH",
       "YAYLAKÖY MAH",
       "YUNTDAĞIKÖSELER MAH",
-      "YUNTDAĞYENİCE MAH"
-    ]
+      "YUNTDAĞYENİCE MAH",
+    ],
   },
-  "MARDİN": {
-    "ARTUKLU": [
+  MARDİN: {
+    ARTUKLU: [
       "GÖKÇE MAH",
       "ACAR MAH",
       "AHMETLİ MAH",
@@ -52804,9 +52804,9 @@
       "ŞEHİDİYE MAH",
       "TEKER MAH",
       "ULUCAMİ MAH",
-      "YENİKAPI MAH"
+      "YENİKAPI MAH",
     ],
-    "DARGEÇİT": [
+    DARGEÇİT: [
       "AKÇAKÖY MAH",
       "AKYOL MAH",
       "ALAYUNT MAH",
@@ -52847,9 +52847,9 @@
       "ULAŞ MAH",
       "YANILMAZ MAH",
       "YILMAZ MAH",
-      "YONCALI MAH"
+      "YONCALI MAH",
     ],
-    "DERİK": [
+    DERİK: [
       "ADAK MAH",
       "ADAKENT MAH",
       "AHMETLİ MAH",
@@ -52929,9 +52929,9 @@
       "ÜÇTEPE MAH",
       "YAZICIK MAH",
       "YUKARIMEZRA MAH",
-      "ZEYTİNPINAR MAH"
+      "ZEYTİNPINAR MAH",
     ],
-    "KIZILTEPE": [
+    KIZILTEPE: [
       "AKALIN MAH",
       "AKÇA MAH",
       "AKÇAPINAR MAH",
@@ -53115,9 +53115,9 @@
       "YÜCELİ MAH",
       "YÜKSEKTEPE MAH",
       "ZERGAN MAH",
-      "ZİYARET MAH"
+      "ZİYARET MAH",
     ],
-    "MAZIDAĞI": [
+    MAZIDAĞI: [
       "AKSU MAH",
       "ARIKÖY MAH",
       "ARISU MAH",
@@ -53170,9 +53170,9 @@
       "YETKİNLER MAH",
       "YUKARIKONAK MAH",
       "YUKARIOCAK MAH",
-      "YÜCEBAĞ MAH"
+      "YÜCEBAĞ MAH",
     ],
-    "MİDYAT": [
+    MİDYAT: [
       "AKÇAKAYA MAH",
       "CUMHURİYET MAH",
       "GÖLCÜK MAH",
@@ -53244,9 +53244,9 @@
       "YOLBAŞI MAH",
       "YUNUS EMRE MAH",
       "YUVALI MAH",
-      "ZİYARET MAH"
+      "ZİYARET MAH",
     ],
-    "NUSAYBİN": [
+    NUSAYBİN: [
       "8 MART MAH",
       "ABDULKADİRPAŞA MAH",
       "AÇIKKÖY MAH",
@@ -53329,9 +53329,9 @@
       "YEŞİLKENT MAH",
       "YOLBİLEN MAH",
       "YOLİNDİ MAH",
-      "ZEYNELABİDİN MAH"
+      "ZEYNELABİDİN MAH",
     ],
-    "ÖMERLİ": [
+    ÖMERLİ: [
       "AKYOKUŞ MAH",
       "ALIÇLI MAH",
       "ANITTEPE MAH",
@@ -53377,9 +53377,9 @@
       "TOPAĞAÇ MAH",
       "ÜNSALLI MAH",
       "YAYLATEPE MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "SAVUR": [
+    SAVUR: [
       "AKYÜREK MAH",
       "ARMUTALAN MAH",
       "BAĞYAKA MAH",
@@ -53420,9 +53420,9 @@
       "YAYLAYANI MAH",
       "YAZIR MAH",
       "YENİLMEZ MAH",
-      "YEŞİLALAN MAH"
+      "YEŞİLALAN MAH",
     ],
-    "YEŞİLLİ": [
+    YEŞİLLİ: [
       "ALIÇLI MAH",
       "BAHÇEBAŞI MAH",
       "BÜLBÜL MAH",
@@ -53436,11 +53436,11 @@
       "ŞİRİNEVLER MAH",
       "TEPEBAŞI MAH",
       "UZUNKÖY MAH",
-      "ZEYTİNLİ MAH"
-    ]
+      "ZEYTİNLİ MAH",
+    ],
   },
-  "MERSİN": {
-    "AKDENİZ": [
+  MERSİN: {
+    AKDENİZ: [
       "ADANALIOĞLU LİMONLU MAH",
       "ADANALIOĞLU MAH",
       "AKDENİZ MAH",
@@ -53509,9 +53509,9 @@
       "KAZANLI MAH",
       "NUSRATİYE MAH",
       "ÜÇOCAK MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "ANAMUR": [
+    ANAMUR: [
       "AKARCA MAH",
       "AKİNE MAH",
       "ALATAŞ MAH",
@@ -53567,9 +53567,9 @@
       "FATİH MAH",
       "GÜZELYURT MAH",
       "İSKELE MAH",
-      "YALIEVLERİ MAH"
+      "YALIEVLERİ MAH",
     ],
-    "AYDINCIK": [
+    AYDINCIK: [
       "ATATÜRK MAH",
       "CUMHURİYET MAH",
       "HÜRRİYET MAH",
@@ -53584,9 +53584,9 @@
       "TEKNECİK MAH",
       "YENİKAŞ MAH",
       "YENİYÜRÜK MAH",
-      "YENİYÜRÜKKAŞ MAH"
+      "YENİYÜRÜKKAŞ MAH",
     ],
-    "BOZYAZI": [
+    BOZYAZI: [
       "ARDIÇLITAŞ MAH",
       "DEREKÖY MAH",
       "ELMAKUZU MAH",
@@ -53612,9 +53612,9 @@
       "TEKEDÜZÜ MAH",
       "TEKELİ MAH",
       "TEKMEN MAH",
-      "USTALAR MAH"
+      "USTALAR MAH",
     ],
-    "ÇAMLIYAYLA": [
+    ÇAMLIYAYLA: [
       "CUMAYAKASI MAH",
       "ÇAYIREKİNLİĞİ MAH",
       "KALE MAH",
@@ -53628,9 +53628,9 @@
       "KORUCAK MAH",
       "KÖRMENLİK MAH",
       "SARIKAVAK MAH",
-      "SARIKOYAK MAH"
+      "SARIKOYAK MAH",
     ],
-    "ERDEMLİ": [
+    ERDEMLİ: [
       "ADNAN MENDERES MAH",
       "AKDENİZ MAH",
       "AKPINAR MAH",
@@ -53701,9 +53701,9 @@
       "YAĞDA MAH",
       "YARENLER MAH",
       "YENİYURT MAH",
-      "YÜKSEK MAH"
+      "YÜKSEK MAH",
     ],
-    "GÜLNAR": [
+    GÜLNAR: [
       "AKDENİZ MAH",
       "AYVALI MAH",
       "HACIPINAR MAH",
@@ -53753,9 +53753,9 @@
       "YARMASU MAH",
       "YASSIBAĞ MAH",
       "YENİCE MAH",
-      "ZEYNE MAH"
+      "ZEYNE MAH",
     ],
-    "MEZİTLİ": [
+    MEZİTLİ: [
       "AKDENİZ MAH",
       "ÇAMLICA MAH",
       "ÇANKAYA MAH",
@@ -53795,9 +53795,9 @@
       "HÜRRİYET MAH",
       "SEYMENLİ MAH",
       "ŞAHİN TEPESİ MAH",
-      "TECE MAH"
+      "TECE MAH",
     ],
-    "MUT": [
+    MUT: [
       "ALAÇAM MAH",
       "AŞAĞIKÖSELERLİ MAH",
       "AYDINOĞLU MAH",
@@ -53899,9 +53899,9 @@
       "YEŞİLYURT MAH",
       "YILDIZKÖY MAH",
       "YUKARIKÖSELERLİ MAH",
-      "ZEYTİNÇUKURU MAH"
+      "ZEYTİNÇUKURU MAH",
     ],
-    "SİLİFKE": [
+    SİLİFKE: [
       "ATAKENT MAH",
       "ATAYURT MAH",
       "ARKUM MAH",
@@ -53990,9 +53990,9 @@
       "YENİSU MAH",
       "AKDERE MAH",
       "TAŞUCU MAH",
-      "YEŞİLOVACIK MAH"
+      "YEŞİLOVACIK MAH",
     ],
-    "TARSUS": [
+    TARSUS: [
       "82EVLER MAH",
       "ÇAĞLAYAN MAH",
       "FATİH MAH",
@@ -54171,9 +54171,9 @@
       "TAŞOBASI MAH",
       "YANIKKIŞLA MAH",
       "YAZLIK MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "TOROSLAR": [
+    TOROSLAR: [
       "AKBELEN MAH",
       "OSMANİYE MAH",
       "YUSUF KILIÇ MAH",
@@ -54240,9 +54240,9 @@
       "KURDALİ MAH",
       "MEVLANA MAH",
       "SELÇUKLAR MAH",
-      "TOROSLAR MAH"
+      "TOROSLAR MAH",
     ],
-    "YENİŞEHİR": [
+    YENİŞEHİR: [
       "50. YIL MAH",
       "DENİZ MAH",
       "FUATMOREL MAH",
@@ -54274,11 +54274,11 @@
       "KARAHACILI MAH",
       "KOCAHAMZALI MAH",
       "TURUNÇLU MAH",
-      "UZUNKAŞ MAH"
-    ]
+      "UZUNKAŞ MAH",
+    ],
   },
-  "MUĞLA": {
-    "BODRUM": [
+  MUĞLA: {
+    BODRUM: [
       "AKÇAALAN MAH",
       "AKYARLAR MAH",
       "BAHÇELİEVLER MAH",
@@ -54334,9 +54334,9 @@
       "YALIKAVAK MAH",
       "YENİKÖY  MAH (KARAOVA MAH)",
       "YENİKÖY MAH",
-      "YOKUŞBAŞI MAH"
+      "YOKUŞBAŞI MAH",
     ],
-    "DALAMAN": [
+    DALAMAN: [
       "AKÇATAŞ MAH",
       "ALTINTAS MAH",
       "ATAKENT MAH",
@@ -54361,9 +54361,9 @@
       "SABUNLU MAH",
       "SÖĞÜTLÜYURT MAH",
       "ŞEREFLER MAH",
-      "TAŞBAŞI MAH"
+      "TAŞBAŞI MAH",
     ],
-    "DATÇA": [
+    DATÇA: [
       "CUMALI MAH",
       "DATÇA MAH",
       "EMECİK MAH",
@@ -54375,9 +54375,9 @@
       "REŞADİYE MAH",
       "SINDI MAH",
       "YAKA MAH",
-      "YAZI MAH"
+      "YAZI MAH",
     ],
-    "FETHİYE": [
+    FETHİYE: [
       "AKARCA MAH",
       "BABATAŞI MAH",
       "BOZYER MAH",
@@ -54418,9 +54418,9 @@
       "YAKACIK MAH",
       "YANIKLAR MAH",
       "YENİ MAH",
-      "YEŞİLÜZÜMLÜ MAH"
+      "YEŞİLÜZÜMLÜ MAH",
     ],
-    "KAVAKLIDERE": [
+    KAVAKLIDERE: [
       "BAKIRCILAR MAH",
       "CUMHURİYET MAH",
       "ÇAMLIBEL MAH",
@@ -54435,9 +54435,9 @@
       "ORTAKÖY MAH",
       "SALKIM MAH",
       "YENİ MAH",
-      "YEŞİLKÖY MAH"
+      "YEŞİLKÖY MAH",
     ],
-    "KÖYCEĞİZ": [
+    KÖYCEĞİZ: [
       "AKKÖPRÜ MAH",
       "BALCILAR MAH",
       "BEYOBASI MAH",
@@ -54462,9 +54462,9 @@
       "YENİ MAH",
       "YEŞİLKÖY MAH",
       "ZAFERLER MAH",
-      "ZEYTİNALANI MAH"
+      "ZEYTİNALANI MAH",
     ],
-    "MARMARİS": [
+    MARMARİS: [
       "ADAKÖY MAH",
       "ARMUTALAN MAH",
       "BAYIR MAH",
@@ -54489,9 +54489,9 @@
       "TEPE MAH",
       "TURGUT MAH",
       "TURUNÇ MAH",
-      "YEŞİLBELDE MAH"
+      "YEŞİLBELDE MAH",
     ],
-    "MENTEŞE": [
+    MENTEŞE: [
       "AKÇAOVA MAH",
       "AKKAYA MAH",
       "AKYER MAH",
@@ -54557,9 +54557,9 @@
       "YERKESİK MAH",
       "YEŞİLYURT MAH",
       "YÖRÜKOĞLU MAH",
-      "ZEYTİN MAH"
+      "ZEYTİN MAH",
     ],
-    "MİLAS": [
+    MİLAS: [
       "AĞAÇLIHÜYÜK MAH",
       "AHMETÇAVUŞ-HAYITLI MAH",
       "AKÇAKAYA MAH",
@@ -54691,9 +54691,9 @@
       "YAKA MAH",
       "YAŞYER MAH",
       "YOĞUNOLUK MAH",
-      "YUSUFCA MAH"
+      "YUSUFCA MAH",
     ],
-    "ORTACA": [
+    ORTACA: [
       "AKINCI MAH",
       "ARIKBAŞI MAH",
       "ATATÜRK MAH",
@@ -54720,9 +54720,9 @@
       "TEPEARASI MAH",
       "TERZİALİLER MAH",
       "YERBELEN MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "SEYDİKEMER": [
+    SEYDİKEMER: [
       "ALAÇAT MAH",
       "ARİFLER MAH",
       "ARSAKÖY MAH",
@@ -54787,9 +54787,9 @@
       "YAYLA GÖKBEN MAH",
       "YAYLA KARAÇULHA MAH",
       "YAYLAPATLANGIÇ MAH",
-      "ZORLAR MAH"
+      "ZORLAR MAH",
     ],
-    "ULA": [
+    ULA: [
       "AKÇAPINAR MAH",
       "AKYAKA MAH",
       "ALPARSLAN MAH",
@@ -54819,9 +54819,9 @@
       "TURGUT MAH",
       "YAYLASÖĞÜT MAH",
       "YEŞİLÇAM MAH",
-      "YEŞİLOVA MAH"
+      "YEŞİLOVA MAH",
     ],
-    "YATAĞAN": [
+    YATAĞAN: [
       "AKGEDİK MAH",
       "AKYOL MAH",
       "ALAŞAR MAH",
@@ -54871,11 +54871,11 @@
       "YEŞİLBAĞCILAR MAH",
       "YEŞİLKÖY MAH",
       "YUKARIYAYLA MAH",
-      "ZEYTİNKÖY MAH"
-    ]
+      "ZEYTİNKÖY MAH",
+    ],
   },
-  "MUŞ": {
-    "BULANIK": [
+  MUŞ: {
+    BULANIK: [
       "BAHÇELİEVLER MAH",
       "GÜLLÜOVA MAH",
       "İNÖNÜ MAH",
@@ -55005,9 +55005,9 @@
       "YEŞİL YAYLA MEZRASI MAH (ARAKONAK KÖYÜ)",
       "YILANDERE MAH (ŞATIRLAR KÖYÜ)",
       "YILDIZ MAH (KARAAĞIL KÖYÜ)",
-      "ZAFER MAH (RÜSTEMGEDİK KÖYÜ)"
+      "ZAFER MAH (RÜSTEMGEDİK KÖYÜ)",
     ],
-    "HASKÖY": [
+    HASKÖY: [
       "KÜLTÜR MAH",
       "SAYANLAR MAH",
       "SUNAY MAH",
@@ -55039,9 +55039,9 @@
       "YENİ MAH (DÜZKIŞLA KÖYÜ)",
       "YEŞİLDERE MAH (YARKAYA KÖYÜ)",
       "YUKARIÜÇDAM KÖYÜ",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "KORKUT": [
+    KORKUT: [
       "BAHÇELİEVLER MAH",
       "KÜLTÜR MAH",
       "ŞEHİTLER MAH",
@@ -55086,9 +55086,9 @@
       "YENİ MAH (ALTINOVA KÖYÜ)",
       "YOLGÖZLER KÖYÜ",
       "YÜNÖREN KÖYÜ",
-      "YÜREKLİ KÖYÜ"
+      "YÜREKLİ KÖYÜ",
     ],
-    "MALAZGİRT": [
+    MALAZGİRT: [
       "1 MAH (AĞILBAŞI KÖYÜ)",
       "2 MAH (AĞILBAŞI KÖYÜ)",
       "BADEMÖZÜ KÖYÜ",
@@ -55193,9 +55193,9 @@
       "TAŞLIÇEŞME MAH (NURETTİN KÖYÜ)",
       "YENİ MAH (KONAKKURAN KÖYÜ)",
       "YUKARIKICIK KÖYÜ",
-      "ZİYARET MAH (KONAKKURAN KÖYÜ)"
+      "ZİYARET MAH (KONAKKURAN KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "DERE MAH",
       "HÜRRİYET MAH",
       "KALE MAH",
@@ -55428,9 +55428,9 @@
       "YUKARISOĞUKSU MAH (BEŞPARMAK KÖYÜ)",
       "YUKARIYONGALI KÖYÜ",
       "YÜCETEPE KÖYÜ",
-      "ZİYARET KÖYÜ"
+      "ZİYARET KÖYÜ",
     ],
-    "VARTO": [
+    VARTO: [
       "ABBAS MAH (KARTALDERE KÖYÜ)",
       "ALABALIK KÖYÜ",
       "ALİ MAH (KÖPRÜCÜK KÖYÜ)",
@@ -55576,11 +55576,11 @@
       "HÜRRİYET MAH",
       "İNÖNÜ MAH",
       "KÜLTÜR MAH",
-      "YENİ MAH"
-    ]
+      "YENİ MAH",
+    ],
   },
-  "NEVŞEHİR": {
-    "ACIGÖL": [
+  NEVŞEHİR: {
+    ACIGÖL: [
       "BAHÇELİ MAH",
       "CUMHURİYET MAH",
       "ÇAYIRLIK MAH",
@@ -55616,9 +55616,9 @@
       "YENİ MAH (İNALLI KÖYÜ)",
       "YUKARI MAH (KURUGÖL KÖYÜ)",
       "BALLIK MAH (TATLARIN KÖYÜ)",
-      "KALE MAH (TATLARIN KÖYÜ)"
+      "KALE MAH (TATLARIN KÖYÜ)",
     ],
-    "AVANOS": [
+    AVANOS: [
       "ALAADDİN MAH",
       "BAHÇELİEVLER MAH",
       "CUMHURİYET MAH",
@@ -55674,9 +55674,9 @@
       "ORTA MAH (ÖZKONAK KÖYÜ)",
       "ORTAOKUL KÜMESİ MAH (İĞDELİKIŞLA KÖYÜ)",
       "YAVUZ SULTAN SELİM MAH (SARILAR KÖYÜ)",
-      "YENİSOY MAH (SARILAR KÖYÜ)"
+      "YENİSOY MAH (SARILAR KÖYÜ)",
     ],
-    "DERİNKUYU": [
+    DERİNKUYU: [
       "BAŞ MAH",
       "BAYRAMLI MAH",
       "CUMHURİYET MAH",
@@ -55708,9 +55708,9 @@
       "YENİCAMİ MAH (ÖZLÜCE KÖYÜ)",
       "YENİDOĞAN MAH (ÖZLÜCE KÖYÜ)",
       "YUKARI MAH (ÇAKILLI KÖYÜ)",
-      "YUKARI MAH (TİL KÖYÜ)"
+      "YUKARI MAH (TİL KÖYÜ)",
     ],
-    "GÜLŞEHİR": [
+    GÜLŞEHİR: [
       "AÇIKSARAY MAH",
       "CUMHURİYET MAH",
       "ÇALIŞANLAR MAH",
@@ -55772,9 +55772,9 @@
       "YENİ MAH (GÜMÜŞKENT KÖYÜ)",
       "YENİYAYLACIK KÖYÜ",
       "YEŞİLYURT KÖYÜ",
-      "YÜKSEKLİ KÖYÜ"
+      "YÜKSEKLİ KÖYÜ",
     ],
-    "HACIBEKTAŞ": [
+    HACIBEKTAŞ: [
       "BALA MAH",
       "SAVAT MAH",
       "ZİR MAH",
@@ -55809,9 +55809,9 @@
       "YENİ MAH (KARABURNA KÖYÜ)",
       "YENİCE KÖYÜ",
       "YENİYAPAN KÖYÜ",
-      "YURTYERİ KÖYÜ"
+      "YURTYERİ KÖYÜ",
     ],
-    "KOZAKLI": [
+    KOZAKLI: [
       "ALTUNSU MAH",
       "BAĞLICA MAH",
       "BAHÇELİEVLER MAH",
@@ -55859,9 +55859,9 @@
       "YENİ MAH (KANLICA KÖYÜ)",
       "YEŞİLOVA MAH (KANLICA KÖYÜ)",
       "YUKARI MAH (KALECİK KÖYÜ)",
-      "YUKARI MAH (KARASENİR KÖYÜ)"
+      "YUKARI MAH (KARASENİR KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "BAHÇELİEVLER MAH",
       "CAMİCEDİT MAH",
       "EMEK MAH",
@@ -55932,9 +55932,9 @@
       "YENİ MAH (SULUSARAY KÖYÜ)",
       "AŞAĞI MAH (UÇHİSAR KÖYÜ)",
       "TEKELLİ MAH (UÇHİSAR KÖYÜ)",
-      "YUKARI MAH (UÇHİSAR KÖYÜ)"
+      "YUKARI MAH (UÇHİSAR KÖYÜ)",
     ],
-    "ÜRGÜP": [
+    ÜRGÜP: [
       "AKÇAÖREN KÖYÜ",
       "AKKÖY KÖYÜ",
       "AYVALI KÖYÜ",
@@ -55976,11 +55976,11 @@
       "EVKA MAH",
       "FATİH MAH",
       "KAVAKLIÖNÜ MAH",
-      "TEMENNİ MAH"
-    ]
+      "TEMENNİ MAH",
+    ],
   },
-  "NİĞDE": {
-    "ALTUNHİSAR": [
+  NİĞDE: {
+    ALTUNHİSAR: [
       "AŞAĞI MAH",
       "İSTİKLAL MAH",
       "ORTA MAH",
@@ -56008,9 +56008,9 @@
       "ŞAFAK MAH (YAKACIK KÖYÜ)",
       "YAKACIK MAH (YAKACIK KÖYÜ)",
       "YUKARI ASMAZ MAH (YEŞİLYURT KÖYÜ)",
-      "ZAFER MAH (AKÇAÖREN KÖYÜ)"
+      "ZAFER MAH (AKÇAÖREN KÖYÜ)",
     ],
-    "BOR": [
+    BOR: [
       "ACIGÖL MAH",
       "AHMET KUDDUSİ MAH",
       "ARMUTLU MAH",
@@ -56075,9 +56075,9 @@
       "TEPEKÖY KÖYÜ",
       "TÜRKMEN YURDU MAH (ÇUKURKUYU KÖYÜ)",
       "YOL BOYU MAH (KAYNARCA KÖYÜ)",
-      "ZAFER MAH (BAHÇELİ KÖYÜ)"
+      "ZAFER MAH (BAHÇELİ KÖYÜ)",
     ],
-    "ÇAMARDI": [
+    ÇAMARDI: [
       "BEREKETLİ MAH",
       "MADEN MAH",
       "YENİ ÇARŞI MAH",
@@ -56107,9 +56107,9 @@
       "ÜÇKAPILI KÖYÜ",
       "YELATAN KÖYÜ",
       "YENİ MAH (BURÇ KÖYÜ)",
-      "YENİKÖY KÖYÜ"
+      "YENİKÖY KÖYÜ",
     ],
-    "ÇİFTLİK": [
+    ÇİFTLİK: [
       "1.Cİ KÜME MAH (ÇARDAK KÖYÜ)",
       "2.Cİ KÜME MAH (ÇARDAK KÖYÜ)",
       "3.Cİ KÜME MAH (ÇARDAK KÖYÜ)",
@@ -56148,9 +56148,9 @@
       "ASMASIZ MAH",
       "ÇARŞI MAH",
       "ÇİFTÇİ MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ALAADDİN MAH",
       "AŞAĞI KAYABAŞI MAH",
       "DERE MAH",
@@ -56275,9 +56275,9 @@
       "SIRALİ MAH",
       "SONGUR MAH",
       "ŞAHİNALİ MAH",
-      "ŞAHSÜLEYMAN MAH"
+      "ŞAHSÜLEYMAN MAH",
     ],
-    "ULUKIŞLA": [
+    ULUKIŞLA: [
       "ARDIÇLI KÖYÜ",
       "ATATÜRK MAH (DARBOĞAZ KÖYÜ)",
       "ATATÜRK MAH (YENİYILDIZ KÖYÜ)",
@@ -56375,11 +56375,11 @@
       "KADILAR MAH",
       "KEMALPAŞA MAH",
       "MEHMETPAŞA MAH",
-      "MISIRLI MAH"
-    ]
+      "MISIRLI MAH",
+    ],
   },
-  "ORDU": {
-    "AKKUŞ": [
+  ORDU: {
+    AKKUŞ: [
       "AKPINAR MAH",
       "ALAN MAH",
       "AMBARGÜRGEN MAH",
@@ -56423,9 +56423,9 @@
       "YEŞİLGÜNEYCİK MAH",
       "YEŞİLKÖY MAH",
       "YOLBAŞI MAH",
-      "YUKARIDÜĞENCİLİ MAH"
+      "YUKARIDÜĞENCİLİ MAH",
     ],
-    "ALTINORDU": [
+    ALTINORDU: [
       "AKYAZI MAH",
       "BAHÇELİEVLER MAH",
       "BUCAK MAH",
@@ -56518,9 +56518,9 @@
       "YEŞİLKÖY MAH",
       "YILDIZLI MAH",
       "YUKARITEPE MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "AYBASTI": [
+    AYBASTI: [
       "ALACALAR MAH",
       "ARMUTLU MAH",
       "BEŞTAM MAH",
@@ -56541,9 +56541,9 @@
       "SEFALIK MAH",
       "TOYGAR MAH",
       "UZUNDERE MAH",
-      "ZAFERİMİLLİ MAH"
+      "ZAFERİMİLLİ MAH",
     ],
-    "ÇAMAŞ": [
+    ÇAMAŞ: [
       "AKKÖY MAH",
       "AKPINAR MAH",
       "BUDAK MAH",
@@ -56566,9 +56566,9 @@
       "TAŞOLUK MAH",
       "TEPELİ MAH",
       "UZUNALİ MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "ÇATALPINAR": [
+    ÇATALPINAR: [
       "AKKAYA MAH",
       "DERE MAH",
       "ELMAKÖY MAH",
@@ -56591,9 +56591,9 @@
       "SAYACATÜRK MAH",
       "ŞİRİNKÖY MAH",
       "TERİMLİ MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "ÇAYBAŞI": [
+    ÇAYBAŞI: [
       "AKBABA MAH",
       "AŞIKLI ÇAKILLI MAH",
       "BORAS MAH",
@@ -56619,9 +56619,9 @@
       "NAMAZLI MAH",
       "TAŞKESİĞİ MAH",
       "TEKKE MAH",
-      "YENİCUMA MAH"
+      "YENİCUMA MAH",
     ],
-    "FATSA": [
+    FATSA: [
       "AHMETLER MAH",
       "ARPALIK MAH",
       "ASLANCAMİ MAH",
@@ -56711,9 +56711,9 @@
       "YUKARIARDIÇ MAH",
       "YUKARIBAHÇELER MAH",
       "YUKARITEPE MAH",
-      "YUSUFLU MAH"
+      "YUSUFLU MAH",
     ],
-    "GÖLKÖY": [
+    GÖLKÖY: [
       "AHMETLİ MAH",
       "AKÇALI MAH",
       "ALANYURT MAH",
@@ -56743,9 +56743,9 @@
       "PAŞAPINAR MAH",
       "SARICA MAH",
       "SÜLEYMANİYE MAH",
-      "YUVAPINAR MAH"
+      "YUVAPINAR MAH",
     ],
-    "GÜLYALI": [
+    GÜLYALI: [
       "ALİBEY MAH",
       "AMBARCILI MAH",
       "AYRILIK MAH",
@@ -56758,9 +56758,9 @@
       "TEPEALTI MAH",
       "TURNASUYU MAH",
       "ÜRÜMBEY MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "GÜRGENTEPE": [
+    GÜRGENTEPE: [
       "AĞIZLAR MAH",
       "AKMESCİT MAH",
       "AKÖREN MAH",
@@ -56783,9 +56783,9 @@
       "TEPEKÖY MAH",
       "TİKENLİCE MAH",
       "TUZLA MAH",
-      "YURTSEVEN MAH"
+      "YURTSEVEN MAH",
     ],
-    "İKİZCE": [
+    İKİZCE: [
       "AĞCAALAN MAH",
       "AŞAĞI KARLITEPE MAH",
       "AŞAĞI KAYNARTAŞ MAH",
@@ -56817,9 +56817,9 @@
       "YOĞUNOLUK MAH",
       "YUKARI KARLITEPE MAH",
       "YUKARI KAYNARTAŞ MAH",
-      "YUNUSKIRIĞI MAH"
+      "YUNUSKIRIĞI MAH",
     ],
-    "KABADÜZ": [
+    KABADÜZ: [
       "AKGÜNEY MAH",
       "BAŞKÖY MAH",
       "DERİNÇAY MAH",
@@ -56838,9 +56838,9 @@
       "YEŞİLADA MAH",
       "YEŞİLYURT MAH",
       "YOKUŞDİBİ MAH",
-      "YUKARI KİRAZDERE MAH"
+      "YUKARI KİRAZDERE MAH",
     ],
-    "KABATAŞ": [
+    KABATAŞ: [
       "ALANBAŞI MAH",
       "ALANKENT MAH",
       "ARDIÇ MAH",
@@ -56858,9 +56858,9 @@
       "MERKEZ MAH",
       "ŞİFA SUYU MAH",
       "YAKACIK MAH",
-      "YENİCELİ MAH"
+      "YENİCELİ MAH",
     ],
-    "KORGAN": [
+    KORGAN: [
       "AŞAĞIKOZPINAR MAH",
       "AŞAĞIYAYLACIK MAH",
       "BELALAN MAH",
@@ -56889,9 +56889,9 @@
       "YEŞİLDERE MAH",
       "YEŞİLYURT MAH",
       "YUKARIKOZPINAR MAH",
-      "YUKARIYAYLACIK MAH"
+      "YUKARIYAYLACIK MAH",
     ],
-    "KUMRU": [
+    KUMRU: [
       "AĞCAALANTÜRK MAH",
       "AKÇADERE MAH",
       "AVDULLU MAH",
@@ -56931,9 +56931,9 @@
       "YENİAKÇAALAN MAH",
       "YENİDİVAN MAH",
       "YENİERGEN MAH",
-      "YUKARIDAMLALI MAH"
+      "YUKARIDAMLALI MAH",
     ],
-    "MESUDİYE": [
+    MESUDİYE: [
       "ABDİLİ MAH",
       "AKKIRIK MAH",
       "AKPINAR MAH",
@@ -57003,9 +57003,9 @@
       "YEŞİLÇİT MAH",
       "YEVELİ MAH",
       "YUKARIGÖKÇE MAH",
-      "YUVALI MAH"
+      "YUVALI MAH",
     ],
-    "PERŞEMBE": [
+    PERŞEMBE: [
       "ALINCA MAH",
       "ANAÇ MAH",
       "AZİZİYE MAH",
@@ -57059,9 +57059,9 @@
       "YENİKÖY MAH",
       "YENİÖZ MAH",
       "YEŞİLKÖY MAH",
-      "YUMRUTAŞ MAH"
+      "YUMRUTAŞ MAH",
     ],
-    "ULUBEY": [
+    ULUBEY: [
       "AKOLUK MAH",
       "AKPINAR MAH",
       "AYDINLAR MAH",
@@ -57102,9 +57102,9 @@
       "YENİMAHALLE MAH",
       "YENİSAYACA MAH",
       "YOLBAŞI MAH",
-      "YUKARIKIZILEN MAH"
+      "YUKARIKIZILEN MAH",
     ],
-    "ÜNYE": [
+    ÜNYE: [
       "AĞIDERE MAH",
       "ATAKÖY MAH",
       "ATATÜRK MAH",
@@ -57189,11 +57189,11 @@
       "YEŞİLKENT MAH",
       "YİĞİTLER MAH",
       "YUNUS EMRE MAH",
-      "YÜCELER MAH"
-    ]
+      "YÜCELER MAH",
+    ],
   },
-  "OSMANİYE": {
-    "BAHÇE": [
+  OSMANİYE: {
+    BAHÇE: [
       "ASLANLI MAH",
       "BAHÇELİ EVLER MAH",
       "CUMHURİYET MAH",
@@ -57248,9 +57248,9 @@
       "YAYLALIK KÖYÜ",
       "YENİ KÜMESİ MAH (YUKARIKARDERE KÖYÜ)",
       "YUKARI KÜMESİ MAH (KIZLAÇ KÖYÜ)",
-      "YUKARIOBA MAH (SAVRANLI KÖYÜ)"
+      "YUKARIOBA MAH (SAVRANLI KÖYÜ)",
     ],
-    "DÜZİÇİ": [
+    DÜZİÇİ: [
       "BOĞAZİÇİ MAH",
       "CUMHURİYET MAH",
       "ÇİFTLİK MAH",
@@ -57377,9 +57377,9 @@
       "YEŞİL MAH (ÇERÇİOĞLU KÖYÜ)",
       "YEŞİL YURT MAH (BÖCEKLİ KÖYÜ)",
       "YEŞİLYURT KÖYÜ",
-      "YOLATI MAH (YEŞİLDERE KÖYÜ)"
+      "YOLATI MAH (YEŞİLDERE KÖYÜ)",
     ],
-    "HASANBEYLİ": [
+    HASANBEYLİ: [
       "CUMHURİYET MAH",
       "HÜRRİYET MAH",
       "MERKEZ MAH",
@@ -57391,9 +57391,9 @@
       "KANLIGEÇİT MAH (KALECİK KÖYÜ)",
       "KARAYİĞİT KÖYÜ",
       "SARAYOVA KÖYÜ",
-      "YANIKKIŞLA KÖYÜ"
+      "YANIKKIŞLA KÖYÜ",
     ],
-    "KADİRLİ": [
+    KADİRLİ: [
       "CEMALPAŞA MAH",
       "ŞEHİT HALİS ŞİŞMAN MAH",
       "ŞEHİT KANSU KÜÇÜKATEŞ MAH",
@@ -57607,9 +57607,9 @@
       "YUKARIBOZKUYU KÖYÜ",
       "ZEYNEPLİ MAH (KAYASUYU KÖYÜ)",
       "ZİNDEĞEN MAH (YOĞUNOLUK KÖYÜ)",
-      "ZİYANLI MAH (HARKAŞTIĞI KÖYÜ)"
+      "ZİYANLI MAH (HARKAŞTIĞI KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ADNAN MENDERES MAH",
       "AHMET YESEVİ MAH",
       "ALİ BEKİRLİ MAH",
@@ -57719,9 +57719,9 @@
       "YARPUZ KÖYÜ",
       "YENİKÖY KÖYÜ",
       "YEŞİLTEPE MAH (CEVDETİYE KÖYÜ)",
-      "YUKARIÇONA MAH (ÇONA KÖYÜ)"
+      "YUKARIÇONA MAH (ÇONA KÖYÜ)",
     ],
-    "SUMBAS": [
+    SUMBAS: [
       "AGEDİK MAH (YEŞİLYAYLA KÖYÜ)",
       "AKÇALIUŞAĞI MAH (AKÇATAŞ KÖYÜ)",
       "AKYAR MAH (AKDAM KÖYÜ)",
@@ -57789,9 +57789,9 @@
       "YİRCE MAH (ÇİÇEKLİDERE KÖYÜ)",
       "ZİNCARCIK MAH (ÇİÇEKLİDERE KÖYÜ)",
       "DÖĞENLİ MAH",
-      "KARAÖMERLİ MAH"
+      "KARAÖMERLİ MAH",
     ],
-    "TOPRAKKALE": [
+    TOPRAKKALE: [
       "ARSLANPINARI KÖYÜ",
       "İNCELER MAH (ARSLANPINARI KÖYÜ)",
       "LALEGÖLÜ KÖYÜ",
@@ -57807,11 +57807,11 @@
       "KIŞLA MAH",
       "KUMARLI MAH",
       "SAZLIK MAH",
-      "TEPE MAH"
-    ]
+      "TEPE MAH",
+    ],
   },
-  "RİZE": {
-    "ARDEŞEN": [
+  RİZE: {
+    ARDEŞEN: [
       "BAHAR MAH",
       "BARIŞ MAH",
       "BAŞ MAH",
@@ -57988,9 +57988,9 @@
       "YUKARKİ MAH (YENİYOL KÖYÜ)",
       "YÜKSEK MAH (AKDERE KÖYÜ)",
       "ZEYTİNLİK KÖYÜ",
-      "ZUMADİ MAH (GÜNDOĞAN KÖYÜ)"
+      "ZUMADİ MAH (GÜNDOĞAN KÖYÜ)",
     ],
-    "ÇAMLIHEMŞİN": [
+    ÇAMLIHEMŞİN: [
       "AŞAĞIÇAMLICA MAH",
       "AŞAĞIŞİMŞİRLİ MAH",
       "KADIKÖY MAH",
@@ -58075,9 +58075,9 @@
       "YEMİŞLİ MAH (YOLKIYI KÖYÜ)",
       "YILDIZ MAH (DİKKAYA KÖYÜ)",
       "YUKARIŞİMŞİRLİ KÖYÜ",
-      "ZİLKALE KÖYÜ"
+      "ZİLKALE KÖYÜ",
     ],
-    "ÇAYELİ": [
+    ÇAYELİ: [
       "ALOĞLU MAH (KARAAĞAÇ KÖYÜ)",
       "ARICILAR MAH (DERECİK KÖYÜ)",
       "AŞAĞI SIRT MAH (KARAAĞAÇ KÖYÜ)",
@@ -58388,9 +58388,9 @@
       "YEŞİLIRMAK KÖYÜ",
       "YILMAYANLAR MAH (KEMERKÖY KÖYÜ)",
       "YUKARI CORDANLAR MAH (HAREMTEPE KÖYÜ)",
-      "YÜKSELEN MAH (KAPTANPAŞA KÖYÜ)"
+      "YÜKSELEN MAH (KAPTANPAŞA KÖYÜ)",
     ],
-    "DEREPAZARI": [
+    DEREPAZARI: [
       "ÇALIŞKANLAR MAH",
       "ERİKLİMANI MAH",
       "FIÇICILAR MAH",
@@ -58408,9 +58408,9 @@
       "MALTEPE KÖYÜ",
       "SANDIKTAŞ KÖYÜ",
       "UZUNKAYA KÖYÜ",
-      "YANIKTAŞ KÖYÜ"
+      "YANIKTAŞ KÖYÜ",
     ],
-    "FINDIKLI": [
+    FINDIKLI: [
       "AKSU MAH",
       "HÜRRİYET MAH",
       "ILICA MAH",
@@ -58528,9 +58528,9 @@
       "YILDIZLAR MAH (CENNET KÖYÜ)",
       "YUKARIDERBENT MAH (DERBENT KÖYÜ)",
       "ZANNA MAH (ARILI KÖYÜ)",
-      "ZEBELİT MAH (TEPECİK KÖYÜ)"
+      "ZEBELİT MAH (TEPECİK KÖYÜ)",
     ],
-    "GÜNEYSU": [
+    GÜNEYSU: [
       "ADACAMİ MAH",
       "AŞAĞI KİREMİT MAH",
       "BAŞARAN MAH",
@@ -58588,9 +58588,9 @@
       "YILDIZ MAH (BAŞKÖY KÖYÜ)",
       "YUKARIİSLAHİYE KÖYÜ",
       "YUSUF HOCA MAH (KIBLEDAĞI KÖYÜ)",
-      "YÜKSEKKÖY KÖYÜ"
+      "YÜKSEKKÖY KÖYÜ",
     ],
-    "HEMŞİN": [
+    HEMŞİN: [
       "BAHAR MAH",
       "MUTLU MAH",
       "ORTAKÖY MAH",
@@ -58602,9 +58602,9 @@
       "KANTARLI KÖYÜ",
       "LEVENTKÖY KÖYÜ",
       "NURLUCA KÖYÜ",
-      "YALTKAYA KÖYÜ"
+      "YALTKAYA KÖYÜ",
     ],
-    "İKİZDERE": [
+    İKİZDERE: [
       "ÇAĞRANKAYA MAH",
       "ÇARŞI MAH",
       "GÜNDOĞDU MAH",
@@ -58688,9 +58688,9 @@
       "YEŞİLTEPE MAH (GÜNEYCE KÖYÜ)",
       "YUKARI MAH (GÜRDERE KÖYÜ)",
       "YUKARI MAH (ŞİMŞİRLİ KÖYÜ)",
-      "ZANETLİ MAH (ÇİÇEKLİ KÖYÜ)"
+      "ZANETLİ MAH (ÇİÇEKLİ KÖYÜ)",
     ],
-    "İYİDERE": [
+    İYİDERE: [
       "ÇANAKÇEŞME MAH",
       "FETHİYE MAH",
       "FIÇITAŞI MAH",
@@ -58706,9 +58706,9 @@
       "KALECİK KÖYÜ",
       "KÖŞKLÜ KÖYÜ",
       "TAŞHANE KÖYÜ",
-      "YAYLACILAR KÖYÜ"
+      "YAYLACILAR KÖYÜ",
     ],
-    "KALKANDERE": [
+    KALKANDERE: [
       "ADALAR MAH",
       "AKSU MAH",
       "AŞAĞI TATLISU MAH",
@@ -58766,9 +58766,9 @@
       "YOKUŞLU KÖYÜ",
       "YUKARI MAH (YEŞİLKÖY KÖYÜ)",
       "YUMURTATEPE KÖYÜ",
-      "YUSUFLAR ORTA MAH (ÜNALAN KÖYÜ)"
+      "YUSUFLAR ORTA MAH (ÜNALAN KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AKARSU KÖYÜ",
       "AKARSU MAH (AKARSU KÖYÜ)",
       "ARDINA MAH (BALIKÇILAR KÖYÜ)",
@@ -59042,9 +59042,9 @@
       "TOPHANE MAH",
       "YAĞLITAŞ MAH",
       "YENİ MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "PAZAR": [
+    PAZAR: [
       "AKBUCAK KÖYÜ",
       "AKMESCİT KÖYÜ",
       "AKTEPE KÖYÜ",
@@ -59189,11 +59189,11 @@
       "PAZAR MAH",
       "SOĞUKSU MAH",
       "YUKARI SOĞUKSU MAH",
-      "ZAFER MAH"
-    ]
+      "ZAFER MAH",
+    ],
   },
-  "SAKARYA": {
-    "ADAPAZARI": [
+  SAKARYA: {
+    ADAPAZARI: [
       "ABALI MAH",
       "ACIELMALIK MAH",
       "AKINCILAR MAH",
@@ -59277,9 +59277,9 @@
       "YEŞİLYURT MAH",
       "15 TEMMUZ CAMİLİ MAH",
       "KARAMAN MAH",
-      "KORUCUK MAH"
+      "KORUCUK MAH",
     ],
-    "AKYAZI": [
+    AKYAZI: [
       "AKBALIK MAH",
       "ALAAĞAÇ MAH",
       "ALTINDERE CUMHURİYET MAH",
@@ -59352,9 +59352,9 @@
       "YONGALIK MAH",
       "YÖRÜKYERİ MAH",
       "YUNUS EMRE MAH",
-      "YUVALAK MAH"
+      "YUVALAK MAH",
     ],
-    "ARİFİYE": [
+    ARİFİYE: [
       "ADLİYE MAH",
       "AHMEDİYE MAH",
       "ARİFBEY MAH",
@@ -59379,9 +59379,9 @@
       "SAKARYA I.ORGANİZE SANAYİ BÖLGESİ MAH",
       "SEMERCİLER MAH",
       "TÜRKÇAYBAŞI MAH",
-      "YUKARIKİRAZCA MAH"
+      "YUKARIKİRAZCA MAH",
     ],
-    "ERENLER": [
+    ERENLER: [
       "ALANCUMA MAH",
       "BAĞLAR MAH",
       "BEKİRPAŞA MAH",
@@ -59414,9 +59414,9 @@
       "TUAPSALAR MAH",
       "YAZILI MAH",
       "YENİ MAH",
-      "YEŞİLTEPE MAH"
+      "YEŞİLTEPE MAH",
     ],
-    "FERİZLİ": [
+    FERİZLİ: [
       "ABDÜRREZZAK MAH",
       "AĞACIK MAH",
       "AKÇUKUR MAH",
@@ -59441,9 +59441,9 @@
       "SİNANOĞLU MAH",
       "TEBERİK MAH",
       "TOKAT MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "GEYVE": [
+    GEYVE: [
       "AHİBABA MAH",
       "AKDOĞAN MAH",
       "AKINCI MAH",
@@ -59516,9 +59516,9 @@
       "TEPECİKLER MAH",
       "UMURBEY MAH",
       "YAYLAK MAH",
-      "YÖRÜKLER MAH"
+      "YÖRÜKLER MAH",
     ],
-    "HENDEK": [
+    HENDEK: [
       "AKARCA MAH",
       "AKÇAYIR MAH",
       "AKOVA MAH",
@@ -59610,9 +59610,9 @@
       "YEŞİLVADİ MAH",
       "YEŞİLYURT MAH",
       "YUKARIÇALICA MAH",
-      "YUKARIHÜSEYİNŞEYH MAH"
+      "YUKARIHÜSEYİNŞEYH MAH",
     ],
-    "KARAPÜRÇEK": [
+    KARAPÜRÇEK: [
       "AHMEDİYE MAH",
       "AHMETLER MAH",
       "CUMHURİYET MAH",
@@ -59626,9 +59626,9 @@
       "MESUDİYE MAH",
       "MEŞEPINARI MAH",
       "YAZILIGÜRGEN MAH",
-      "YÜKSEL MAH"
+      "YÜKSEL MAH",
     ],
-    "KARASU": [
+    KARASU: [
       "ADATEPE MAH",
       "AKKUM MAH",
       "ARDIÇBELİ MAH",
@@ -59669,9 +59669,9 @@
       "YENİ MAH",
       "YENİDOĞAN MAH",
       "YEŞİLKÖY MAH",
-      "YUVALIDERE MAH"
+      "YUVALIDERE MAH",
     ],
-    "KAYNARCA": [
+    KAYNARCA: [
       "AKBAŞLI MAH",
       "ARİFAĞA MAH",
       "BAŞOĞLU MAH",
@@ -59716,9 +59716,9 @@
       "UZUNALAN MAH",
       "YENİÇAM MAH",
       "YEŞİLOVA MAH",
-      "ZİAHMET MAH"
+      "ZİAHMET MAH",
     ],
-    "KOCAALİ": [
+    KOCAALİ: [
       "AÇMABAŞI MAH",
       "AĞALAR MAH",
       "AKPINAR MAH",
@@ -59754,9 +59754,9 @@
       "YALPANKAYA MAH",
       "YANIKSAYVANT MAH",
       "YAYLA MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "PAMUKOVA": [
+    PAMUKOVA: [
       "AĞAÇÇILAR MAH",
       "AHILAR MAH",
       "AKÇAKAYA MAH",
@@ -59789,9 +59789,9 @@
       "ŞEYHVARMAZ MAH",
       "TEŞVİKİYE MAH",
       "TURGUTLU MAH",
-      "YENİCE MAH"
+      "YENİCE MAH",
     ],
-    "SAPANCA": [
+    SAPANCA: [
       "AKÇAY MAH",
       "BALKAYA MAH",
       "CAMİCEDİT MAH",
@@ -59820,9 +59820,9 @@
       "UZUNKUM MAH",
       "ÜNLÜCE MAH",
       "YANIK MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "SERDİVAN": [
+    SERDİVAN: [
       "ARABACIALANI MAH",
       "ARALIK MAH",
       "AŞAĞIDEREKÖY MAH",
@@ -59846,9 +59846,9 @@
       "YUKARIDEREKÖY MAH",
       "KÖPRÜBAŞI MAH",
       "ORTA MAH",
-      "VATAN MAH"
+      "VATAN MAH",
     ],
-    "SÖĞÜTLÜ": [
+    SÖĞÜTLÜ: [
       "AKARCA MAH",
       "AKÇAKAMIŞ MAH",
       "AKGÖL MAH",
@@ -59872,9 +59872,9 @@
       "SOĞUCAKOSB MAH",
       "TOKMAKLIDERE MAH",
       "TÜRKBEYLİKKIŞLA MAH",
-      "YENİKÖY MAH"
+      "YENİKÖY MAH",
     ],
-    "TARAKLI": [
+    TARAKLI: [
       "AKÇAPINAR MAH",
       "AKSU MAH",
       "ALBALLAR MAH",
@@ -59896,10 +59896,10 @@
       "ULUCAMİİ MAH",
       "YENİDOĞAN MAH",
       "YENİKÖY MAH",
-      "YUSUFBEY MAH"
-    ]
+      "YUSUFBEY MAH",
+    ],
   },
-  "SAMSUN": {
+  SAMSUN: {
     "19 MAYIS": [
       "AYDINPINAR MAH",
       "BAHÇELİEVLER MAH",
@@ -59938,9 +59938,9 @@
       "YEŞİLYURT MAH",
       "YÖRÜKLER MAH",
       "YUKARIENGİZ MAH",
-      "YÜKSELİŞ MAH"
+      "YÜKSELİŞ MAH",
     ],
-    "ALAÇAM": [
+    ALAÇAM: [
       "AKBULUT MAH",
       "AKGÜNEY MAH",
       "ALİDEDEBÖLMESİ MAH",
@@ -60005,9 +60005,9 @@
       "YUKARIISIRGANLI MAH",
       "YUKARIKOÇLU MAH",
       "YUKARISOĞUKÇAM MAH",
-      "ZEYTİN MAH"
+      "ZEYTİN MAH",
     ],
-    "ASARCIK": [
+    ASARCIK: [
       "ACISU MAH",
       "AKYAZI MAH",
       "ALAN MAH",
@@ -60039,9 +60039,9 @@
       "YAYLAKÖY MAH",
       "YENİÖMERLİ MAH",
       "YEŞİLDERE MAH",
-      "YEŞİLKÖY MAH"
+      "YEŞİLKÖY MAH",
     ],
-    "ATAKUM": [
+    ATAKUM: [
       "AKALAN MAH",
       "AKSU MAH",
       "ALANLI MAH",
@@ -60097,9 +60097,9 @@
       "KÖRFEZ MAH",
       "YALI MAH",
       "YENİMAHALLE MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "AYVACIK": [
+    AYVACIK: [
       "ARDIÇ MAH",
       "BAŞALAN MAH",
       "ÇAMALAN MAH",
@@ -60142,9 +60142,9 @@
       "YEŞİLDERE MAH",
       "YEŞİLPINAR MAH",
       "YUNUS EMRE MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "BAFRA": [
+    BAFRA: [
       "ADAKÖY MAH",
       "AĞCAALAN MAH",
       "AĞILLAR MAH",
@@ -60283,9 +60283,9 @@
       "YEŞİLKÖY MAH",
       "YEŞİLYAZI MAH",
       "YİĞİTALAN MAH",
-      "YÖRGÜÇ MAH"
+      "YÖRGÜÇ MAH",
     ],
-    "CANİK": [
+    CANİK: [
       "ADATEPE MAH",
       "ALİBEYLİ MAH",
       "AMBARPINAR MAH",
@@ -60338,9 +60338,9 @@
       "YAYLA MAH",
       "YENİKÖY MAH",
       "YENİMAHALLE MAH",
-      "YEŞİLPINAR MAH"
+      "YEŞİLPINAR MAH",
     ],
-    "ÇARŞAMBA": [
+    ÇARŞAMBA: [
       "ACIKLI MAH",
       "AĞCAGÜNEY MAH",
       "AHUBABA MAH",
@@ -60483,9 +60483,9 @@
       "YUKARI ESENLİ MAH",
       "YUKARI KARABAHÇE MAH",
       "YUKARI KAVACIK MAH",
-      "ZÜMRÜT MAH"
+      "ZÜMRÜT MAH",
     ],
-    "HAVZA": [
+    HAVZA: [
       "19 MAYIS MAH",
       "25 MAYIS MAH",
       "AĞCAMAHMUT MAH",
@@ -60583,9 +60583,9 @@
       "YENİMESCİT MAH",
       "YEŞİLALAN MAH",
       "YUKARISUSUZ MAH",
-      "YUKARIYAVUCAK MAH"
+      "YUKARIYAVUCAK MAH",
     ],
-    "İLKADIM": [
+    İLKADIM: [
       "BAHÇELİEVLER MAH",
       "YENİDOĞAN MAH",
       "ADALET MAH",
@@ -60647,9 +60647,9 @@
       "KIRAN MAH",
       "KUSÇULU MAH",
       "TEPECİK MAH",
-      "UZGUR MAH"
+      "UZGUR MAH",
     ],
-    "KAVAK": [
+    KAVAK: [
       "19 MAYIS MAH",
       "AĞCAKİSE MAH",
       "AHURLU MAH",
@@ -60741,9 +60741,9 @@
       "YERALAN MAH",
       "YOSUNLU MAH",
       "YUKARI DEREKÖY MAH",
-      "YUKARIÇİRİŞLİ MAH"
+      "YUKARIÇİRİŞLİ MAH",
     ],
-    "LADİK": [
+    LADİK: [
       "AĞCAKAYA MAH",
       "AHMETSARAY MAH",
       "AKPINAR MAH",
@@ -60810,9 +60810,9 @@
       "YENİCAMİ MAH",
       "YUKARIGÖLYAZI MAH",
       "YUMAKLI MAH",
-      "YUVACIK MAH"
+      "YUVACIK MAH",
     ],
-    "SALIPAZARI": [
+    SALIPAZARI: [
       "ALAN MAH",
       "ALANYAYKIN MAH",
       "ALBAK MAH",
@@ -60856,9 +60856,9 @@
       "YENİ MAH",
       "YENİDOĞAN MAH",
       "YEŞİL MAH",
-      "YUKARIKESTANEPINAR MAH"
+      "YUKARIKESTANEPINAR MAH",
     ],
-    "TEKKEKÖY": [
+    TEKKEKÖY: [
       "YAVUZLAR MAH",
       "CUMHURİYET MAH",
       "İSTİKLAL MAH",
@@ -60924,9 +60924,9 @@
       "YEŞİLDERE MAH",
       "YEŞİLYURT MAH",
       "YUKARIÇİNİK MAH",
-      "ZAFER MAH"
+      "ZAFER MAH",
     ],
-    "TERME": [
+    TERME: [
       "AHMETBEY MAH",
       "AKBUCAK MAH",
       "AKÇAGÜN MAH",
@@ -61008,9 +61008,9 @@
       "YUKARISÖĞÜTLÜ MAH",
       "YUKARITAŞPINAR MAH",
       "YUNUS EMRE MAH",
-      "YÜKSEKYAYLA MAH"
+      "YÜKSEKYAYLA MAH",
     ],
-    "VEZİRKÖPRÜ": [
+    VEZİRKÖPRÜ: [
       "ÖZGÜNEY MAH",
       "SARAYLI MAH",
       "ABDULGANİ MAH",
@@ -61171,9 +61171,9 @@
       "YOLPINAR MAH",
       "YUKARINARLI MAH",
       "YURTDAĞI MAH",
-      "YÜRÜKÇAL MAH"
+      "YÜRÜKÇAL MAH",
     ],
-    "YAKAKENT": [
+    YAKAKENT: [
       "ASMAPINAR MAH",
       "BÜYÜKKIRIK MAH",
       "ÇAMALAN MAH",
@@ -61190,11 +61190,11 @@
       "MUTAFLI MAH",
       "SARIGÖL MAH",
       "YASSIDAĞ MAH",
-      "YEŞİLKÖY MAH"
-    ]
+      "YEŞİLKÖY MAH",
+    ],
   },
-  "SİİRT": {
-    "BAYKAN": [
+  SİİRT: {
+    BAYKAN: [
       "CEFAN MAH",
       "HAVEL MAH",
       "İNÖNÜ MAH",
@@ -61257,9 +61257,9 @@
       "ŞEYHOSMAN MAH (VEYSELKARANİ KÖYÜ)",
       "TÜTENOCAK KÖYÜ",
       "ÜNLÜCE KÖYÜ",
-      "YARIMCA KÖYÜ"
+      "YARIMCA KÖYÜ",
     ],
-    "ERUH": [
+    ERUH: [
       "AYDOĞMUŞ MAH (GÖNÜLALDI KÖYÜ)",
       "BAĞGÖZE KÖYÜ",
       "BALLIKAVAK KÖYÜ",
@@ -61331,9 +61331,9 @@
       "YANIKSES KÖYÜ",
       "YANILMAZ KÖYÜ",
       "YEDİYAPRAK KÖYÜ",
-      "YEŞİLÖREN KÖYÜ"
+      "YEŞİLÖREN KÖYÜ",
     ],
-    "KURTALAN": [
+    KURTALAN: [
       "BAHÇELİEVLER MAH",
       "CUMHURİYET MAH",
       "DİCLE MAH",
@@ -61448,9 +61448,9 @@
       "YUVALI MAH (BALLIKAYA KÖYÜ)",
       "YUVALI MAH (GÖKDOĞAN KÖYÜ)",
       "YUVALIK MAH (ULUKÖY KÖYÜ)",
-      "YÜREKVEREN KÖYÜ"
+      "YÜREKVEREN KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AKARSU MAH (DEMİRKAYA KÖYÜ)",
       "AKDOĞMUŞ KÖYÜ",
       "AKINCILAR MAH (PINARCA KÖYÜ)",
@@ -61531,9 +61531,9 @@
       "ULUS MAH",
       "ÜLKÜ MAH",
       "VEYSEL KARANİ MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "PERVARİ": [
+    PERVARİ: [
       "AŞAĞIAYVALIBAĞ MAH (AYVALIBAĞ KÖYÜ)",
       "AŞAĞIBALCILAR KÖYÜ",
       "AYVALIBAĞ KÖYÜ",
@@ -61599,9 +61599,9 @@
       "YUKARIBALCILAR KÖYÜ",
       "YUKARIEKİNDÜZÜ MAH (EKİNDÜZÜ KÖYÜ)",
       "AYDIN MAH",
-      "ŞAKİRAN MAH"
+      "ŞAKİRAN MAH",
     ],
-    "ŞİRVAN": [
+    ŞİRVAN: [
       "AKTAŞ MAH (YAMAÇLI KÖYÜ)",
       "AYN KEBİR MAH (KESMETAŞ KÖYÜ)",
       "BİNDAL MAH (KESMETAŞ KÖYÜ)",
@@ -61708,9 +61708,9 @@
       "FATİH MAH",
       "KIRTEPE MAH",
       "KÜFRE MAH",
-      "SİT MAH"
+      "SİT MAH",
     ],
-    "TİLLO": [
+    TİLLO: [
       "FAKİRULLAH MAH",
       "MÜCAHİT MAH",
       "SAYDANLAR MAH",
@@ -61723,11 +61723,11 @@
       "KARGACIK MAH (AKYAYLA KÖYÜ)",
       "KURŞUN MAH (HATRANT KÖYÜ)",
       "SİNEP KÖYÜ",
-      "TAŞBALTA KÖYÜ"
-    ]
+      "TAŞBALTA KÖYÜ",
+    ],
   },
-  "SİNOP": {
-    "AYANCIK": [
+  SİNOP: {
+    AYANCIK: [
       "BEŞİKTAŞ MAH",
       "CEVİZLİ MAH",
       "ÇAYİÇİ MAH",
@@ -62036,9 +62036,9 @@
       "YUKARI MAH (SULUSÖKÜ KÖYÜ)",
       "YUKARIKÖY MAH (KALDIRAYAK KÖYÜ)",
       "YUNUS MAH (ABDÜLKADİRKÖY KÖYÜ)",
-      "ZİNDAN MAH (DAVUTLU KÖYÜ)"
+      "ZİNDAN MAH (DAVUTLU KÖYÜ)",
     ],
-    "BOYABAT": [
+    BOYABAT: [
       "CAMİİKEBİR MAH",
       "ÇAMLICA MAH",
       "ESENTEPE MAH",
@@ -62369,9 +62369,9 @@
       "YURT MAH (AKÇAKESE KÖYÜ)",
       "YUSUFLU MAH (ÇULHALI KÖYÜ)",
       "YÜRÜKDERESİ MAH (KOÇAK KÖYÜ)",
-      "ZİNCİRLİKUYU MAH (KOZKULE KÖYÜ)"
+      "ZİNCİRLİKUYU MAH (KOZKULE KÖYÜ)",
     ],
-    "DİKMEN": [
+    DİKMEN: [
       "BABALIOĞLU MAH",
       "ÇORAK MAH",
       "KIRÇAL MAH",
@@ -62530,9 +62530,9 @@
       "YAYLA MAH (YAKUPLU KÖYÜ)",
       "YORTAN MAH (ŞEYHHÜSEYİN KÖYÜ)",
       "YUKARIMAH. (KUZALAN KÖYÜ)",
-      "YUMMAT MAH (KADIKÖY KÖYÜ)"
+      "YUMMAT MAH (KADIKÖY KÖYÜ)",
     ],
-    "DURAĞAN": [
+    DURAĞAN: [
       "ALTINKAYA MAH",
       "BUZLUK MAH",
       "GÖKIRMAK MAH",
@@ -62704,9 +62704,9 @@
       "YUKARI MAH (GÖKDOĞAN KÖYÜ)",
       "YUKARIAKÇABÜK MAH (AKÇABÜK KÖYÜ)",
       "YÜREK MAH (ÇÖVE KÖYÜ)",
-      "ZIPIROĞLU MAH (YUKARIKARACAÖREN KÖYÜ)"
+      "ZIPIROĞLU MAH (YUKARIKARACAÖREN KÖYÜ)",
     ],
-    "ERFELEK": [
+    ERFELEK: [
       "KINIK MAH",
       "MERKEZ MAH",
       "SALAVAT MAH",
@@ -62960,9 +62960,9 @@
       "YUKARI GİDİK MAH (KURCALI KÖYÜ)",
       "YUKARI MAH (SARIBOĞA KÖYÜ)",
       "YUKARI SALUR MAH (KİRAZLIK KÖYÜ)",
-      "YUKARI TEKKE MAH (KIZILCAOT KÖYÜ)"
+      "YUKARI TEKKE MAH (KIZILCAOT KÖYÜ)",
     ],
-    "GERZE": [
+    GERZE: [
       "19 MAYIS MAH",
       "ATATÜRK MAH",
       "CUMHURİYET MAH",
@@ -63245,9 +63245,9 @@
       "YUKARI YAMACIK MAH (YAMACIK KÖYÜ)",
       "YUSUFOĞLU MAH (HİZARÇAYI KÖYÜ)",
       "YUSUFOĞLU MAH (KARLI KÖYÜ)",
-      "YUSUFOĞLU MAH (YAKADİBİ KÖYÜ)"
+      "YUSUFOĞLU MAH (YAKADİBİ KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ABAZALAR MAH (ERİKLİ KÖYÜ)",
       "AFET EVLERİ KONUTLARI MAH (YALI KÖYÜ)",
       "AGCELLİ MAH (ÇİFTLİK KÖYÜ)",
@@ -63493,9 +63493,9 @@
       "ORDU MAH",
       "OSMANİYE MAH",
       "YENİ MAH",
-      "ZEYTİNLİK MAH"
+      "ZEYTİNLİK MAH",
     ],
-    "SARAYDÜZÜ": [
+    SARAYDÜZÜ: [
       "AKBELEN KÖYÜ",
       "ALUÇ MAH (AVLUCA KÖYÜ)",
       "ASARCIKCAMİLİ KÖYÜ",
@@ -63558,9 +63558,9 @@
       "YUKARI MAH (BAHŞAŞLI KÖYÜ)",
       "YUKARIARIM KÖYÜ",
       "ZEYVE MAH (BAHŞAŞLI KÖYÜ)",
-      "MERKEZ MAH"
+      "MERKEZ MAH",
     ],
-    "TÜRKELİ": [
+    TÜRKELİ: [
       "ABAZA MAH (DİREKLİ KÖYÜ)",
       "ACA MAH (DÜZ KÖYÜ)",
       "AĞA MAH (AYAZ KÖYÜ)",
@@ -63740,11 +63740,11 @@
       "YUKARI USVA MAH (SATI KÖYÜ)",
       "GEMİYANI MAH",
       "GÜZELYURT MAH",
-      "TÜMERKAN MAH"
-    ]
+      "TÜMERKAN MAH",
+    ],
   },
-  "SİVAS": {
-    "AKINCILAR": [
+  SİVAS: {
+    AKINCILAR: [
       "ALTINTEPE MAH",
       "CUMHURİYET MAH",
       "GÖNEN MAH",
@@ -63785,9 +63785,9 @@
       "YAĞLIÇAYIR KÖYÜ",
       "YUKARISARICA KÖYÜ",
       "YUSUFŞEYH KÖYÜ",
-      "YÜNLÜCE KÖYÜ"
+      "YÜNLÜCE KÖYÜ",
     ],
-    "ALTINYAYLA": [
+    ALTINYAYLA: [
       "AYDIN MAH",
       "KALE MAH",
       "RIFAT ÖÇTEN MAH",
@@ -63809,9 +63809,9 @@
       "TAHYURT KÖYÜ",
       "TAŞLIHÜYÜK KÖYÜ",
       "YASSIPINAR MAH (DELİİLYAS KÖYÜ)",
-      "YEŞİLYURT MAH (DELİİLYAS KÖYÜ)"
+      "YEŞİLYURT MAH (DELİİLYAS KÖYÜ)",
     ],
-    "DİVRİĞİ": [
+    DİVRİĞİ: [
       "ABUÇİMEN MAH",
       "AHMETPAŞA MAH",
       "ARHUSU MAH",
@@ -64016,9 +64016,9 @@
       "YUVA KÖYÜ",
       "YUVA MAH (MURSAL KÖYÜ)",
       "YÜNLÜCE MAH (KIZILCAÖREN KÖYÜ)",
-      "ZEYNİKLER MAH (ÇOBANDURAĞI KÖYÜ)"
+      "ZEYNİKLER MAH (ÇOBANDURAĞI KÖYÜ)",
     ],
-    "DOĞANŞAR": [
+    DOĞANŞAR: [
       "CAMİKEBİR MAH",
       "CİNCİ MAH",
       "ÇAY MAH",
@@ -64063,9 +64063,9 @@
       "TAVZA KÖYÜ",
       "ÜTÜK KÖYÜ",
       "YAVŞANCIK KÖYÜ",
-      "YEŞİLÇUKUR KÖYÜ"
+      "YEŞİLÇUKUR KÖYÜ",
     ],
-    "GEMEREK": [
+    GEMEREK: [
       "ALAYBEY MAH (ÇEPNİ KÖYÜ)",
       "Ş.BİNBAŞI MEHMET ARAS MAH (ÇEPNİ KÖYÜ)",
       "UĞUR MUMCU MAH (ÇEPNİ KÖYÜ)",
@@ -64138,9 +64138,9 @@
       "KARACALAR MAH",
       "MUHSİN YAZICIOĞLU MAH",
       "YENİDOĞAN MAH",
-      "YENİHAYAT MAH"
+      "YENİHAYAT MAH",
     ],
-    "GÖLOVA": [
+    GÖLOVA: [
       "A.CAMİİ MAH",
       "ALSANCAK MAH",
       "ÇALKAYA MAH",
@@ -64182,9 +64182,9 @@
       "YAYLAÇAYI KÖYÜ",
       "YUKARI DİK MAH (DİKKÖY KÖYÜ)",
       "YUKARITEPECİK KÖYÜ",
-      "YUVACIK KÖYÜ"
+      "YUVACIK KÖYÜ",
     ],
-    "GÜRÜN": [
+    GÜRÜN: [
       "AKSU MAH",
       "BOĞAZİÇİ MAH",
       "BURÇEVİ MAH",
@@ -64315,9 +64315,9 @@
       "YILANHÜYÜK KÖYÜ",
       "YOLGEÇEN KÖYÜ",
       "YUKARI ÇAKKARA MEZRASI MAH (KARADORUK KÖYÜ)",
-      "YUVA KÖYÜ"
+      "YUVA KÖYÜ",
     ],
-    "HAFİK": [
+    HAFİK: [
       "ÇAY MAH",
       "FATİH MAH",
       "GÜNYAMAÇ MAH",
@@ -64434,9 +64434,9 @@
       "YENİ GÜNYAMAÇ MAH (GÜNYAMAÇ KÖYÜ)",
       "YENİKÖY KÖYÜ",
       "YUKARIOBA MAH (BEYKONAĞI KÖYÜ)",
-      "YUVA MAH (KARLI KÖYÜ)"
+      "YUVA MAH (KARLI KÖYÜ)",
     ],
-    "İMRANLI": [
+    İMRANLI: [
       "ÇARŞIBAŞI MAH",
       "DURCAN MAH",
       "KARATEKİN MAH",
@@ -64587,9 +64587,9 @@
       "YUKARIBOĞAZ KÖYÜ",
       "YUKARICULHA KÖYÜ",
       "YÜNÖREN KÖYÜ",
-      "YÜREKTAŞI KÖYÜ"
+      "YÜREKTAŞI KÖYÜ",
     ],
-    "KANGAL": [
+    KANGAL: [
       "GÖZE MAH",
       "GÜRSEL MAH",
       "HÜRRİYET MAH",
@@ -64761,9 +64761,9 @@
       "YUKARIHÜYÜK KÖYÜ",
       "ZAAL MAH (EYMİR KÖYÜ)",
       "ZAFER MAH (HAVUZ KÖYÜ)",
-      "ZERK KÖYÜ"
+      "ZERK KÖYÜ",
     ],
-    "KOYULHİSAR": [
+    KOYULHİSAR: [
       "AŞAĞIKALE MAH",
       "CAMİİKEBİR MAH",
       "ORTA MAH",
@@ -64967,9 +64967,9 @@
       "YOLÜSTÜ KÖYÜ",
       "YUKARI AĞILLAR MAH (AKSEKİ KÖYÜ)",
       "YUKARI MAH (AKSEKİ KÖYÜ)",
-      "YUKARI MAH (KALEBAŞI KÖYÜ)"
+      "YUKARI MAH (KALEBAŞI KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ABDULVAHABİGAZİ MAH",
       "ALİBABA MAH",
       "BAHTİYARBOSTAN MAH",
@@ -65240,9 +65240,9 @@
       "ŞEYH ŞAMİL MAH",
       "ŞEYH ŞAMİL OSB MAH",
       "YENİŞEHİR MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "SUŞEHRİ": [
+    SUŞEHRİ: [
       "ABBAS MAH (TÜRKMENLER KÖYÜ)",
       "ABDİLER MAH (KEKEÇ KÖYÜ)",
       "AĞIL MAH (TAKLAK KÖYÜ)",
@@ -65365,9 +65365,9 @@
       "TAŞKÖPRÜ MAH",
       "TEPEARDI MAH",
       "YALNIZBAĞLAR MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "ŞARKIŞLA": [
+    ŞARKIŞLA: [
       "ABDALLI KÖYÜ",
       "ADAMKAYA MAH (BAHÇEALAN KÖYÜ)",
       "AHMETLİ KÖYÜ",
@@ -65499,9 +65499,9 @@
       "SAĞIROSB MAH",
       "YENİ MAH",
       "YILDIRIM MAH",
-      "YUKARI MAH"
+      "YUKARI MAH",
     ],
-    "ULAŞ": [
+    ULAŞ: [
       "ACIYURT KÖYÜ",
       "AĞIL MAH (KARAŞAR KÖYÜ)",
       "AKKAYA KÖYÜ",
@@ -65566,9 +65566,9 @@
       "ESENTEPE MAH",
       "HÜRRİYET MAH",
       "YENİKARAHİSAR MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "YILDIZELİ": [
+    YILDIZELİ: [
       "AKÇAKALE KÖYÜ",
       "AKÇALI KÖYÜ",
       "AKKOCA KÖYÜ",
@@ -65714,9 +65714,9 @@
       "REŞADİYE MAH",
       "SALİHİYE MAH",
       "SELAMET MAH",
-      "YENİ MAH (YAVU KÖYÜ)"
+      "YENİ MAH (YAVU KÖYÜ)",
     ],
-    "ZARA": [
+    ZARA: [
       "ADAMFAKI KÖYÜ",
       "AĞILÖNÜ MAH (KORKUT KÖYÜ)",
       "AĞKAYA MAH (YAPAK KÖYÜ)",
@@ -66105,11 +66105,11 @@
       "REŞİTPAŞA MAH",
       "ŞEHİTLER MAH",
       "ŞEYHMERZUBAN MAH",
-      "YENİCAMİİ MAH"
-    ]
+      "YENİCAMİİ MAH",
+    ],
   },
-  "ŞANLIURFA": {
-    "AKÇAKALE": [
+  ŞANLIURFA: {
+    AKÇAKALE: [
       "ACIKUYU MAH",
       "ADNAN MENDERES MAH",
       "AKBİLEK MAH",
@@ -66228,9 +66228,9 @@
       "YUKARIDEREN MAH",
       "YUSUFBEY MAH",
       "ZENGİNOVA MAH",
-      "ZORLU MAH"
+      "ZORLU MAH",
     ],
-    "BİRECİK": [
+    BİRECİK: [
       "ABDALLI MAH",
       "AKARÇAY MAH",
       "AKPINAR MAH",
@@ -66313,9 +66313,9 @@
       "YUKARIİNCİRLİ MAH",
       "YUKARIYENİÇAĞ MAH",
       "YUVACIK MAH",
-      "ZİYARET MAH"
+      "ZİYARET MAH",
     ],
-    "BOZOVA": [
+    BOZOVA: [
       "ÇATAK MAH",
       "GÖLBAŞI MAH",
       "KEVİK MAH",
@@ -66403,9 +66403,9 @@
       "YAVUZ SELİM MAH",
       "YAYLAK MAH",
       "YEŞİL OVA MAH",
-      "ZİVANLI MAH"
+      "ZİVANLI MAH",
     ],
-    "CEYLANPINAR": [
+    CEYLANPINAR: [
       "15 TEMMUZ MAH",
       "ADNAN MENDERES MAH",
       "AKBULUT MAH",
@@ -66455,9 +66455,9 @@
       "YUKARIESENCE MAH",
       "YUKARIKARATAŞ MAH",
       "YUKARITAŞLIDERE MAH",
-      "YÜKSEKTEPE MAH"
+      "YÜKSEKTEPE MAH",
     ],
-    "EYYÜBİYE": [
+    EYYÜBİYE: [
       "15 TEMMUZ MAH",
       "BEYKAPUSU MAH",
       "BIÇAKÇI MAH",
@@ -66619,9 +66619,9 @@
       "YUKARIKOÇLU MAH",
       "YUKARIYAZICI MAH",
       "YUSUF MAH",
-      "ZEYNEPKÖY MAH"
+      "ZEYNEPKÖY MAH",
     ],
-    "HALFETİ": [
+    HALFETİ: [
       "ALTINOVA MAH",
       "ARGAÇ MAH",
       "ARGIL MAH",
@@ -66670,9 +66670,9 @@
       "TAVŞANÖREN MAH",
       "YENİ MAH",
       "YEŞİLÖZEN MAH",
-      "YUKARIGÖKLÜ MAH"
+      "YUKARIGÖKLÜ MAH",
     ],
-    "HALİLİYE": [
+    HALİLİYE: [
       "ACARYURT MAH",
       "AÇIKYAZI MAH",
       "AHMET YESEVİ MAH",
@@ -66842,9 +66842,9 @@
       "ULUBATLI MAH",
       "VEYSEL KARANİ MAH",
       "YENİŞEHİR MAH",
-      "YEŞİLDİREK MAH"
+      "YEŞİLDİREK MAH",
     ],
-    "HARRAN": [
+    HARRAN: [
       "15 TEMMUZ MAH",
       "AĞCIL MAH",
       "AHMETKARA MAH",
@@ -66968,9 +66968,9 @@
       "YOLGİDER MAH",
       "YUKARIYAKINYOL MAH",
       "YUKARIYARIMCA MAH",
-      "ZEYTİNDALI MAH"
+      "ZEYTİNDALI MAH",
     ],
-    "HİLVAN": [
+    HİLVAN: [
       "AĞILMUS MAH",
       "AĞVEREN MAH",
       "AKÇAKEBİR MAH",
@@ -67040,9 +67040,9 @@
       "YAKINYURT MAH",
       "YENİ MAH",
       "YEŞERDİ MAH",
-      "YUVACALI MAH"
+      "YUVACALI MAH",
     ],
-    "KARAKÖPRÜ": [
+    KARAKÖPRÜ: [
       "AĞILCIK MAH",
       "AĞIZHAN MAH",
       "AKBAYIR MAH",
@@ -67142,9 +67142,9 @@
       "YIĞINAK MAH",
       "YOĞUNBURÇ MAH",
       "YUKARIKOŞMA MAH",
-      "YUSUFKUYU MAH"
+      "YUSUFKUYU MAH",
     ],
-    "SİVEREK": [
+    SİVEREK: [
       "ABDALAĞA MAH",
       "ALAGÜN MAH",
       "ALANYURT MAH",
@@ -67324,9 +67324,9 @@
       "YUMRUTEPE MAH",
       "YUVAR MAH",
       "YÜCELEN MAH",
-      "ZİNCİRLİÇAY MAH"
+      "ZİNCİRLİÇAY MAH",
     ],
-    "SURUÇ": [
+    SURUÇ: [
       "AĞIRTAŞ MAH",
       "AKÖREN MAH",
       "ALANYURT MAH",
@@ -67421,9 +67421,9 @@
       "YUKARIBOSTANCI MAH",
       "YUMURTALIK MAH",
       "YURTÇİÇEĞİ MAH",
-      "ZEYREK MAH"
+      "ZEYREK MAH",
     ],
-    "VİRANŞEHİR": [
+    VİRANŞEHİR: [
       "ABALAR MAH",
       "ADAKÖY MAH",
       "AKÇATAŞ MAH",
@@ -67570,11 +67570,11 @@
       "YUKARIBAĞ MAH",
       "YUKARIDİLİMLİ MAH",
       "YUKARIŞÖLENLİ MAH",
-      "YÜCELER MAH"
-    ]
+      "YÜCELER MAH",
+    ],
   },
-  "ŞIRNAK": {
-    "BEYTÜŞŞEBAP": [
+  ŞIRNAK: {
+    BEYTÜŞŞEBAP: [
       "ALİÇAVUŞ MAH",
       "ELKİ MAH",
       "KARŞIYAKA MAH",
@@ -67606,9 +67606,9 @@
       "TAŞKIRAN MAH (MEZRA KÖYÜ)",
       "TİMUR MAH (MEZRA KÖYÜ)",
       "TOPTEPE MAH (TOPTEPE KÖYÜ)",
-      "YEŞİLÖZ KÖYÜ"
+      "YEŞİLÖZ KÖYÜ",
     ],
-    "CİZRE": [
+    CİZRE: [
       "ALİ BEY MAH",
       "CİZRE OSB MAH",
       "CUDİ MAH",
@@ -67665,9 +67665,9 @@
       "YEŞİLYURT KÖYÜ",
       "YUKARIÇEŞME MEZRASI MAH (YEŞİLYURT KÖYÜ)",
       "YUKARIKONAK MAH (BOZALAN KÖYÜ)",
-      "ZURAN MAH (DİRSEKLİ KÖYÜ)"
+      "ZURAN MAH (DİRSEKLİ KÖYÜ)",
     ],
-    "GÜÇLÜKONAK": [
+    GÜÇLÜKONAK: [
       "BAĞLAR MAH",
       "YENİ MAH",
       "AĞAÇYURDU KÖYÜ",
@@ -67696,9 +67696,9 @@
       "YAĞIZOYMAK KÖYÜ",
       "YAĞMURKUYUSU KÖYÜ",
       "YATAĞANKAYA KÖYÜ",
-      "YENİMAH. (DAĞYELİ KÖYÜ)"
+      "YENİMAH. (DAĞYELİ KÖYÜ)",
     ],
-    "İDİL": [
+    İDİL: [
       "AŞAĞI MAH",
       "ATAKENT MAH",
       "TURGUT ÖZAL MAH",
@@ -67791,9 +67791,9 @@
       "YUKARI YAVŞAN MAH (YAVŞAN KÖYÜ)",
       "YUVALI KÖYÜ",
       "YÜKSEKKÖY KÖYÜ",
-      "ZİRİNCAN MAH (KURTULUŞ KÖYÜ)"
+      "ZİRİNCAN MAH (KURTULUŞ KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AKÇAY KÖYÜ",
       "ARAKÖY KÖYÜ",
       "AŞAĞI MAH (KUMÇATI KÖYÜ)",
@@ -67841,9 +67841,9 @@
       "ŞEHRİNUH MAH",
       "VAKIFKENT MAH",
       "YENİ MAH",
-      "YEŞİLYURT MAH"
+      "YEŞİLYURT MAH",
     ],
-    "SİLOPİ": [
+    SİLOPİ: [
       "AKSU KÖYÜ",
       "AKTEPE KÖYÜ",
       "AKYILDIZ KÖYÜ",
@@ -67906,9 +67906,9 @@
       "OFİS MAH",
       "ŞHT. HARUN BOY MAH",
       "YENİŞEHİR MAH",
-      "YEŞİLTEPE MAH"
+      "YEŞİLTEPE MAH",
     ],
-    "ULUDERE": [
+    ULUDERE: [
       "ANDAÇ KÖYÜ",
       "ASLANLI MAH (ANDAÇ KÖYÜ)",
       "AYYILDIZ MAH (ŞENOBA KÖYÜ)",
@@ -67940,11 +67940,11 @@
       "KÜÇÜKÇAY MAH",
       "ÖDÜL MAH",
       "ÖZELLİ MAH",
-      "YEŞİLYOVA MAH"
-    ]
+      "YEŞİLYOVA MAH",
+    ],
   },
-  "TEKİRDAĞ": {
-    "ÇERKEZKÖY": [
+  TEKİRDAĞ: {
+    ÇERKEZKÖY: [
       "BAĞLIK MAH",
       "CUMHURİYET MAH",
       "FATİH MAH",
@@ -67961,9 +67961,9 @@
       "VELİKÖY OSB MAH",
       "VELİKÖY-YALIBOYU OSB MAH",
       "YILDIRIM BEYAZIT MAH",
-      "YILDIRIM BEYAZIT OSB MAH"
+      "YILDIRIM BEYAZIT OSB MAH",
     ],
-    "ÇORLU": [
+    ÇORLU: [
       "ALİPAŞA MAH",
       "CUMHURİYET MAH",
       "ÇOBANÇEŞME MAH",
@@ -67990,9 +67990,9 @@
       "KAZIMİYE MAH",
       "KEMALETTİN MAH",
       "NUSRATİYE MAH",
-      "SİLAHTARAĞA MAH"
+      "SİLAHTARAĞA MAH",
     ],
-    "ERGENE": [
+    ERGENE: [
       "AHİMEHMET MAH",
       "BAKIRCA MAH",
       "CUMHURİYET MAH",
@@ -68013,9 +68013,9 @@
       "VELİMEŞE MAH",
       "VELİMEŞE OSB MAH",
       "YEŞİLTEPE MAH",
-      "YULAFLI MAH"
+      "YULAFLI MAH",
     ],
-    "HAYRABOLU": [
+    HAYRABOLU: [
       "ATAKÖY MAH",
       "AVLUOBASI MAH",
       "AYDINEVLER MAH",
@@ -68068,9 +68068,9 @@
       "UMURBEY MAH",
       "UMURÇU MAH",
       "YÖRGÜÇ MAH",
-      "YÖRÜKLER MAH"
+      "YÖRÜKLER MAH",
     ],
-    "KAPAKLI": [
+    KAPAKLI: [
       "ATATÜRK MAH",
       "BAHÇEAĞIL MAH",
       "BAHÇELİEVLER MAH",
@@ -68087,9 +68087,9 @@
       "MİMAR SİNAN MAH",
       "PINARCA MAH",
       "UZUNHACI MAH",
-      "YANIKAĞIL MAH"
+      "YANIKAĞIL MAH",
     ],
-    "MALKARA": [
+    MALKARA: [
       "AHİEVREN MAH",
       "AHMETPAŞA MAH",
       "AKSAKAL MAH",
@@ -68166,9 +68166,9 @@
       "YENİDİBEK MAH",
       "YILANLI MAH",
       "YÖRÜCEK MAH",
-      "YÖRÜK MAH"
+      "YÖRÜK MAH",
     ],
-    "MARMARAEREĞLİSİ": [
+    MARMARAEREĞLİSİ: [
       "BAHÇELİEVLER MAH",
       "CEDİT ALİ PAŞA MAH",
       "ÇEŞMELİ MAH",
@@ -68178,9 +68178,9 @@
       "SULTANKÖY MAH",
       "TÜRKMENLİ MAH",
       "YAKUPLU MAH",
-      "YENİÇİFTLİK MAH"
+      "YENİÇİFTLİK MAH",
     ],
-    "MURATLI": [
+    MURATLI: [
       "ARZULU MAH",
       "AŞAĞISEVİNDİKLİ MAH",
       "AYDINKÖY MAH",
@@ -68201,9 +68201,9 @@
       "YEŞİLSIRT MAH",
       "YUKARISEVİNDİKLİ MAH",
       "YUKARISIRT MAH",
-      "YURTBEKLER MAH"
+      "YURTBEKLER MAH",
     ],
-    "SARAY": [
+    SARAY: [
       "ATATÜRK MAH",
       "AYASPAŞA MAH",
       "AYVACIK MAH",
@@ -68232,9 +68232,9 @@
       "SİNANLI MAH",
       "SOFULAR MAH",
       "YENİ MAH",
-      "YUVALI MAH"
+      "YUVALI MAH",
     ],
-    "SÜLEYMANPAŞA": [
+    SÜLEYMANPAŞA: [
       "100. YIL MAH",
       "ALTINOVA MAH",
       "ERTUĞRUL MAH",
@@ -68307,9 +68307,9 @@
       "YENİCE MAH",
       "YENİKÖY MAH",
       "YUKARIKILIÇLI MAH",
-      "YUVA MAH"
+      "YUVA MAH",
     ],
-    "ŞARKÖY": [
+    ŞARKÖY: [
       "AŞAĞIKALAMIŞ MAH",
       "BEYOĞLU MAH",
       "BULGUR MAH",
@@ -68340,11 +68340,11 @@
       "YAYAKÖY MAH",
       "YENİKÖY MAH",
       "YÖRGÜÇ MAH",
-      "YUKARIKALAMIŞ MAH"
-    ]
+      "YUKARIKALAMIŞ MAH",
+    ],
   },
-  "TOKAT": {
-    "ALMUS": [
+  TOKAT: {
+    ALMUS: [
       "EREK MAH",
       "ESENTEPE MAH",
       "İSTİKLAL MAH",
@@ -68482,9 +68482,9 @@
       "YUKARI BAHTUMA MAH (ÇİFTLİK KÖYÜ)",
       "YUKARI KAMIŞCIK MAH (ÇİFTLİK KÖYÜ)",
       "YUKARI MAH (MESCİTKÖY KÖYÜ)",
-      "YUVAKÖY MAH (KINIK KÖYÜ)"
+      "YUVAKÖY MAH (KINIK KÖYÜ)",
     ],
-    "ARTOVA": [
+    ARTOVA: [
       "ALPASLAN MAH",
       "ALTINOVA MAH",
       "GAZİOSMANPAŞA MAH",
@@ -68521,9 +68521,9 @@
       "ULUSULU KÖYÜ",
       "YAĞCIMUSA KÖYÜ",
       "YENİCE KÖYÜ",
-      "YUKARIGÜÇLÜ KÖYÜ"
+      "YUKARIGÜÇLÜ KÖYÜ",
     ],
-    "BAŞÇİFTLİK": [
+    BAŞÇİFTLİK: [
       "CUMHURİYET MAH",
       "CUMHURİYET MAH (HATİPLİ KÖYÜ)",
       "FATİH MAH (HATİPLİ KÖYÜ)",
@@ -68550,9 +68550,9 @@
       "ŞAHNAALAN YAYLASI MAH (ŞAHNAALAN KÖYÜ)",
       "TEKNEPINAR MAH (ERİKBELEN KÖYÜ)",
       "YENİ MAH (ERİKBELEN KÖYÜ)",
-      "YUKARI MAH (ERİKBELEN KÖYÜ)"
+      "YUKARI MAH (ERİKBELEN KÖYÜ)",
     ],
-    "ERBAA": [
+    ERBAA: [
       "AHMET YESEVİ MAH",
       "ALACABAL MAH",
       "CUMHURİYET MAH",
@@ -68813,9 +68813,9 @@
       "YOLDERE KÖYÜ",
       "YUKARIÇANDIR KÖYÜ",
       "YUKARIKÖY MAH (USTAMEHMET KÖYÜ)",
-      "ZOĞALLIÇUKUR KÖYÜ"
+      "ZOĞALLIÇUKUR KÖYÜ",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AKDEĞİRMEN MAH",
       "ALİPAŞA MAH",
       "ALTIYÜZEVLER MAH",
@@ -69019,9 +69019,9 @@
       "YEŞİLIRMAK MAH (BÜYÜKYILDIZ KÖYÜ)",
       "YEŞİLYURT KÖYÜ",
       "YUKARI ÇİFTLİK MAH (GÜĞÜNLÜ KÖYÜ)",
-      "YUNUSEMRE MAH (ÇAMLIBEL KÖYÜ)"
+      "YUNUSEMRE MAH (ÇAMLIBEL KÖYÜ)",
     ],
-    "NİKSAR": [
+    NİKSAR: [
       "BAHÇELİEVLER MAH (GÖKÇELİ KÖYÜ)",
       "BALLICA MAH (GÖKÇELİ KÖYÜ)",
       "BAYRAKTEPE KÖYÜ",
@@ -69208,9 +69208,9 @@
       "MELİKGAZİ MAH",
       "ŞAİR EMRAH MAH",
       "YENİ MAH (GÜNEBAKAN KÖYÜ)",
-      "YUSUFŞAH MAH"
+      "YUSUFŞAH MAH",
     ],
-    "PAZAR": [
+    PAZAR: [
       "BALLICA KÖYÜ",
       "BEŞEVLER KÖYÜ",
       "ÇAYKÖY KÖYÜ",
@@ -69241,9 +69241,9 @@
       "MERKEZ MAH",
       "SEYİTALİ MAH",
       "SİNANPAŞA MAH",
-      "TEKKE MAH"
+      "TEKKE MAH",
     ],
-    "REŞADİYE": [
+    REŞADİYE: [
       "ÇAKRAZ MAH (BEREKETLİ KÖYÜ)",
       "ELMACIK KÖYÜ",
       "ELMACIK MAH (ELMACIK KÖYÜ)",
@@ -69475,9 +69475,9 @@
       "EMİRŞEYHYAKUP MAH",
       "KAYALIK MAH",
       "KURTULUŞ MAH",
-      "OSMANİYE MAH"
+      "OSMANİYE MAH",
     ],
-    "SULUSARAY": [
+    SULUSARAY: [
       "ALANYURT KÖYÜ",
       "ALPUDERE KÖYÜ",
       "ARPACIKARAÇAY KÖYÜ",
@@ -69495,9 +69495,9 @@
       "UYLUBAĞI KÖYÜ",
       "FATİH MAH",
       "GAZİOSMANPAŞA MAH",
-      "MENDERES MAH"
+      "MENDERES MAH",
     ],
-    "TURHAL": [
+    TURHAL: [
       "AĞCAŞAR KÖYÜ",
       "AĞLAMIŞ MAH (ÇİVRİL KÖYÜ)",
       "AKBUĞDAY KÖYÜ",
@@ -69633,9 +69633,9 @@
       "VARVARA MAH",
       "YAVUZ SELİM MAH",
       "YEŞİLIRMAK MAH",
-      "YUNUS EMRE MAH"
+      "YUNUS EMRE MAH",
     ],
-    "YEŞİLYURT": [
+    YEŞİLYURT: [
       "BAHÇEBAŞI KÖYÜ",
       "BÜĞET KÖYÜ",
       "ÇERKEZ DANİŞMENT KÖYÜ",
@@ -69660,9 +69660,9 @@
       "100. YIL MAH",
       "EVRENPAŞA MAH",
       "GAZİOSMANPAŞA MAH",
-      "ŞEHİTLER MAH"
+      "ŞEHİTLER MAH",
     ],
-    "ZİLE": [
+    ZİLE: [
       "ACIPINAR KÖYÜ",
       "AĞCAKEÇİLİ KÖYÜ",
       "AĞILCIK KÖYÜ",
@@ -69819,11 +69819,11 @@
       "ŞEYHKOLU MAH",
       "YUNUSEMRE MAH",
       "ZİNCİRLİ ÜLYA MAH",
-      "ZİNCİRLİSÜFLA MAH"
-    ]
+      "ZİNCİRLİSÜFLA MAH",
+    ],
   },
-  "TRABZON": {
-    "AKÇAABAT": [
+  TRABZON: {
+    AKÇAABAT: [
       "ACISU MAH",
       "ADACIK MAH",
       "AĞAÇLI MAH",
@@ -69897,9 +69897,9 @@
       "YEŞİLTEPE MAH",
       "YEŞİLYURT MAH",
       "YILDIZLI MAH",
-      "ZAFERLİ MAH"
+      "ZAFERLİ MAH",
     ],
-    "ARAKLI": [
+    ARAKLI: [
       "AYTAŞ MAH",
       "AYVADERE MAH",
       "BAHÇECİK MAH",
@@ -69949,9 +69949,9 @@
       "YİĞİTÖZÜ MAH",
       "YOLGÖREN MAH",
       "YONCALI MAH",
-      "YÜCEYURT MAH"
+      "YÜCEYURT MAH",
     ],
-    "ARSİN": [
+    ARSİN: [
       "ATAYURT MAH",
       "BAŞDURAK MAH",
       "CUDİBEY MAH",
@@ -69987,9 +69987,9 @@
       "YEŞİLTEPE MAH",
       "YEŞİLYALI MAH",
       "YOLAÇ MAH",
-      "YOLÜSTÜ MAH"
+      "YOLÜSTÜ MAH",
     ],
-    "BEŞİKDÜZÜ": [
+    BEŞİKDÜZÜ: [
       "ADACIK MAH",
       "AĞAÇLI MAH",
       "AKKESE MAH",
@@ -70023,9 +70023,9 @@
       "VARDALLI MAH",
       "YENİCAMİ MAH",
       "YEŞİLKÖY MAH",
-      "ZEMBEREK MAH"
+      "ZEMBEREK MAH",
     ],
-    "ÇARŞIBAŞI": [
+    ÇARŞIBAŞI: [
       "BURUNBAŞI MAH",
       "BÜYÜKDERE MAH",
       "ÇALLI MAH",
@@ -70048,9 +70048,9 @@
       "VELİKÖY MAH",
       "YAVUZ MAH",
       "YENİKÖY MAH",
-      "ZEYTİNLİK MAH"
+      "ZEYTİNLİK MAH",
     ],
-    "ÇAYKARA": [
+    ÇAYKARA: [
       "AKDOĞAN MAH",
       "ARPAÖZÜ MAH",
       "AŞAĞIKUMLU MAH",
@@ -70082,9 +70082,9 @@
       "UZUNTARLA MAH",
       "YAYLAÖNÜ MAH",
       "YEŞİLALAN MAH",
-      "YUKARIKUMLU MAH"
+      "YUKARIKUMLU MAH",
     ],
-    "DERNEKPAZARI": [
+    DERNEKPAZARI: [
       "AKKÖSE MAH",
       "ÇALIŞANLAR MAH",
       "ÇAYIRBAŞI MAH",
@@ -70098,9 +70098,9 @@
       "TÜFEKÇİ MAH",
       "YENİCAMİ MAH",
       "YENİCE MAH",
-      "ZİNCİRLİTAŞ MAH"
+      "ZİNCİRLİTAŞ MAH",
     ],
-    "DÜZKÖY": [
+    DÜZKÖY: [
       "ALAZLI MAH",
       "AYKUT MAH",
       "BÜYÜK MAH",
@@ -70122,9 +70122,9 @@
       "TAŞOCAĞI MAH",
       "TEPECİK MAH",
       "YENİ MAH",
-      "YERLİCE MAH"
+      "YERLİCE MAH",
     ],
-    "HAYRAT": [
+    HAYRAT: [
       "AĞAÇLI DÜZ MAH",
       "BALABAN MAH",
       "BALABAN MERKEZ MAH",
@@ -70158,9 +70158,9 @@
       "YENİ MAH",
       "YENİKÖY MAH",
       "YILDIRIMLAR MAH",
-      "YIRCA MAH"
+      "YIRCA MAH",
     ],
-    "KÖPRÜBAŞI": [
+    KÖPRÜBAŞI: [
       "AKPINAR MAH",
       "ARPALI MAH",
       "BEŞKÖY MAH",
@@ -70170,9 +70170,9 @@
       "GÜNDOĞAN MAH",
       "GÜNEŞLİ MAH",
       "PINARBAŞI MAH",
-      "YAĞMURLU MAH"
+      "YAĞMURLU MAH",
     ],
-    "MAÇKA": [
+    MAÇKA: [
       "AKARSU MAH",
       "AKMESCİT MAH",
       "ALAÇAM MAH",
@@ -70238,9 +70238,9 @@
       "YEŞİLYURT MAH",
       "YUKARIKÖY MAH",
       "YÜZÜNCÜYIL MAH",
-      "ZAFERLİ MAH"
+      "ZAFERLİ MAH",
     ],
-    "OF": [
+    OF: [
       "AĞAÇBAŞI MAH",
       "AĞAÇSEVEN MAH",
       "AŞAĞIKIŞLACIK MAH",
@@ -70308,9 +70308,9 @@
       "YAZLIK MAH",
       "YEMİŞALAN MAH",
       "YENİ MAH",
-      "YUKARI KIŞLACIK MAH"
+      "YUKARI KIŞLACIK MAH",
     ],
-    "ORTAHİSAR": [
+    ORTAHİSAR: [
       "1 NOLU BEŞİRLİ MAH",
       "2 NOLU BEŞİRLİ MAH",
       "AĞILLI MAH",
@@ -70396,9 +70396,9 @@
       "GÜLBAHARHATUN MAH",
       "HIZIRBEY MAH",
       "SOĞUKSU MAH",
-      "YALI MAH"
+      "YALI MAH",
     ],
-    "SÜRMENE": [
+    SÜRMENE: [
       "AKSU MAH",
       "ARMUTLU MAH",
       "AŞAĞIOVALI MAH",
@@ -70435,9 +70435,9 @@
       "YOKUŞBAŞI MAH",
       "YUKARIÇAVUŞLU MAH",
       "YUKARIOVALI MAH",
-      "ZEYTİNLİ MAH"
+      "ZEYTİNLİ MAH",
     ],
-    "ŞALPAZARI": [
+    ŞALPAZARI: [
       "AĞIRTAŞ MAH",
       "AKÇİRİŞ MAH",
       "ÇAMKİRİŞ MAH",
@@ -70467,9 +70467,9 @@
       "SÜTPINAR MAH",
       "TEPEAĞZI MAH",
       "TURALIUŞAĞI MAH",
-      "ÜZÜMÖZÜ MAH"
+      "ÜZÜMÖZÜ MAH",
     ],
-    "TONYA": [
+    TONYA: [
       "BİÇİNLİK MAH",
       "BÜYÜK MAH",
       "ÇAMLI MAH",
@@ -70491,9 +70491,9 @@
       "SAYRAÇ MAH",
       "TURALI MAH",
       "YAKÇUKUR MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "VAKFIKEBİR": [
+    VAKFIKEBİR: [
       "AÇIKALAN MAH",
       "AKKÖY MAH",
       "AYDOĞDU MAH",
@@ -70539,9 +70539,9 @@
       "TARLACIK MAH",
       "YALIKÖY MAH",
       "YAYLACIK MAH",
-      "YILDIZ MAH"
+      "YILDIZ MAH",
     ],
-    "YOMRA": [
+    YOMRA: [
       "ÇAMLICA MAH",
       "ÇAMLIYURT MAH",
       "ÇINARLI MAH",
@@ -70566,11 +70566,11 @@
       "TAŞDELEN MAH",
       "TEPEKÖY MAH",
       "YENİCE MAH",
-      "YOKUŞLU MAH"
-    ]
+      "YOKUŞLU MAH",
+    ],
   },
-  "TUNCELİ": {
-    "ÇEMİŞGEZEK": [
+  TUNCELİ: {
+    ÇEMİŞGEZEK: [
       "ÇUKUR MAH",
       "HACI CAMİ MAH",
       "HAMAMATİK MAH",
@@ -70631,9 +70631,9 @@
       "YUKARI SAVUK MAH (BÜYÜKÖRENCE KÖYÜ)",
       "YUKARIBUDAK KÖYÜ",
       "YUKARIDEMİRBÜK MAH (GEDİKLER KÖYÜ)",
-      "YÜNBÜKEN KÖYÜ"
+      "YÜNBÜKEN KÖYÜ",
     ],
-    "HOZAT": [
+    HOZAT: [
       "DİYAP AĞA MAH",
       "FİKRİPAŞA MAH",
       "KÖPRÜBAŞI MAH",
@@ -70727,9 +70727,9 @@
       "YEŞİLYURT MAH (AKPINAR KÖYÜ)",
       "YOĞUN TOPRAK MAH (ALANCIK KÖYÜ)",
       "YORGANLI MAH (KAVUKTEPE KÖYÜ)",
-      "YÜCELDİ KÖYÜ"
+      "YÜCELDİ KÖYÜ",
     ],
-    "MAZGİRT": [
+    MAZGİRT: [
       "ELTİHATUN MAH",
       "YENİ MAH",
       "AĞAÇARDI KÖYÜ",
@@ -70884,9 +70884,9 @@
       "YUKARIÇAKANKCI MAH (ASLANYURDU KÖYÜ)",
       "YUKARIOYUMCA KÖYÜ",
       "YUSUFAĞA MAH (AŞAĞITARLACIK KÖYÜ)",
-      "ZİMMAK MAH (AKKAVAK KÖYÜ)"
+      "ZİMMAK MAH (AKKAVAK KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AĞAÇLI MZ MAH (DOLUKÜP KÖYÜ)",
       "AKOLUK MZ MAH (BUĞULU KÖYÜ)",
       "ALACIK KÖYÜ",
@@ -71114,9 +71114,9 @@
       "İSMET İNÖNÜ MAH",
       "İSMET İNÖNÜ OSB MAH",
       "MOĞULTAY MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "NAZIMİYE": [
+    NAZIMİYE: [
       "AHURDERE MAH (KILKÖY KÖYÜ)",
       "AKÇALI MAH (YAZGELDİ KÖYÜ)",
       "AKSU MAH (DALLIBAHÇE KÖYÜ)",
@@ -71249,9 +71249,9 @@
       "YİĞİTLER KÖYÜ",
       "YONCALI MAH (TURNAYOLU KÖYÜ)",
       "YUKARIDOLUCA KÖYÜ",
-      "MERKEZ MAH"
+      "MERKEZ MAH",
     ],
-    "OVACIK": [
+    OVACIK: [
       "ADA KÖYÜ",
       "AĞAÇPINAR KÖYÜ",
       "AKTAŞ KÖYÜ",
@@ -71363,9 +71363,9 @@
       "ZİYARET KÖYÜ",
       "94 MAHALLESİ MAH",
       "KANDOLAR MAH",
-      "PULUR MAH"
+      "PULUR MAH",
     ],
-    "PERTEK": [
+    PERTEK: [
       "AKBAYIR MAH (YENİKÖY KÖYÜ)",
       "AKDARI MAH (ARDIÇ KÖYÜ)",
       "AKDEMİR KÖYÜ",
@@ -71480,9 +71480,9 @@
       "DEREBAŞI MAH",
       "İSTİKLAL MAH",
       "KALEDİBİ MAH",
-      "SOĞUKPINAR MAH"
+      "SOĞUKPINAR MAH",
     ],
-    "PÜLÜMÜR": [
+    PÜLÜMÜR: [
       "AĞAŞENLİK KÖYÜ",
       "AKDİK KÖYÜ",
       "AKTEKİN MAH (YARBAŞI KÖYÜ)",
@@ -71601,11 +71601,11 @@
       "ECEVİT MAH",
       "HİVER MAH",
       "MERKEZ MAH",
-      "MEYDANLAR MAH"
-    ]
+      "MEYDANLAR MAH",
+    ],
   },
-  "UŞAK": {
-    "BANAZ": [
+  UŞAK: {
+    BANAZ: [
       "31 AĞUSTOS MAH",
       "CUMHURİYET MAH",
       "DİLEK MAH",
@@ -71690,9 +71690,9 @@
       "YEŞİLYURT KÖYÜ",
       "YUKARI MAH (DERBENT KÖYÜ)",
       "YUKARI MAH (HATIPLAR KÖYÜ)",
-      "YUKARI MAH (KIZILHİSAR KÖYÜ)"
+      "YUKARI MAH (KIZILHİSAR KÖYÜ)",
     ],
-    "EŞME": [
+    EŞME: [
       "CUMHURİYET MAH",
       "ELVANLAR MAH",
       "İSTASYON MAH",
@@ -71909,9 +71909,9 @@
       "YEŞİLKAVAK KÖYÜ",
       "YILDIRIMLAR MAH (YELEĞEN KÖYÜ)",
       "YÖRÜK KOÇ MAH (KARABACAKLI KÖYÜ)",
-      "ZABDİYELİ MAH (OYMALI KÖYÜ)"
+      "ZABDİYELİ MAH (OYMALI KÖYÜ)",
     ],
-    "KARAHALLI": [
+    KARAHALLI: [
       "BOĞAZ MAH",
       "BUĞDAYLI MAH",
       "DERE MAH",
@@ -71935,9 +71935,9 @@
       "KÜLKÖY KÖYÜ",
       "PAŞALAR KÖYÜ",
       "PINAR MAH (ALFAKLAR KÖYÜ)",
-      "YEDİDEĞİRMEN MAH (DURAKLI KÖYÜ)"
+      "YEDİDEĞİRMEN MAH (DURAKLI KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ATATÜRK MAH",
       "AYBEY MAH",
       "BOZKURT MAH",
@@ -72211,9 +72211,9 @@
       "YUKARI MAH (MESUDİYE KÖYÜ)",
       "YUKARI MAH (YENİ MAH) (ÜÇKUYULAR KÖYÜ)",
       "ZAHMAN KÖYÜ",
-      "ZEPDERESİ MAH (MESUDİYE KÖYÜ)"
+      "ZEPDERESİ MAH (MESUDİYE KÖYÜ)",
     ],
-    "SİVASLI": [
+    SİVASLI: [
       "AKARCA KÖYÜ",
       "AKTEPE MAH (AZİZLER KÖYÜ)",
       "ATATÜRK MAH (TATAR KÖYÜ)",
@@ -72261,9 +72261,9 @@
       "EVRENLİ MAH",
       "GÖLBAHÇE MAH",
       "GÜRSEL MAH (AĞAÇBEYLİ KÖYÜ)",
-      "KONAK MAH"
+      "KONAK MAH",
     ],
-    "ULUBEY": [
+    ULUBEY: [
       "AKKEÇİLİ KÖYÜ",
       "AKSAZ KÖYÜ",
       "AKSAZ MAH (AKSAZ KÖYÜ)",
@@ -72307,11 +72307,11 @@
       "DİLAVER MAH",
       "EMİRLER MAH",
       "GÖLBAŞI MAH",
-      "ÜYÜKBAŞI MAH"
-    ]
+      "ÜYÜKBAŞI MAH",
+    ],
   },
-  "VAN": {
-    "BAHÇESARAY": [
+  VAN: {
+    BAHÇESARAY: [
       "AKYAYLA MAH",
       "ALTINDERE MAH",
       "ALTINTAS MAH",
@@ -72331,9 +72331,9 @@
       "ULUBEYLİ MAH",
       "ÜNLÜCE MAH",
       "YAŞLIKAVAK MAH",
-      "YAYLAKONAK MAH"
+      "YAYLAKONAK MAH",
     ],
-    "BAŞKALE": [
+    BAŞKALE: [
       "AÇIKAĞIL MAH",
       "AKÇALI MAH",
       "ALBAYRAK MAH",
@@ -72401,9 +72401,9 @@
       "YUKARIDALLI MAH",
       "YUKARIDARICA MAH",
       "YUKARIDİKMEN MAH",
-      "YURTTEPE MAH"
+      "YURTTEPE MAH",
     ],
-    "ÇALDIRAN": [
+    ÇALDIRAN: [
       "AKBAŞAK MAH",
       "ALAKAYA MAH",
       "ALİKELLE MAH",
@@ -72473,9 +72473,9 @@
       "YUKARIYANIKTAŞ MAH",
       "YUVACIK MAH",
       "YÜCELEN MAH",
-      "ZÜLFİBULAK MAH"
+      "ZÜLFİBULAK MAH",
     ],
-    "ÇATAK": [
+    ÇATAK: [
       "ADNAN MENDERES MAH",
       "AĞAÇLIK MAH",
       "AKÇABÜK MAH",
@@ -72508,9 +72508,9 @@
       "TEKNECİK MAH",
       "TOYGA MAH",
       "UZUNTEKNE MAH",
-      "YUKARINARLICA MAH"
+      "YUKARINARLICA MAH",
     ],
-    "EDREMİT": [
+    EDREMİT: [
       "ELMALIK MAH",
       "ERDEMKENT MAH",
       "ERENKENT MAH",
@@ -72540,9 +72540,9 @@
       "SELAHATTİN EYYUBİ MAH",
       "SÜPHAN MAH",
       "ŞABANİYE MAH",
-      "TAŞKONAK MAH"
+      "TAŞKONAK MAH",
     ],
-    "ERCİŞ": [
+    ERCİŞ: [
       "ABDALMEZRASI MAH",
       "ADNAN MENDERES MAH",
       "AĞAÇÖREN MAH",
@@ -72643,9 +72643,9 @@
       "YÖRELİ MAH",
       "YUKARIAKÇAGEDİK MAH",
       "YUKARIIŞIKLI MAH",
-      "YÜNÖREN MAH"
+      "YÜNÖREN MAH",
     ],
-    "GEVAŞ": [
+    GEVAŞ: [
       "ABALI MAH",
       "ALADÜZ MAH",
       "ALTINSAÇ MAH",
@@ -72685,9 +72685,9 @@
       "YANIKÇAY MAH",
       "YEMİŞLİK MAH",
       "YOLDÖNDÜ MAH",
-      "YUVA MAH"
+      "YUVA MAH",
     ],
-    "GÜRPINAR": [
+    GÜRPINAR: [
       "AKBULUT MAH",
       "AKDOĞU MAH",
       "AKPINAR MAH",
@@ -72766,9 +72766,9 @@
       "YOLAŞAN MAH",
       "YOLDÜŞTÜ MAH",
       "YUKARIKAYMAZ MAH",
-      "YURTBAŞI MAH"
+      "YURTBAŞI MAH",
     ],
-    "İPEKYOLU": [
+    İPEKYOLU: [
       "AĞZIKARA MAH",
       "AKTAŞ MAH",
       "ERÇEK MAH",
@@ -72818,9 +72818,9 @@
       "YATIKSIRT MAH",
       "YENİ MAH",
       "YUKARIGÖLALAN MAH",
-      "YUKARIGÜNEYCE MAH"
+      "YUKARIGÜNEYCE MAH",
     ],
-    "MURADİYE": [
+    MURADİYE: [
       "AÇIKYOL MAH",
       "ADAKLI MAH",
       "AKBULAK MAH",
@@ -72868,9 +72868,9 @@
       "YAVUZSELİM MAH",
       "YENİŞEHİR MAH",
       "YUKARIARGIT MAH",
-      "YUMAKLI MAH"
+      "YUMAKLI MAH",
     ],
-    "ÖZALP": [
+    ÖZALP: [
       "AKSORGUÇ MAH",
       "ALTINBOĞA MAH",
       "AŞAĞIAKÇAGÜL MAH",
@@ -72928,9 +72928,9 @@
       "YUKARITULGALI MAH",
       "YUKARIYORGANLI MAH",
       "YUMRUKLU MAH",
-      "YÜNKUŞAK MAH"
+      "YÜNKUŞAK MAH",
     ],
-    "SARAY": [
+    SARAY: [
       "ATATÜRK MAH",
       "BAKIŞIK MAH",
       "BALTEPE MAH",
@@ -72957,9 +72957,9 @@
       "TURANKÖY MAH",
       "YAMANYURT MAH",
       "YEŞİLAĞAÇ MAH",
-      "ZİNCİRKIRAN MAH"
+      "ZİNCİRKIRAN MAH",
     ],
-    "TUŞBA": [
+    TUŞBA: [
       "ABDURRAHMAN GAZİ MAH",
       "ADIGÜZEL MAH",
       "AĞARTI MAH",
@@ -73027,11 +73027,11 @@
       "YEŞİLSU MAH",
       "YUMRUTEPE MAH",
       "AKKÖPRÜ MAH",
-      "İSTASYON MAH"
-    ]
+      "İSTASYON MAH",
+    ],
   },
-  "YALOVA": {
-    "ALTINOVA": [
+  YALOVA: {
+    ALTINOVA: [
       "CUMHURİYET MAH",
       "HERSEK MAH",
       "HÜRRİYET MAH",
@@ -73054,9 +73054,9 @@
       "ÖRENCİK KÖYÜ",
       "SERMAYECİK KÖYÜ",
       "SOĞUKSU KÖYÜ",
-      "ŞEHİTLİK MAH (TAVŞANLI KÖYÜ)"
+      "ŞEHİTLİK MAH (TAVŞANLI KÖYÜ)",
     ],
-    "ARMUTLU": [
+    ARMUTLU: [
       "50. YIL MAH",
       "BAYIR MAH",
       "KARŞIYAKA MAH",
@@ -73066,9 +73066,9 @@
       "KÖY MERKEZİ MAH (KAPAKLI KÖYÜ)",
       "KÖY MERKEZİ MAH (MECİDİYE KÖYÜ)",
       "KÖY MERKEZİ MAH (SELİMİYE KÖYÜ)",
-      "YALI MAH (FISTIKLI KÖYÜ)"
+      "YALI MAH (FISTIKLI KÖYÜ)",
     ],
-    "ÇINARCIK": [
+    ÇINARCIK: [
       "ÇAMLIK MAH",
       "HARMANLAR MAH",
       "HASANBABA MAH",
@@ -73086,9 +73086,9 @@
       "MERKEZ MAH (ÇALICA KÖYÜ)",
       "MERKEZ MAH (KOCADERE KÖYÜ)",
       "MERKEZ MAH (ORTABURUN KÖYÜ)",
-      "YALI MAH (KOCADERE KÖYÜ)"
+      "YALI MAH (KOCADERE KÖYÜ)",
     ],
-    "ÇİFTLİKKÖY": [
+    ÇİFTLİKKÖY: [
       "500 EVLER MAH",
       "ÇİFTLİK MAH",
       "MEHMET AKİF ERSOY MAH",
@@ -73110,9 +73110,9 @@
       "TAŞKÖPRÜ YENİ MAH (TAŞKÖPRÜ KÖYÜ)",
       "YALOVA İZMİT KARAYOLU MAH (KILIÇ KÖYÜ)",
       "YUKARI MAH (ÇUKURKÖY KÖYÜ)",
-      "YUKARI MAH (İLYASKÖY KÖYÜ)"
+      "YUKARI MAH (İLYASKÖY KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "ADNAN MENDERES MAH",
       "BAĞLARBAŞI MAH",
       "BAHÇELİEVLER MAH",
@@ -73143,17 +73143,17 @@
       "SANAYİ MAH (KİRAZLI KÖYÜ)",
       "SEYRANTEPE MAH",
       "SUGÖREN MAH (SUGÖREN KÖYÜ)",
-      "SÜPÜRGELİK MAH (SUGÖREN KÖYÜ)"
+      "SÜPÜRGELİK MAH (SUGÖREN KÖYÜ)",
     ],
-    "TERMAL": [
+    TERMAL: [
       "KÖYİÇİ MAH (AKKÖY KÖYÜ)",
       "KÖYİÇİ MAH (YENİMAHALLE KÖYÜ)",
       "GÖKÇEDERE MAH",
-      "ÜVEZPINAR MAH"
-    ]
+      "ÜVEZPINAR MAH",
+    ],
   },
-  "YOZGAT": {
-    "AKDAĞMADENİ": [
+  YOZGAT: {
+    AKDAĞMADENİ: [
       "AHİSHAVİ MAH",
       "ÇAMLIK MAH",
       "EMEK MAH",
@@ -73251,9 +73251,9 @@
       "YEDİŞEHRİ KÖYÜ",
       "YENİYAPAN KÖYÜ",
       "YUKARIÇULHALI KÖYÜ",
-      "YÜNALANI KÖYÜ"
+      "YÜNALANI KÖYÜ",
     ],
-    "AYDINCIK": [
+    AYDINCIK: [
       "BAŞTÜRK MAH",
       "DANLIDAĞ MAH",
       "YENİ MAH",
@@ -73281,9 +73281,9 @@
       "MERKEZ MAH (KÖSRELİK KÖYÜ)",
       "MOLLAİSMAİL KÖYÜ",
       "SAKIZLIK KÖYÜ",
-      "ÜZÜMLÜK KÖYÜ"
+      "ÜZÜMLÜK KÖYÜ",
     ],
-    "BOĞAZLIYAN": [
+    BOĞAZLIYAN: [
       "AŞAĞI KARAKOÇ MAH",
       "AŞAĞI MAH",
       "BAĞLARBAŞI MAH",
@@ -73341,9 +73341,9 @@
       "YEŞİL MAH (YAMAÇLI KÖYÜ)",
       "YEŞİLHİSAR KÖYÜ",
       "YOĞUNHİSAR KÖYÜ",
-      "ZAFER MAH (YAMAÇLI KÖYÜ)"
+      "ZAFER MAH (YAMAÇLI KÖYÜ)",
     ],
-    "ÇANDIR": [
+    ÇANDIR: [
       "ABDULLAH EFENDİ MAH",
       "ATATÜRK MAH",
       "BAHÇELİEVLER MAH",
@@ -73359,9 +73359,9 @@
       "KARŞIYAKA MAH (BÜYÜKKIŞLA KÖYÜ)",
       "KOZAN KÖYÜ",
       "TANDOĞAN MAH (BÜYÜKKIŞLA KÖYÜ)",
-      "ZAFER MAH (BÜYÜKKIŞLA KÖYÜ)"
+      "ZAFER MAH (BÜYÜKKIŞLA KÖYÜ)",
     ],
-    "ÇAYIRALAN": [
+    ÇAYIRALAN: [
       "AVCILAR MAH",
       "BAĞLARBAŞI MAH",
       "CUMHURİYET MAH",
@@ -73395,9 +73395,9 @@
       "YEŞİLYURT MAH (CURALİ KÖYÜ)",
       "YILDIRIM BEYAZIT MAH (KONUKLAR KÖYÜ)",
       "YUKARITEKKE KÖYÜ",
-      "YUKARIYAHYASARAY KÖYÜ"
+      "YUKARIYAHYASARAY KÖYÜ",
     ],
-    "ÇEKEREK": [
+    ÇEKEREK: [
       "BAĞLARBAŞI MAH",
       "BAHÇELİEVLER MAH",
       "MEVLANA MAH",
@@ -73449,9 +73449,9 @@
       "YUKARIKARAHACILI KÖYÜ",
       "YUKARIKARAKAYA KÖYÜ",
       "YUKARIOBA KÖYÜ",
-      "ZAFER MAH (BAYINDIRHÜYÜK KÖYÜ)"
+      "ZAFER MAH (BAYINDIRHÜYÜK KÖYÜ)",
     ],
-    "KADIŞEHRİ": [
+    KADIŞEHRİ: [
       "ÇAYPINAR MAH",
       "GÜMÜŞDİĞİN MAH",
       "KADIOĞLU MAH",
@@ -73485,9 +73485,9 @@
       "YAVUHASAN KÖYÜ",
       "YELTEN KÖYÜ",
       "YONCALIK MAH (HALIKÖY KÖYÜ)",
-      "YUKARIKIZILÖZ MAH (HALIKÖY KÖYÜ)"
+      "YUKARIKIZILÖZ MAH (HALIKÖY KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AKTAŞ KÖYÜ",
       "AKYAMAÇ KÖYÜ",
       "ALEMDAR KÖYÜ",
@@ -73624,9 +73624,9 @@
       "TUZKAYA MAH",
       "YENİCAMİ MAH",
       "YUKARIÇATAK MAH",
-      "YUKARINOHUTLU MAH"
+      "YUKARINOHUTLU MAH",
     ],
-    "SARAYKENT": [
+    SARAYKENT: [
       "ALTINSU KÖYÜ",
       "BALKAYA MAH (DEDEFAKILI KÖYÜ)",
       "BAŞPINAR KÖYÜ",
@@ -73652,9 +73652,9 @@
       "KARŞIYAKA MAH",
       "M.FEVZİ ÇAKMAK MAH",
       "SARAY MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "SARIKAYA": [
+    SARIKAYA: [
       "AKBENLİ KÖYÜ",
       "AKBUCAK KÖYÜ",
       "AKÇADAM KÖYÜ",
@@ -73733,9 +73733,9 @@
       "KAZIM KARABEKİR MAH",
       "OSMAN GAZİ MAH",
       "ŞEKERPINAR MAH",
-      "YENİDOĞAN MAH"
+      "YENİDOĞAN MAH",
     ],
-    "SORGUN": [
+    SORGUN: [
       "AĞCIN KÖYÜ",
       "AHMETFAKILI MAH (YENİYER KÖYÜ)",
       "AKOCAK MAH (EYMİR KÖYÜ)",
@@ -73859,9 +73859,9 @@
       "YAZLAK MAH",
       "YENİ MAH",
       "YENİDOĞAN MAH",
-      "YEŞİLÖZ MAH"
+      "YEŞİLÖZ MAH",
     ],
-    "ŞEFAATLİ": [
+    ŞEFAATLİ: [
       "AKCAMİ KÖYÜ",
       "AKÇAKOYUNLU KÖYÜ",
       "ALİFAKILI KÖYÜ",
@@ -73919,9 +73919,9 @@
       "KALE MAH",
       "SAVAŞTEPE MAH (KUZAYCA KÖYÜ)",
       "YAYLAPINAR MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "YENİFAKILI": [
+    YENİFAKILI: [
       "BAŞAĞA MAH (BEKTAŞLI KÖYÜ)",
       "BAŞPINAR KÖYÜ",
       "CAMİKEBİR MAH (BEKTAŞLI KÖYÜ)",
@@ -73936,9 +73936,9 @@
       "CANKURTARAN MAH",
       "MEHMET AKİF ERSOY MAH",
       "YAZLAK MAH",
-      "YENİ MAH"
+      "YENİ MAH",
     ],
-    "YERKÖY": [
+    YERKÖY: [
       "ABDALLAR MAH (DELİCE KÖYÜ)",
       "AKPINAR KÖYÜ",
       "ARİFEOĞLU KÖYÜ",
@@ -74019,11 +74019,11 @@
       "KARACAŞAR MAH",
       "SELÇUK MAH",
       "ŞENTEPE MAH",
-      "VEFİ PANDIR MAH"
-    ]
+      "VEFİ PANDIR MAH",
+    ],
   },
-  "ZONGULDAK": {
-    "ALAPLI": [
+  ZONGULDAK: {
+    ALAPLI: [
       "MERKEZ MAH",
       "TEPEKÖY MAH",
       "YENİ SİTELER MAH",
@@ -74160,9 +74160,9 @@
       "YENİKÖY KÖYÜ",
       "YUKARI DEĞİRMENCİLER MAH (ALİOĞLU KÖYÜ)",
       "YUKARIDAĞ MAH (AŞAĞIDAĞ KÖYÜ)",
-      "YUSUFKÖY MAH (OKÇULAR KÖYÜ)"
+      "YUSUFKÖY MAH (OKÇULAR KÖYÜ)",
     ],
-    "ÇAYCUMA": [
+    ÇAYCUMA: [
       "ÇAY MAH",
       "GEMİCİLER MAH",
       "İSTASYON MAH",
@@ -74483,9 +74483,9 @@
       "YUKARI ÇUKUR MAH (KARAPINAR KÖYÜ)",
       "YUKARI MAH (HACILAR KÖYÜ)",
       "YUKARI MAH (YUKARIİHSANİYE KÖYÜ)",
-      "YUMUKLAR MAH (SERDAROĞLU KÖYÜ)"
+      "YUMUKLAR MAH (SERDAROĞLU KÖYÜ)",
     ],
-    "DEVREK": [
+    DEVREK: [
       "AĞALAR MAH",
       "ESKİ MAH",
       "İSMET PAŞA MAH",
@@ -74930,9 +74930,9 @@
       "YENİKÖY MAH (MEKEKLER KÖYÜ)",
       "YOKARIBAŞ MAH (HALİLBEYOĞLU KÖYÜ)",
       "YUKARIKÖY MAH (VELİBEYLER KÖYÜ)",
-      "YUSUFOĞLU MAH (GÜZELYURT KÖYÜ)"
+      "YUSUFOĞLU MAH (GÜZELYURT KÖYÜ)",
     ],
-    "EREĞLİ": [
+    EREĞLİ: [
       "AKARCA MAH",
       "BAĞLIK MAH",
       "BALI MAH",
@@ -75228,9 +75228,9 @@
       "TEPEKÖY MAH (FINDIKLI KÖYÜ)",
       "TEPEKÖY MAH (KARAKAVUZ KÖYÜ)",
       "TERZİ MAH (EMİRALİ KÖYÜ)",
-      "YENİ MAH (KIZILCAPINAR KÖYÜ)"
+      "YENİ MAH (KIZILCAPINAR KÖYÜ)",
     ],
-    "GÖKÇEBEY": [
+    GÖKÇEBEY: [
       "ÇARŞI MAH",
       "ÇAY MAH",
       "İSTASYON MAH",
@@ -75325,9 +75325,9 @@
       "YEŞİLKÖY KÖYÜ",
       "YOLCUOĞLU MAH (AKTARLA KÖYÜ)",
       "YUKARI MAH (ALİUSTA KÖYÜ)",
-      "ZAİMOĞLU MAH (NAMAZGAH KÖYÜ)"
+      "ZAİMOĞLU MAH (NAMAZGAH KÖYÜ)",
     ],
-    "KİLİMLİ": [
+    KİLİMLİ: [
       "BELEDİYE SİTESİ MAH",
       "BÖLÜM MAH",
       "ÇAMLIK MAH",
@@ -75365,9 +75365,9 @@
       "MUSTAKİLLER MAH (TÜRKALİ KÖYÜ)",
       "ORUÇLAR MAH (GÖBÜ KÖYÜ)",
       "YENİKÖY MAH (KURTKÖY KÖYÜ)",
-      "YUKARIDERE MAH (TÜRKALİ KÖYÜ)"
+      "YUKARIDERE MAH (TÜRKALİ KÖYÜ)",
     ],
-    "KOZLU": [
+    KOZLU: [
       "19 MAYIS MAH",
       "ESENKÖY MAH",
       "FATİH MAH",
@@ -75425,9 +75425,9 @@
       "YUKARI İHSANİYE MAH (KOZLUKÖY KÖYÜ)",
       "YUKARI MAH (AKŞEYH KÖYÜ)",
       "YUKARI MAH (ÇIRGAN KÖYÜ)",
-      "YUKARI MAH (UZUNGÜNEY KÖYÜ)"
+      "YUKARI MAH (UZUNGÜNEY KÖYÜ)",
     ],
-    "MERKEZ": [
+    MERKEZ: [
       "AHMETLER MAH (HİMMETOĞLU KÖYÜ)",
       "ALİ VELİOĞLU MAH (HACIALİ KÖYÜ)",
       "ALİBÜYÜK MAH (OSMANLI KÖYÜ)",
@@ -75561,7 +75561,7 @@
       "TERAKKİ MAH",
       "YAYLA MAH",
       "YENİ MAH",
-      "YEŞİL MAH"
-    ]
-  }
-}
+      "YEŞİL MAH",
+    ],
+  },
+};
