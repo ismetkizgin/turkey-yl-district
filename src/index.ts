@@ -1,24 +1,51 @@
 import { CityNames, CityPlates, Districts, Neighbourhoods } from "./data";
 
 export function getCityNameAndPlates(): object {
-  return CityPlates;
+  return new Promise((resolve, reject) => {
+    try {
+      resolve(CityPlates);
+    } catch (error) {
+      reject(error);
+    }
+  });
 }
 
 export function getDistrictsName(city: any): object {
-  return (<any>Districts).find((district: any) => {
-    if (district.CityName === city || district.PlatesNo === city) return district;
+  return new Promise((resolve, reject) => {
+    try {
+      (<any>Districts).find((district: any) => {
+        if (district.CityName === city || district.PlatesNo === city)
+          resolve(district);
+      });
+    } catch (error) {
+      reject(error);
+    }
   });
 }
 
 export function getCityName(): object {
-  return CityNames;
+  return new Promise((resolve, reject) => {
+    try {
+      resolve(CityNames);
+    } catch (error) {
+      reject(error);
+    }
+  });
 }
 
 export function getNeighbourhoods(
   cityName: string,
   districtName: string
 ): object {
-  return (<any>Neighbourhoods)[cityName.toLocaleUpperCase("tr-TR")][
-    districtName.toLocaleUpperCase("tr-TR")
-  ];
+  return new Promise((resolve, reject) => {
+    try {
+      resolve(
+        (<any>Neighbourhoods)[cityName.toLocaleUpperCase("tr-TR")][
+          districtName.toLocaleUpperCase("tr-TR")
+        ]
+      );
+    } catch (error) {
+      reject(error);
+    }
+  });
 }
