@@ -12,7 +12,13 @@
     "url": "git+https://github.com/ismetkizgin/turkey-yl-district.git"
   },
   "author": "İsmet Kizgin",
-  "license": "ISC",
+  "license": "Apache",
+  "keywords": [
+    "turkey",
+    "city",
+    "turkey-city",
+    "district"
+  ],
   "bugs": {
     "url": "https://github.com/ismetkizgin/turkey-yl-district/issues"
   },
