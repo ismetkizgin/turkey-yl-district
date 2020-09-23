@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/ismetkizgin/turkey-yl-district/compare/v1.0.2...v1.1.0) (2020-09-23)
+
+
+### Features
+
+* added keyword for package ([91c3c59](https://github.com/ismetkizgin/turkey-yl-district/commit/91c3c59528a4dfed64f28e349f726c85647ec46d))
+* added readme ([a4e9e21](https://github.com/ismetkizgin/turkey-yl-district/commit/a4e9e21848b4c694e9218bc7b3efce9ff0f277c1))
+
 ### [1.0.6](https://github.com/ismetkizgin/turkey-yl-district/compare/v1.0.2...v1.0.6) (2020-09-22)
 
 
