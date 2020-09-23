@@ -47,3 +47,6 @@ const neighborhoodNames = await getNeighbourhoods('Manisa', 'Turgutlu');
 
 ## Useful resources
 * [Changelog](https://github.com/ismetkizgin/turkey-yl-district/blob/master/CHANGELOG.md)
+
+## License
+  [Apache](LICENSE)
